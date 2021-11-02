@@ -259,8 +259,8 @@ def main(nom_vid: str, fecha_vid: str, stream_vid: str, url_vid: str):
     os.rmdir("ts")
     crearTxtProp("./" + dir_vid + "/")
 
-nombre = "Hoy en el menú: Helado de Pelo"
-fecha = "31-08-2021"
-streamer = "jaggerprincesa"
-url_vid = "https://dgeft87wbj63p.cloudfront.net/7a56c4621e7307a629ef_jaggerprincesa_43127224284_1630424269/chunked/index-dvr.m3u8"
+nombre = "El BANCO CENTRAL de CARLO y luego TORTILLALAND!!!"
+fecha = "02-09-2021"
+streamer = "perxitaa"
+url_vid = "https://dgeft87wbj63p.cloudfront.net/3e940aa446579f84c1da_perxitaa_43146563756_1630594879/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
