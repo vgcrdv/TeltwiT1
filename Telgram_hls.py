@@ -259,8 +259,8 @@ def main(nom_vid: str, fecha_vid: str, stream_vid: str, url_vid: str):
     os.rmdir("ts")
     crearTxtProp("./" + dir_vid + "/")
 
-nombre = "El BANCO CENTRAL de CARLO y luego TORTILLALAND!!!"
-fecha = "02-09-2021"
-streamer = "perxitaa"
-url_vid = "https://dgeft87wbj63p.cloudfront.net/3e940aa446579f84c1da_perxitaa_43146563756_1630594879/chunked/index-dvr.m3u8"
+nombre = "CORTÁNDOME EL PELO & TORTILLALAND: EL EJÉRCITO DE LOBOS!"
+fecha = "05-09-2021"
+streamer = "ampeterby7"
+url_vid = "https://dgeft87wbj63p.cloudfront.net/0d4c177012e0e3c51d79_ampeterby7_43178999436_1630871519/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
