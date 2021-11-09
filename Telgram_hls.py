@@ -259,8 +259,20 @@ def main(nom_vid: str, fecha_vid: str, stream_vid: str, url_vid: str):
     os.rmdir("ts")
     crearTxtProp("./" + dir_vid + "/")
 
-nombre = "CORTÁNDOME EL PELO & TORTILLALAND: EL EJÉRCITO DE LOBOS!"
-fecha = "05-09-2021"
-streamer = "ampeterby7"
-url_vid = "https://dgeft87wbj63p.cloudfront.net/0d4c177012e0e3c51d79_ampeterby7_43178999436_1630871519/chunked/index-dvr.m3u8"
+nombre = "Sekiro y TORTILLALAND 👁️👅👁️ - IG: _paracetamor TW: @paracetamor"
+fecha = "09-09-2021"
+streamer = "paracetamor"
+url_vid = "https://dgeft87wbj63p.cloudfront.net/fabca00c81a9418880ef_paracetamor_43211891532_1631191988/chunked/index-dvr.m3u8"
+main(nombre, fecha, streamer, url_vid)
+
+nombre = "(TortillaLand #5) Laberinto de Jagger + ¿Indexer?"
+fecha = "09-09-2021"
+streamer = "menostrece"
+url_vid = "https://dgeft87wbj63p.cloudfront.net/19a0a6c2d77f48603054_menostrece_43212372908_1631196106/chunked/index-dvr.m3u8"
+main(nombre, fecha, streamer, url_vid)
+
+nombre = "TORTILLALAND #22 | PUEBLO GLANDE!! ¿Vendetta?"
+fecha = "09-09-2021"
+streamer = "gtv_genesis"
+url_vid = "https://dgeft87wbj63p.cloudfront.net/096013c1e66020c34d2c_gtv_genesis_43213575532_1631204916/chunked/index-muted-B17ONHXXUP.m3u8"
 main(nombre, fecha, streamer, url_vid)
