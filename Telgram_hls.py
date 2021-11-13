@@ -259,20 +259,20 @@ def main(nom_vid: str, fecha_vid: str, stream_vid: str, url_vid: str):
     os.rmdir("ts")
     crearTxtProp("./" + dir_vid + "/")
 
-nombre = "Sekiro y TORTILLALAND 👁️👅👁️ - IG: _paracetamor TW: @paracetamor"
-fecha = "09-09-2021"
-streamer = "paracetamor"
-url_vid = "https://dgeft87wbj63p.cloudfront.net/fabca00c81a9418880ef_paracetamor_43211891532_1631191988/chunked/index-dvr.m3u8"
+nombre = "ANUNCIO IMPORTANTE AAAA ESTOY EMOCIONADO"
+fecha = "13-09-2021"
+streamer = "xcry"
+url_vid = "https://dgeft87wbj63p.cloudfront.net/e0df406e0a8e756da3cb_xcry_43254121276_1631558896/chunked/index-muted-3SR9ROHY9N.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "(TortillaLand #5) Laberinto de Jagger + ¿Indexer?"
-fecha = "09-09-2021"
-streamer = "menostrece"
-url_vid = "https://dgeft87wbj63p.cloudfront.net/19a0a6c2d77f48603054_menostrece_43212372908_1631196106/chunked/index-dvr.m3u8"
+nombre = "TORTILLALAND #21 - CASITA Y ROLEITOS. !discord !yt !redes"
+fecha = "13-09-2021"
+streamer = "deqiuv"
+url_vid = "https://dgeft87wbj63p.cloudfront.net/096ad1a05386f32dec86_deqiuv_43251098796_1631537451/chunked/index-muted-481XB8BCUS.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "TORTILLALAND #22 | PUEBLO GLANDE!! ¿Vendetta?"
-fecha = "09-09-2021"
-streamer = "gtv_genesis"
-url_vid = "https://dgeft87wbj63p.cloudfront.net/096013c1e66020c34d2c_gtv_genesis_43213575532_1631204916/chunked/index-muted-B17ONHXXUP.m3u8"
+nombre = "STREAMERS REACCIONAN A MI CASA DE TORTILLALAND."
+fecha = "13-09-2021"
+streamer = "ampeterby7"
+url_vid = "https://dgeft87wbj63p.cloudfront.net/a235ee57ff8619781302_ampeterby7_43255798748_1631569156/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
