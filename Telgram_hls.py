@@ -259,20 +259,8 @@ def main(nom_vid: str, fecha_vid: str, stream_vid: str, url_vid: str):
     os.rmdir("ts")
     crearTxtProp("./" + dir_vid + "/")
 
-nombre = "Toy chikita"
+nombre = "TORTILLALAND #22 - COMENZAMOS CON EL HOSPITAL - !discord !yt !redes"
 fecha = "14-09-2021"
-streamer = "mayichi"
-url_vid = "https://dgeft87wbj63p.cloudfront.net/b4123973fc6b04efb4a8_mayichi_43263022380_1631647856/chunked/index-dvr.m3u8"
-main(nombre, fecha, streamer, url_vid)
-
-nombre = "Tortillaland 28: El hospital toma forma"
-fecha = "14-09-2021"
-streamer = "polispol1"
-url_vid = "https://dgeft87wbj63p.cloudfront.net/6a18acdae11336a12eea_polispol1_43263617180_1631651666/chunked/index-dvr.m3u8"
-main(nombre, fecha, streamer, url_vid)
-
-nombre = "STREAMERS REACCIONAN A MI CASA DE TORTILLALAND."
-fecha = "14-09-2021"
-streamer = "ampeterby7"
-url_vid = "https://dgeft87wbj63p.cloudfront.net/c7cd08655a7bc1fe60ba_ampeterby7_43264149788_1631655510/chunked/index-dvr.m3u8"
+streamer = "deqiuv"
+url_vid = "https://dgeft87wbj63p.cloudfront.net/bdf08662e394fd090be3_deqiuv_43260992588_1631635234/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
