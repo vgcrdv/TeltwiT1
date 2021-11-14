@@ -259,20 +259,20 @@ def main(nom_vid: str, fecha_vid: str, stream_vid: str, url_vid: str):
     os.rmdir("ts")
     crearTxtProp("./" + dir_vid + "/")
 
-nombre = "ANUNCIO IMPORTANTE AAAA ESTOY EMOCIONADO"
-fecha = "13-09-2021"
-streamer = "xcry"
-url_vid = "https://dgeft87wbj63p.cloudfront.net/e0df406e0a8e756da3cb_xcry_43254121276_1631558896/chunked/index-muted-3SR9ROHY9N.m3u8"
+nombre = "Toy chikita"
+fecha = "14-09-2021"
+streamer = "mayichi"
+url_vid = "https://dgeft87wbj63p.cloudfront.net/b4123973fc6b04efb4a8_mayichi_43263022380_1631647856/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "TORTILLALAND #21 - CASITA Y ROLEITOS. !discord !yt !redes"
-fecha = "13-09-2021"
-streamer = "deqiuv"
-url_vid = "https://dgeft87wbj63p.cloudfront.net/096ad1a05386f32dec86_deqiuv_43251098796_1631537451/chunked/index-muted-481XB8BCUS.m3u8"
+nombre = "Tortillaland 28: El hospital toma forma"
+fecha = "14-09-2021"
+streamer = "polispol1"
+url_vid = "https://dgeft87wbj63p.cloudfront.net/6a18acdae11336a12eea_polispol1_43263617180_1631651666/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
 nombre = "STREAMERS REACCIONAN A MI CASA DE TORTILLALAND."
-fecha = "13-09-2021"
+fecha = "14-09-2021"
 streamer = "ampeterby7"
-url_vid = "https://dgeft87wbj63p.cloudfront.net/a235ee57ff8619781302_ampeterby7_43255798748_1631569156/chunked/index-dvr.m3u8"
+url_vid = "https://dgeft87wbj63p.cloudfront.net/c7cd08655a7bc1fe60ba_ampeterby7_43264149788_1631655510/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
