@@ -259,32 +259,20 @@ def main(nom_vid: str, fecha_vid: str, stream_vid: str, url_vid: str):
     os.rmdir("ts")
     crearTxtProp("./" + dir_vid + "/")
 
-nombre = "[1] KEEPA EN MARCHA ESE CIRCUIT AMIGO"
-fecha = "16-09-2021_1"
-streamer = "jaggerprincesa"
-url_vid = "https://dgeft87wbj63p.cloudfront.net/b292c348c53028d9916e_jaggerprincesa_43277177052_1631802305/chunked/index-muted-FTWIOJDV2O.m3u8"
+nombre = "HOY ES EL DIA DE LAS TRAVESURAS 😈"
+fecha = "17-09-2021"
+streamer = "xcry"
+url_vid = "https://dgeft87wbj63p.cloudfront.net/0d92dc113cae72740e44_xcry_43289012636_1631908053/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "[2] KEEPA EN MARCHA ESE CIRCUIT AMIGO"
-fecha = "16-09-2021_2"
-streamer = "jaggerprincesa"
-url_vid = "https://dgeft87wbj63p.cloudfront.net/5badb194011e023b62cc_jaggerprincesa_43277259196_1631803020/chunked/index-dvr.m3u8"
+nombre = "TORTILLALAND #25 - NOCTURNO DE CHILL - !discord !yt !redes"
+fecha = "17-09-2021"
+streamer = "deqiuv"
+url_vid = "https://dgeft87wbj63p.cloudfront.net/bf9d8c7deb56edb32f89_deqiuv_43289713980_1631911986/chunked/index-muted-LNNDON7JCB.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "[3] KEEPA EN MARCHA ESE CIRCUIT AMIGO"
-fecha = "16-09-2021_3"
-streamer = "jaggerprincesa"
-url_vid = "https://dgeft87wbj63p.cloudfront.net/a915021e68dbd777d92a_jaggerprincesa_43277275276_1631803163/chunked/index-dvr.m3u8"
-main(nombre, fecha, streamer, url_vid)
-
-nombre = "Tortillaland 30: El hospital está listo?"
-fecha = "16-09-2021"
-streamer = "polispol1"
-url_vid = "https://dgeft87wbj63p.cloudfront.net/3fb1990d5b57a90367bf_polispol1_43280793884_1631824376/chunked/index-dvr.m3u8"
-main(nombre, fecha, streamer, url_vid)
-
-nombre = "VIKTOR VOLKOV | KABAYERO DETENGASE | !NewSkill"
-fecha = "16-09-2021"
-streamer = "momonkunn"
-url_vid = "https://dgeft87wbj63p.cloudfront.net/97c733e832b05f069f9f_momonkunn_43280344380_1631821732/chunked/index-muted-742ZWVTW5U.m3u8"
+nombre = "TORTILLA LAND: Comisaría del Resident Evil 2 con los más épicos"
+fecha = "17-09-2021"
+streamer = "zormanworld"
+url_vid = "https://dgeft87wbj63p.cloudfront.net/3cae74e23d5a5251d5ba_zormanworld_43287421500_1631899112/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
