@@ -259,20 +259,14 @@ def main(nom_vid: str, fecha_vid: str, stream_vid: str, url_vid: str):
     os.rmdir("ts")
     crearTxtProp("./" + dir_vid + "/")
 
-nombre = "HOY ES EL DIA DE LAS TRAVESURAS 😈"
+nombre = "TORTILLALAND  - !nuevovideo 👁️👅👁️ - IG: _paracetamor TW: @paracetamor"
 fecha = "17-09-2021"
-streamer = "xcry"
-url_vid = "https://dgeft87wbj63p.cloudfront.net/0d92dc113cae72740e44_xcry_43289012636_1631908053/chunked/index-dvr.m3u8"
+streamer = "paracetamor"
+url_vid = "https://dgeft87wbj63p.cloudfront.net/bf10f4d30d68b1382fb4_paracetamor_43285439196_1631883765/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "TORTILLALAND #25 - NOCTURNO DE CHILL - !discord !yt !redes"
+nombre = "TortillaLand #28 y un ratele de cod alome"
 fecha = "17-09-2021"
-streamer = "deqiuv"
-url_vid = "https://dgeft87wbj63p.cloudfront.net/bf9d8c7deb56edb32f89_deqiuv_43289713980_1631911986/chunked/index-muted-LNNDON7JCB.m3u8"
-main(nombre, fecha, streamer, url_vid)
-
-nombre = "TORTILLA LAND: Comisaría del Resident Evil 2 con los más épicos"
-fecha = "17-09-2021"
-streamer = "zormanworld"
-url_vid = "https://dgeft87wbj63p.cloudfront.net/3cae74e23d5a5251d5ba_zormanworld_43287421500_1631899112/chunked/index-dvr.m3u8"
+streamer = "axozer"
+url_vid = "https://dgeft87wbj63p.cloudfront.net/ce19718b7e31a59b8c4e_axozer_43286244972_1631890884/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
