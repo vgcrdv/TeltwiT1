@@ -259,8 +259,32 @@ def main(nom_vid: str, fecha_vid: str, stream_vid: str, url_vid: str):
     os.rmdir("ts")
     crearTxtProp("./" + dir_vid + "/")
 
-nombre = "TORTILLALAND #22 - COMENZAMOS CON EL HOSPITAL - !discord !yt !redes"
-fecha = "14-09-2021"
-streamer = "deqiuv"
-url_vid = "https://dgeft87wbj63p.cloudfront.net/bdf08662e394fd090be3_deqiuv_43260992588_1631635234/chunked/index-dvr.m3u8"
+nombre = "[1] KEEPA EN MARCHA ESE CIRCUIT AMIGO"
+fecha = "16-09-2021_1"
+streamer = "jaggerprincesa"
+url_vid = "https://dgeft87wbj63p.cloudfront.net/b292c348c53028d9916e_jaggerprincesa_43277177052_1631802305/chunked/index-muted-FTWIOJDV2O.m3u8"
+main(nombre, fecha, streamer, url_vid)
+
+nombre = "[2] KEEPA EN MARCHA ESE CIRCUIT AMIGO"
+fecha = "16-09-2021_2"
+streamer = "jaggerprincesa"
+url_vid = "https://dgeft87wbj63p.cloudfront.net/5badb194011e023b62cc_jaggerprincesa_43277259196_1631803020/chunked/index-dvr.m3u8"
+main(nombre, fecha, streamer, url_vid)
+
+nombre = "[3] KEEPA EN MARCHA ESE CIRCUIT AMIGO"
+fecha = "16-09-2021_3"
+streamer = "jaggerprincesa"
+url_vid = "https://dgeft87wbj63p.cloudfront.net/a915021e68dbd777d92a_jaggerprincesa_43277275276_1631803163/chunked/index-dvr.m3u8"
+main(nombre, fecha, streamer, url_vid)
+
+nombre = "Tortillaland 30: El hospital está listo?"
+fecha = "16-09-2021"
+streamer = "polispol1"
+url_vid = "https://dgeft87wbj63p.cloudfront.net/3fb1990d5b57a90367bf_polispol1_43280793884_1631824376/chunked/index-dvr.m3u8"
+main(nombre, fecha, streamer, url_vid)
+
+nombre = "VIKTOR VOLKOV | KABAYERO DETENGASE | !NewSkill"
+fecha = "16-09-2021"
+streamer = "momonkunn"
+url_vid = "https://dgeft87wbj63p.cloudfront.net/97c733e832b05f069f9f_momonkunn_43280344380_1631821732/chunked/index-muted-742ZWVTW5U.m3u8"
 main(nombre, fecha, streamer, url_vid)
