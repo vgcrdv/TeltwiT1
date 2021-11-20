@@ -265,12 +265,6 @@ streamer = "paracetamor"
 url_vid = "https://dgeft87wbj63p.cloudfront.net/bf6fce6b4b028ef46f19_paracetamor_43323142940_1632238927/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "[1] TORTILLALAND #27 | ¿Amigo Invisible? !redes !yt !discord"
-fecha = "21-09-2021_1"
-streamer = "deqiuv"
-url_vid = "https://dgeft87wbj63p.cloudfront.net/ce19718b7e31a59b8c4e_axozer_43286244972_1631890884/chunked/index-dvr.m3u8"
-main(nombre, fecha, streamer, url_vid)
-
 nombre = "[2] TORTILLALAND #27 | ¿Amigo Invisible? !redes !yt !discord"
 fecha = "21-09-2021_2"
 streamer = "deqiuv"
