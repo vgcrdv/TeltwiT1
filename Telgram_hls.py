@@ -259,32 +259,14 @@ def main(nom_vid: str, fecha_vid: str, stream_vid: str, url_vid: str):
     os.rmdir("ts")
     crearTxtProp("./" + dir_vid + "/")
 
-nombre = "TORTILLALAND - !nuevovideo 👁️👅👁️ - IG: _paracetamor TW: @paracetamor"
-fecha = "21-09-2021"
-streamer = "paracetamor"
-url_vid = "https://dgeft87wbj63p.cloudfront.net/bf6fce6b4b028ef46f19_paracetamor_43323142940_1632238927/chunked/index-dvr.m3u8"
+nombre = "Tortillaland 36 le hacemos el regalo de amigo invisible a Cristinini y nueva aduana"
+fecha = "22-09-2021"
+streamer = "polispol1"
+url_vid = "https://dgeft87wbj63p.cloudfront.net/96832582264a9dc872db_polispol1_43335181324_1632342844/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "[2] TORTILLALAND #27 | ¿Amigo Invisible? !redes !yt !discord"
-fecha = "21-09-2021_2"
-streamer = "deqiuv"
-url_vid = "https://dgeft87wbj63p.cloudfront.net/578193bc4141750e7545_deqiuv_43322105116_1632229565/chunked/index-dvr.m3u8"
-main(nombre, fecha, streamer, url_vid)
-
-nombre = "[3] TORTILLALAND #27 | ¿Amigo Invisible? !redes !yt !discord"
-fecha = "21-09-2021_3"
-streamer = "deqiuv"
-url_vid = "https://dgeft87wbj63p.cloudfront.net/39b553bea69576b6af89_deqiuv_43322124988_1632229783/chunked/index-dvr.m3u8"
-main(nombre, fecha, streamer, url_vid)
-
-nombre = "[4] TORTILLALAND #27 | ¿Amigo Invisible? !redes !yt !discord"
-fecha = "21-09-2021_4"
-streamer = "deqiuv"
-url_vid = "https://dgeft87wbj63p.cloudfront.net/3acaf338c0b1cc48d46f_deqiuv_43322168076_1632230263/chunked/index-dvr.m3u8"
-main(nombre, fecha, streamer, url_vid)
-
-nombre = "[1] TortillaLand #16 ⛏ | MISIÓN AMIGO INVISIBLE 😏"
-fecha = "21-09-2021"
-streamer = "gemita"
-url_vid = "https://dgeft87wbj63p.cloudfront.net/3c85f59048d2c377469c_gemita_43325260540_1632251471/chunked/index-dvr.m3u8"
+nombre = "TORTILLA LAND: Preparando el AMIGO INVISIBLE"
+fecha = "22-09-2021"
+streamer = "zormanworld"
+url_vid = "https://dgeft87wbj63p.cloudfront.net/2c74a28bba9ef51b17b3_zormanworld_43332914620_1632330240/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
