@@ -259,14 +259,14 @@ def main(nom_vid: str, fecha_vid: str, stream_vid: str, url_vid: str):
     os.rmdir("ts")
     crearTxtProp("./" + dir_vid + "/")
 
-nombre = "Tortillaland 36 le hacemos el regalo de amigo invisible a Cristinini y nueva aduana"
-fecha = "22-09-2021"
-streamer = "polispol1"
-url_vid = "https://dgeft87wbj63p.cloudfront.net/96832582264a9dc872db_polispol1_43335181324_1632342844/chunked/index-dvr.m3u8"
+nombre = "[2] (+230H) ¡SUBATON 1000H! Charlando con Destru LUEGO TFT !gamivo !subaton !video !tortillaland !rol"
+fecha = "25-09-2021"
+streamer = "coolifegame"
+url_vid = "https://dgeft87wbj63p.cloudfront.net/3a1e382809fca0a3d760_coolifegame_43361333820_1632588832/chunked/index-muted-VK5HQ1KP2U.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "TORTILLA LAND: Preparando el AMIGO INVISIBLE"
-fecha = "22-09-2021"
-streamer = "zormanworld"
-url_vid = "https://dgeft87wbj63p.cloudfront.net/2c74a28bba9ef51b17b3_zormanworld_43332914620_1632330240/chunked/index-dvr.m3u8"
+nombre = "+18 [ESP] SABADO DE METAL GEAR NO CONOZCO A NADIE."
+fecha = "25-09-2021"
+streamer = "patodeaqualand"
+url_vid = "https://dgeft87wbj63p.cloudfront.net/37fd0a61bab2e6857032_patodeaqualand_43361570172_1632590098/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
