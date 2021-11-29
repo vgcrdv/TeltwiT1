@@ -259,20 +259,20 @@ def main(nom_vid: str, fecha_vid: str, stream_vid: str, url_vid: str):
     os.rmdir("ts")
     crearTxtProp("./" + dir_vid + "/")
 
-nombre = "holi - !sorteo !nuevovideo 👁️👅👁️ - IG: _paracetamor TW: @paracetamor"
-fecha = "28-09-2021"
-streamer = "paracetamor"
-url_vid = "https://dgeft87wbj63p.cloudfront.net/1c9d50bd77f034cae599_paracetamor_43388875436_1632843691/chunked/index-dvr.m3u8"
+nombre = "💀🔥 VUELVE EL GREFG DE 2016, LOS MEJORES ZOMBIES DE LA HISTORIA 🔥💀"
+fecha = "29-09-2021"
+streamer = "thegrefg"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/fb757700bfd34473d440_thegrefg_43400461132_1632949244/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "🔴 DECORAMOS DE CHILLS Y CONTRUIMOS POR FIN LA CASA DE RUPERTA?? | TORTILLALAND #30"
-fecha = "28-09-2021"
-streamer = "violetag"
-url_vid = "https://dgeft87wbj63p.cloudfront.net/a9ce8cd9ffb78fbaef81_violetag_43388524012_1632841124/chunked/index-dvr.m3u8"
+nombre = "[1] TORTILLALAND #5 VAMOS A POR RECURSOS! | CÓDIGO D3STRI | !redes !video"
+fecha = "29-09-2021"
+streamer = "d3stri"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/ca459ea574d33278f779_d3stri_43400953100_1632953076/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "VARIEDAN'T Y TORTILLALAND"
-fecha = "28-09-2021"
-streamer = "karchez"
-url_vid = "https://dgeft87wbj63p.cloudfront.net/37bbbb5bfc108d1e4a66_karchez_43390272412_1632852189/chunked/index-dvr.m3u8"
+nombre = "TortillaLand #21 💎⛏ | ESPECIAL 12H ✨"
+fecha = "29-09-2021"
+streamer = "gemita"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/d7d41932970ba6e6fa97_gemita_43395632220_1632909788/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
