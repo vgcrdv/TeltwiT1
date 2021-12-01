@@ -259,20 +259,20 @@ def main(nom_vid: str, fecha_vid: str, stream_vid: str, url_vid: str):
     os.rmdir("ts")
     crearTxtProp("./" + dir_vid + "/")
 
-nombre = "💀🔥 VUELVE EL GREFG DE 2016, LOS MEJORES ZOMBIES DE LA HISTORIA 🔥💀"
-fecha = "29-09-2021"
-streamer = "thegrefg"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/fb757700bfd34473d440_thegrefg_43400461132_1632949244/chunked/index-dvr.m3u8"
+nombre = "TORTILLALAND #37 | #IBAIALCALDE"
+fecha = "01-10-2021"
+streamer = "ibai"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/0ad0581a6fad90967f17_ibai_43413131484_1633095145/chunked/index-muted-TDJOQ6ZCQZ.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "[1] TORTILLALAND #5 VAMOS A POR RECURSOS! | CÓDIGO D3STRI | !redes !video"
-fecha = "29-09-2021"
-streamer = "d3stri"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/ca459ea574d33278f779_d3stri_43400953100_1632953076/chunked/index-dvr.m3u8"
+nombre = "(GSS #3) Objetivo Gasolinera A TOPE"
+fecha = "01-10-2021"
+streamer = "menostrece"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/4eefdf99ade36d4176e7_menostrece_43413379948_1633097310/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "TortillaLand #21 💎⛏ | ESPECIAL 12H ✨"
-fecha = "29-09-2021"
-streamer = "gemita"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/d7d41932970ba6e6fa97_gemita_43395632220_1632909788/chunked/index-dvr.m3u8"
+nombre = "Alertas de sub de Halloween 🎃 | Me gustaría ganar alguna partida Riot, muchas gracias"
+fecha = "01-10-2021"
+streamer = "sugussusana"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/b10919ecdcb629fa72f3_sugussusana_43412030428_1633078689/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
