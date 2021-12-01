@@ -271,8 +271,8 @@ streamer = "menostrece"
 url_vid = "https://d1ymi26ma8va5x.cloudfront.net/4eefdf99ade36d4176e7_menostrece_43413379948_1633097310/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "Alertas de sub de Halloween 🎃 | Me gustaría ganar alguna partida Riot, muchas gracias"
+nombre = "TortillaLand | La era del Mono y después"
 fecha = "01-10-2021"
-streamer = "sugussusana"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/b10919ecdcb629fa72f3_sugussusana_43412030428_1633078689/chunked/index-dvr.m3u8"
+streamer = "karchez"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/82b510e92a1cda8dc49a_karchez_43415504604_1633111382/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
