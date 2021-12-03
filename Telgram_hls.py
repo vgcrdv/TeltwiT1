@@ -259,20 +259,20 @@ def main(nom_vid: str, fecha_vid: str, stream_vid: str, url_vid: str):
     os.rmdir("ts")
     crearTxtProp("./" + dir_vid + "/")
 
-nombre = "JUEGO DEL CALAMAR CON STREAMERS "
-fecha = "02-10-2021"
-streamer = "xcry"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/bcf33ef5f2d183d2aa1a_xcry_43428342492_1633215556/chunked/index-dvr.m3u8"
+nombre = "TORTILLALAND #38 | LAS ELECCIONES #IBAIALCALDE"
+fecha = "03-10-2021"
+streamer = "ibai"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/0633ae2c82d62839bd9f_ibai_43433599772_1633273463/chunked/index-muted-IC0FPMJXHU.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "Tortillaland 46: El vikingo se cabrea."
-fecha = "02-10-2021"
-streamer = "polispol1"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/dcdd312442ec68c0592d_polispol1_43427136636_1633206909/chunked/index-dvr.m3u8"
+nombre = "[1] TortillaLand #41 | Las elecciones."
+fecha = "03-10-2021"
+streamer = "axozer"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/55167207d4a64c8e7122_axozer_43434146108_1633276942/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "TORTILLALAND #8 HOY NOS VAMOS DE EXPLORACION!! | CÓDIGO D3STRI | !redes !video"
-fecha = "02-10-2021"
-streamer = "d3stri"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/d9a021991a656273fa5c_d3stri_43427540140_1633209479/chunked/index-dvr.m3u8"
+nombre = "GANANDO COPAS EVERYWHERE || !redes !WOWS !sorteo <- para ganar 100€"
+fecha = "03-10-2021"
+streamer = "imantado"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/3712a36937f42a5f3908_imantado_43432238300_1633263799/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
