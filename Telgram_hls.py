@@ -259,20 +259,20 @@ def main(nom_vid: str, fecha_vid: str, stream_vid: str, url_vid: str):
     os.rmdir("ts")
     crearTxtProp("./" + dir_vid + "/")
 
-nombre = "¿Se han caído Whatsapp e Instagram? Tortillaland #39 NO. 8 MILLONES DE SEGUIDORES."
+nombre = "😱 ¿UN NUEVO INTEGRANTE EN TORTILLALAND? 😱 No tienes WhatsApp, Instagram ni Facebook pero tienes este directo 💙"
 fecha = "04-10-2021"
-streamer = "ibai"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/15b9864a8d733558cc96_ibai_43443511708_1633372833/chunked/index-muted-GMMIE83X1Z.m3u8"
+streamer = "thegrefg"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/ef69b97d221f9e61b9a2_thegrefg_43442625580_1633367259/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "TortillaLand #16 | ¿HOY TERMINO MI CASA?"
+nombre = "🔴 NUEVAS MISIONES, NUEVAS MASCOTAS Y NUEVOS AVANCES EN NUESTRO CASTILLO!! SE VIENE TARDE COMPLETITA!!! | TORTILLALAND #33"
 fecha = "04-10-2021"
-streamer = "8cho"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/f99737d5116c5a3b29ee_8cho_43441241244_1633356028/chunked/index-dvr.m3u8"
+streamer = "violetag"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/d49a8cef1e4f2e48bf6b_violetag_43441555596_1633359153/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "TORTILLA: No pudo ser la alcaldía | Octubre = Vida nueva"
+nombre = "A POR LAS 5.000 🏆 | TortillaLand #25 💎⛏ "
 fecha = "04-10-2021"
-streamer = "zormanworld"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/e919977cf59f9b7253fa_zormanworld_43442980396_1633369661/chunked/index-dvr.m3u8"
+streamer = "gemita"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/83747e16fc1792c974fc_gemita_43440874140_1633351889/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
