@@ -259,20 +259,20 @@ def main(nom_vid: str, fecha_vid: str, stream_vid: str, url_vid: str):
     os.rmdir("ts")
     crearTxtProp("./" + dir_vid + "/")
 
-nombre = "TORTILLALAND #38 | LAS ELECCIONES #IBAIALCALDE"
-fecha = "03-10-2021"
+nombre = "¿Se han caído Whatsapp e Instagram? Tortillaland #39 NO. 8 MILLONES DE SEGUIDORES."
+fecha = "04-10-2021"
 streamer = "ibai"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/0633ae2c82d62839bd9f_ibai_43433599772_1633273463/chunked/index-muted-IC0FPMJXHU.m3u8"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/15b9864a8d733558cc96_ibai_43443511708_1633372833/chunked/index-muted-GMMIE83X1Z.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "[1] TortillaLand #41 | Las elecciones."
-fecha = "03-10-2021"
-streamer = "axozer"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/55167207d4a64c8e7122_axozer_43434146108_1633276942/chunked/index-dvr.m3u8"
+nombre = "TortillaLand #16 | ¿HOY TERMINO MI CASA?"
+fecha = "04-10-2021"
+streamer = "8cho"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/f99737d5116c5a3b29ee_8cho_43441241244_1633356028/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "GANANDO COPAS EVERYWHERE || !redes !WOWS !sorteo <- para ganar 100€"
-fecha = "03-10-2021"
-streamer = "imantado"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/3712a36937f42a5f3908_imantado_43432238300_1633263799/chunked/index-dvr.m3u8"
+nombre = "TORTILLA: No pudo ser la alcaldía | Octubre = Vida nueva"
+fecha = "04-10-2021"
+streamer = "zormanworld"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/e919977cf59f9b7253fa_zormanworld_43442980396_1633369661/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
