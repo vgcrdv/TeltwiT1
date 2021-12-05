@@ -259,20 +259,20 @@ def main(nom_vid: str, fecha_vid: str, stream_vid: str, url_vid: str):
     os.rmdir("ts")
     crearTxtProp("./" + dir_vid + "/")
 
-nombre = "😱🔥 LA INVOCACIÓN DEL NUEVO INTEGRANTE DE TORTILLALAND 🔥😱"
-fecha = "05-10-2021"
-streamer = "thegrefg"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/a78445c4aa0075bf4077_thegrefg_43449565964_1633446022/chunked/index-dvr.m3u8"
+nombre = "RENASE TRAS RESTRUCTU"
+fecha = "06-10-2021"
+streamer = "jaggerprincesa"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/a8b9b6f8da35d79edc82_jaggerprincesa_43460689980_1633548771/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "TortillaLand #36 | ¿Nos darán el título de fiscal? | !redes !discord !yt"
-fecha = "05-10-2021"
-streamer = "deqiuv"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/2d6834c957dfe0e5a570_deqiuv_43448783996_1633438260/chunked/index-dvr.m3u8"
+nombre = "🔴 TERMINAMOS EL BANCO POR FUERA, AVANZAMOS EN NUESTRO CIRCUITO Y DESPUÉS...COSITAS!!!!! | TORTILLALAND #35"
+fecha = "06-10-2021"
+streamer = "violetag"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/8d663ce234eee4773d70_violetag_43457852908_1633531986/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "Viktor Volkov | SÓLO ES TRABAJO | !NewSkill"
-fecha = "05-10-2021"
-streamer = "momonkunn"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/967cb27aad83aad211b3_momonkunn_43451148316_1633457267/chunked/index-dvr.m3u8"
+nombre = "REACCIONANDO A COSAS VARIAS 😜 | #PELAZOFRUCTIS #ad"
+fecha = "06-10-2021"
+streamer = "gemita"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/d599c2ece688f7551d08_gemita_43457091996_1633525208/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
