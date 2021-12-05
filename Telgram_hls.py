@@ -259,20 +259,20 @@ def main(nom_vid: str, fecha_vid: str, stream_vid: str, url_vid: str):
     os.rmdir("ts")
     crearTxtProp("./" + dir_vid + "/")
 
-nombre = "😱 ¿UN NUEVO INTEGRANTE EN TORTILLALAND? 😱 No tienes WhatsApp, Instagram ni Facebook pero tienes este directo 💙"
-fecha = "04-10-2021"
+nombre = "😱🔥 LA INVOCACIÓN DEL NUEVO INTEGRANTE DE TORTILLALAND 🔥😱"
+fecha = "05-10-2021"
 streamer = "thegrefg"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/ef69b97d221f9e61b9a2_thegrefg_43442625580_1633367259/chunked/index-dvr.m3u8"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/a78445c4aa0075bf4077_thegrefg_43449565964_1633446022/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "🔴 NUEVAS MISIONES, NUEVAS MASCOTAS Y NUEVOS AVANCES EN NUESTRO CASTILLO!! SE VIENE TARDE COMPLETITA!!! | TORTILLALAND #33"
-fecha = "04-10-2021"
-streamer = "violetag"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/d49a8cef1e4f2e48bf6b_violetag_43441555596_1633359153/chunked/index-dvr.m3u8"
+nombre = "TortillaLand #36 | ¿Nos darán el título de fiscal? | !redes !discord !yt"
+fecha = "05-10-2021"
+streamer = "deqiuv"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/2d6834c957dfe0e5a570_deqiuv_43448783996_1633438260/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "A POR LAS 5.000 🏆 | TortillaLand #25 💎⛏ "
-fecha = "04-10-2021"
-streamer = "gemita"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/83747e16fc1792c974fc_gemita_43440874140_1633351889/chunked/index-dvr.m3u8"
+nombre = "Viktor Volkov | SÓLO ES TRABAJO | !NewSkill"
+fecha = "05-10-2021"
+streamer = "momonkunn"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/967cb27aad83aad211b3_momonkunn_43451148316_1633457267/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
