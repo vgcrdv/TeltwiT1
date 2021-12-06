@@ -259,20 +259,26 @@ def main(nom_vid: str, fecha_vid: str, stream_vid: str, url_vid: str):
     os.rmdir("ts")
     crearTxtProp("./" + dir_vid + "/")
 
-nombre = "RENASE TRAS RESTRUCTU"
+nombre = "TortillaLand #45 || Un ratito de Tortilla y después otro ratito de FarCry 6"
 fecha = "06-10-2021"
-streamer = "jaggerprincesa"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/a8b9b6f8da35d79edc82_jaggerprincesa_43460689980_1633548771/chunked/index-dvr.m3u8"
+streamer = "auronplay"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/b97b454fcbbe2b76f9b4_auronplay_43457837612_1633531861/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "🔴 TERMINAMOS EL BANCO POR FUERA, AVANZAMOS EN NUESTRO CIRCUITO Y DESPUÉS...COSITAS!!!!! | TORTILLALAND #35"
-fecha = "06-10-2021"
-streamer = "violetag"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/8d663ce234eee4773d70_violetag_43457852908_1633531986/chunked/index-dvr.m3u8"
+nombre = "TORTILLALAND #41 - BIYÍN CUBITO SE CONVIERTE EN SANTA CLAUS"
+fecha = "07-10-2021_1"
+streamer = "biyin_"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/8e81061a90a28f39c97f_biyin__43468447324_1633631372/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "REACCIONANDO A COSAS VARIAS 😜 | #PELAZOFRUCTIS #ad"
-fecha = "06-10-2021"
-streamer = "gemita"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/d599c2ece688f7551d08_gemita_43457091996_1633525208/chunked/index-dvr.m3u8"
+nombre = "FAR CRY 6 !FC6 #PATROCINADO"
+fecha = "07-10-2021_2"
+streamer = "biyin_"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/0b9f929f74130a642323_biyin__43469820380_1633639794/chunked/index-dvr.m3u8"
+main(nombre, fecha, streamer, url_vid)
+
+nombre = "+18 [ESP] TortillaLand - TERMINAMOS EL FERROCARRIL"
+fecha = "07-10-2021"
+streamer = "patodeaqualand"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/e5566fb5de0510b08ccb_patodeaqualand_43467899740_1633628015/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
