@@ -259,20 +259,20 @@ def main(nom_vid: str, fecha_vid: str, stream_vid: str, url_vid: str):
     os.rmdir("ts")
     crearTxtProp("./" + dir_vid + "/")
 
-nombre = "7/10💔Vidas | Tortillaland - TERMINANDO MI CASA AL 100% Y LUEGO VARIEDAD Kappa"
+nombre = "TORTILLALAND🔶Mayichi 🐱Eres Bienvenid@💜"
 fecha = "09-10-2021"
-streamer = "rubius"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/0f289fba377377caa147_rubius_43485956668_1633800660/chunked/index-dvr.m3u8"
+streamer = "mayichi"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/372839f34be83e251cc8_mayichi_43487820316_1633811108/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "Chris Collins | BLINDADO | InfamesRP"
+nombre = "(FAR CRY 6 #3) Caos, bugs y explosiones GGWP"
 fecha = "09-10-2021"
-streamer = "desst3"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/24b45345c49bd168432d_desst3_43485691308_1633799046/chunked/index-muted-8M8M67B26S.m3u8"
+streamer = "menostrece"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/c1a59b401abf2219f691_menostrece_43484140508_1633788692/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "ESTOY DE VUELTA UN STREAM CORTITO DE TORTILLALAND :3"
+nombre = "🥘 TORTILLALAND 🥘 #52 Terminamos la nueva casa y luego vemos que hacemos"
 fecha = "10-10-2021"
-streamer = "lakshartnia"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/bfa0ff3f73c9798cd7a9_lakshartnia_43495706796_1633888091/chunked/index-dvr.m3u8"
+streamer = "tanizen"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/440c112d6d102d6b7fd6_tanizen_43493812556_1633876168/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
