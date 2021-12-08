@@ -259,20 +259,20 @@ def main(nom_vid: str, fecha_vid: str, stream_vid: str, url_vid: str):
     os.rmdir("ts")
     crearTxtProp("./" + dir_vid + "/")
 
-nombre = "Tortillaland - !nuevovideo 👁️👅👁️ - IG: _paracetamor TW: @paracetamor"
-fecha = "07-10-2021"
-streamer = "paracetamor"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/eb9361aa4e5011da6e00_paracetamor_43467739852_1633626950/chunked/index-dvr.m3u8"
+nombre = "7/10💔Vidas | Tortillaland - TERMINANDO MI CASA AL 100% Y LUEGO VARIEDAD Kappa"
+fecha = "09-10-2021"
+streamer = "rubius"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/0f289fba377377caa147_rubius_43485956668_1633800660/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "+18 INFAMES RP 🍀KANE BRADY 🍀 ❗retos ❗redes ❗pj"
-fecha = "07-10-2021"
-streamer = "elperitaafk"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/53a6dfb84eb0538cae6b_elperitaafk_43470156044_1633642190/chunked/index-dvr.m3u8"
+nombre = "Chris Collins | BLINDADO | InfamesRP"
+fecha = "09-10-2021"
+streamer = "desst3"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/24b45345c49bd168432d_desst3_43485691308_1633799046/chunked/index-muted-8M8M67B26S.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "JUGANDO CON SUBS A FORTNITE 😊"
-fecha = "07-10-2021"
-streamer = "gemita"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/d3558eb6303bf7267928_gemita_43469796348_1633639627/chunked/index-dvr.m3u8"
+nombre = "ESTOY DE VUELTA UN STREAM CORTITO DE TORTILLALAND :3"
+fecha = "10-10-2021"
+streamer = "lakshartnia"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/bfa0ff3f73c9798cd7a9_lakshartnia_43495706796_1633888091/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
