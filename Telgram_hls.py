@@ -259,20 +259,20 @@ def main(nom_vid: str, fecha_vid: str, stream_vid: str, url_vid: str):
     os.rmdir("ts")
     crearTxtProp("./" + dir_vid + "/")
 
-nombre = "TORTILLALAND🔶Mayichi 🐱Eres Bienvenid@💜"
-fecha = "09-10-2021"
-streamer = "mayichi"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/372839f34be83e251cc8_mayichi_43487820316_1633811108/chunked/index-dvr.m3u8"
+nombre = "🔞TortillaLand #57 | Un Día Mas | !YouTube"
+fecha = "11-10-2021"
+streamer = "xxxthefocusxxx"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/63c642605d73c815b1ce_xxxthefocusxxx_43501693500_1633959350/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "(FAR CRY 6 #3) Caos, bugs y explosiones GGWP"
-fecha = "09-10-2021"
-streamer = "menostrece"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/c1a59b401abf2219f691_menostrece_43484140508_1633788692/chunked/index-dvr.m3u8"
+nombre = "PRACTICANDO PARA EL TORNEO || !redes !tempest"
+fecha = "11-10-2021"
+streamer = "imantado"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/3dd32ff9248b04e1e75a_imantado_43501317868_1633954879/chunked/index-muted-RW3Z4GY4P9.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "🥘 TORTILLALAND 🥘 #52 Terminamos la nueva casa y luego vemos que hacemos"
-fecha = "10-10-2021"
-streamer = "tanizen"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/440c112d6d102d6b7fd6_tanizen_43493812556_1633876168/chunked/index-dvr.m3u8"
+nombre = "TORTILLALAND #16 | NUEVO OBJETO Y NUEVA MISION!! | CÓDIGO D3STRI | !redes"
+fecha = "11-10-2021"
+streamer = "d3stri"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/81cea96d3dbccc98cd66_d3stri_43505217772_1633982646/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
