@@ -259,20 +259,20 @@ def main(nom_vid: str, fecha_vid: str, stream_vid: str, url_vid: str):
     os.rmdir("ts")
     crearTxtProp("./" + dir_vid + "/")
 
-nombre = "🔞TortillaLand #57 | Un Día Mas | !YouTube"
+nombre = "TORTILLALAND #43 + ROBLOX EL JUEGO DEL RUBIUS"
 fecha = "11-10-2021"
-streamer = "xxxthefocusxxx"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/63c642605d73c815b1ce_xxxthefocusxxx_43501693500_1633959350/chunked/index-dvr.m3u8"
+streamer = "ibai"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/9be6f19822cbd9411c99_ibai_43504393292_1633978160/chunked/index-muted-WJ9RQZSW2G.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "PRACTICANDO PARA EL TORNEO || !redes !tempest"
+nombre = "🔴 RECOGEMOS NUESTRA RECOMPENSA, OS ENSEÑO EL AVANCE DE NUESTRO CIRCUITO Y TARDE HACIENDO COSITAS CON LA BONITA DE NIA!!! | TORTILLALAND #38"
 fecha = "11-10-2021"
-streamer = "imantado"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/3dd32ff9248b04e1e75a_imantado_43501317868_1633954879/chunked/index-muted-RW3Z4GY4P9.m3u8"
+streamer = "violetag"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/d1bfb78a98c9c44d9537_violetag_43502220044_1633964171/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "TORTILLALAND #16 | NUEVO OBJETO Y NUEVA MISION!! | CÓDIGO D3STRI | !redes"
-fecha = "11-10-2021"
-streamer = "d3stri"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/81cea96d3dbccc98cd66_d3stri_43505217772_1633982646/chunked/index-dvr.m3u8"
+nombre = "HE VUELTO TortillaLand y el Juego del Calamar"
+fecha = "12-10-2021"
+streamer = "karchez"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/e6651a77a859ffb451c3_karchez_43512100588_1634061571/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
