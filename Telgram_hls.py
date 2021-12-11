@@ -259,20 +259,20 @@ def main(nom_vid: str, fecha_vid: str, stream_vid: str, url_vid: str):
     os.rmdir("ts")
     crearTxtProp("./" + dir_vid + "/")
 
-nombre = "WORLDS 2021 - DÍA 2 - FASE DE GRUPOS - EMPIEZA LO BUENO"
+nombre = "🔞TortillaLand #58 | Las Calabazas | !YouTube"
 fecha = "12-10-2021"
-streamer = "ibai"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/063b92e33f92db85e84c_ibai_43509199500_1634034306/chunked/index-dvr.m3u8"
+streamer = "xxxthefocusxxx"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/48e6ba1c7bb8f2fd3ba6_xxxthefocusxxx_43509898780_1634044216/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "Tortillaland 55: Camino a halloween"
-fecha = "12-10-2021"
-streamer = "polispol1"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/59585f2c6f3bdb7348fe_polispol1_43513612252_1634070754/chunked/index-dvr.m3u8"
+nombre = "JUGADOR 105 DEL TORNEO JUEGO DEL CALAMAR DE RUBIUS.  y luego TortillaLand #42. !redes !discord !yt"
+fecha = "13-10-2021"
+streamer = "deqiuv"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/ca2dfe3bc0c919806e74_deqiuv_43519543948_1634144297/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "+18 [ESP] TortillaLand - Seguimos con el jeloguis"
-fecha = "12-10-2021"
-streamer = "patodeaqualand"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/a092bcb85469ecb7187d_patodeaqualand_43519960860_1634147019/chunked/index-dvr.m3u8"
+nombre = "UNOS DUOS DE CHILL Y LUEGO TORTILLALAND!!| CÓDIGO D3STRI | !redes"
+fecha = "13-10-2021"
+streamer = "d3stri"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/99857c9dd4333beda89a_d3stri_43521608828_1634156458/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
