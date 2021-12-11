@@ -259,20 +259,20 @@ def main(nom_vid: str, fecha_vid: str, stream_vid: str, url_vid: str):
     os.rmdir("ts")
     crearTxtProp("./" + dir_vid + "/")
 
-nombre = "TORTILLALAND #43 + ROBLOX EL JUEGO DEL RUBIUS"
-fecha = "11-10-2021"
-streamer = "ibai"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/9be6f19822cbd9411c99_ibai_43504393292_1633978160/chunked/index-muted-WJ9RQZSW2G.m3u8"
-main(nombre, fecha, streamer, url_vid)
-
-nombre = "🔴 RECOGEMOS NUESTRA RECOMPENSA, OS ENSEÑO EL AVANCE DE NUESTRO CIRCUITO Y TARDE HACIENDO COSITAS CON LA BONITA DE NIA!!! | TORTILLALAND #38"
-fecha = "11-10-2021"
-streamer = "violetag"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/d1bfb78a98c9c44d9537_violetag_43502220044_1633964171/chunked/index-dvr.m3u8"
-main(nombre, fecha, streamer, url_vid)
-
-nombre = "HE VUELTO TortillaLand y el Juego del Calamar"
+nombre = "WORLDS 2021 - DÍA 2 - FASE DE GRUPOS - EMPIEZA LO BUENO"
 fecha = "12-10-2021"
-streamer = "karchez"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/e6651a77a859ffb451c3_karchez_43512100588_1634061571/chunked/index-dvr.m3u8"
+streamer = "ibai"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/063b92e33f92db85e84c_ibai_43509199500_1634034306/chunked/index-dvr.m3u8"
+main(nombre, fecha, streamer, url_vid)
+
+nombre = "Tortillaland 55: Camino a halloween"
+fecha = "12-10-2021"
+streamer = "polispol1"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/59585f2c6f3bdb7348fe_polispol1_43513612252_1634070754/chunked/index-dvr.m3u8"
+main(nombre, fecha, streamer, url_vid)
+
+nombre = "+18 [ESP] TortillaLand - Seguimos con el jeloguis"
+fecha = "12-10-2021"
+streamer = "patodeaqualand"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/a092bcb85469ecb7187d_patodeaqualand_43519960860_1634147019/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
