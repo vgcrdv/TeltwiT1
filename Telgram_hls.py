@@ -259,20 +259,20 @@ def main(nom_vid: str, fecha_vid: str, stream_vid: str, url_vid: str):
     os.rmdir("ts")
     crearTxtProp("./" + dir_vid + "/")
 
-nombre = "BUENAS TARDES - !nuevovideo 👁️👅👁️ - IG: _paracetamor TW: @paracetamor"
-fecha = "12-10-2021"
+nombre = "EL JUEGO DEL CALAMAR - 👁️👅👁️ - IG: @_paracetamor"
+fecha = "13-10-2021"
 streamer = "paracetamor"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/74ab6a10c85cdf07f31a_paracetamor_43511078060_1634054700/chunked/index-dvr.m3u8"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/8893df4f5ec76373ded2_paracetamor_43519894556_1634146571/chunked/index-muted-WM5XPT4MUR.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "TORNEO del Juego del Calamar - !corsair !evad !pampling"
+nombre = "Tortillaland 56: Pesadilla antes de halloween en TortillaLand. "
 fecha = "13-10-2021"
-streamer = "luh"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/a225eb81582c12ae3a85_luh_43519609004_1634144654/chunked/index-dvr.m3u8"
+streamer = "polispol1"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/0cef2537052eeb0443e6_polispol1_43521697116_1634157072/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "MI CASA HA HECHO BOOM + MIRADOR + HALLOWEEN TORTILLALAND"
+nombre = "CHICO TRAVIESO EN TORTILLALAND & LUEGO EL JUEGO DEL CALAMAR."
 fecha = "13-10-2021"
-streamer = "lakshartnia"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/573be423c37ccf76c167_lakshartnia_43526817964_1634224923/chunked/index-dvr.m3u8"
+streamer = "ampeterby7"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/9577db076b06508d7454_ampeterby7_43518115404_1634132391/chunked/index-muted-77DRIGRBGG.m3u8"
 main(nombre, fecha, streamer, url_vid)
