@@ -259,20 +259,20 @@ def main(nom_vid: str, fecha_vid: str, stream_vid: str, url_vid: str):
     os.rmdir("ts")
     crearTxtProp("./" + dir_vid + "/")
 
-nombre = "🔞TortillaLand #58 | Las Calabazas | !YouTube"
+nombre = "BUENAS TARDES - !nuevovideo 👁️👅👁️ - IG: _paracetamor TW: @paracetamor"
 fecha = "12-10-2021"
-streamer = "xxxthefocusxxx"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/48e6ba1c7bb8f2fd3ba6_xxxthefocusxxx_43509898780_1634044216/chunked/index-dvr.m3u8"
+streamer = "paracetamor"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/74ab6a10c85cdf07f31a_paracetamor_43511078060_1634054700/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "JUGADOR 105 DEL TORNEO JUEGO DEL CALAMAR DE RUBIUS.  y luego TortillaLand #42. !redes !discord !yt"
+nombre = "TORNEO del Juego del Calamar - !corsair !evad !pampling"
 fecha = "13-10-2021"
-streamer = "deqiuv"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/ca2dfe3bc0c919806e74_deqiuv_43519543948_1634144297/chunked/index-dvr.m3u8"
+streamer = "luh"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/a225eb81582c12ae3a85_luh_43519609004_1634144654/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "UNOS DUOS DE CHILL Y LUEGO TORTILLALAND!!| CÓDIGO D3STRI | !redes"
+nombre = "MI CASA HA HECHO BOOM + MIRADOR + HALLOWEEN TORTILLALAND"
 fecha = "13-10-2021"
-streamer = "d3stri"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/99857c9dd4333beda89a_d3stri_43521608828_1634156458/chunked/index-dvr.m3u8"
+streamer = "lakshartnia"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/573be423c37ccf76c167_lakshartnia_43526817964_1634224923/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
