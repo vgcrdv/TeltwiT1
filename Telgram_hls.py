@@ -259,20 +259,26 @@ def main(nom_vid: str, fecha_vid: str, stream_vid: str, url_vid: str):
     os.rmdir("ts")
     crearTxtProp("./" + dir_vid + "/")
 
-nombre = "EL JUEGO DEL CALAMAR - 👁️👅👁️ - IG: @_paracetamor"
-fecha = "13-10-2021"
-streamer = "paracetamor"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/8893df4f5ec76373ded2_paracetamor_43519894556_1634146571/chunked/index-muted-WM5XPT4MUR.m3u8"
+nombre = "🔴 A tu lado bb ✨ !libro | !prime !sub | +18 | Follow @IamCristinini | Follow @IamCristinini"
+fecha = "14-10-2021"
+streamer = "iamcristinini"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/d00853548bd65ac623e9_iamcristinini_43526074668_1634217441/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "Tortillaland 56: Pesadilla antes de halloween en TortillaLand. "
-fecha = "13-10-2021"
-streamer = "polispol1"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/0cef2537052eeb0443e6_polispol1_43521697116_1634157072/chunked/index-dvr.m3u8"
+nombre = "UN POQUITO DE MINA Y UN POQUITO DE CRAFTO- LOS DOS GEMELOS QUE HAN LLEGADO HASTA AQUÍ"
+fecha = "14-10-2021"
+streamer = "jaggerprincesa"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/f777319fc73bf2e688e0_jaggerprincesa_43526530412_1634222373/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "CHICO TRAVIESO EN TORTILLALAND & LUEGO EL JUEGO DEL CALAMAR."
-fecha = "13-10-2021"
-streamer = "ampeterby7"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/9577db076b06508d7454_ampeterby7_43518115404_1634132391/chunked/index-muted-77DRIGRBGG.m3u8"
+nombre = "+18 INFAMES RP 🍀KANE BRADY 🍀 ❗retos ❗redes ❗pj"
+fecha = "14-10-2021"
+streamer = "elperitaafk"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/00d5e924613d86b207f0_elperitaafk_43530412380_1634250648/chunked/index-dvr.m3u8"
+main(nombre, fecha, streamer, url_vid)
+
+nombre = "HOY MINI TORNEO DE MINECRAFT Y DESPUÉS MÁS COSITAS uwuwuuwuwuwuw 😏"
+fecha = "15-10-2021"
+streamer = "javidmr10"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/1029967cda61f9763864_javidmr10_43539353916_1634341216/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
