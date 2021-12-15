@@ -259,26 +259,20 @@ def main(nom_vid: str, fecha_vid: str, stream_vid: str, url_vid: str):
     os.rmdir("ts")
     crearTxtProp("./" + dir_vid + "/")
 
-nombre = "🦑 EL MEJOR MAPA DEL JUEGO DEL CALAMAR 🦑 DESPUÉS AURON, GREFG Y 8CHO VS JUAN, MARIANA Y LUZU."
+nombre = "Tortillaland y lo que surja 👁️👅👁️ !nuevovideo - IG: @_paracetamor TW: @paracetamor"
 fecha = "15-10-2021"
-streamer = "thegrefg"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/b330ab2df8274370c995_thegrefg_43535658716_1634317996/chunked/index-dvr.m3u8"
+streamer = "paracetamor"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/36055145412e4e961d44_paracetamor_43533844620_1634303556/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "Ibai me ha cobrado 200 euros por stremear. Pásalo."
-fecha = "15-10-2021"
-streamer = "illojuan"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/ffe9c0a270e865a2516d_illojuan_43535960524_1634319988/chunked/index-dvr.m3u8"
-main(nombre, fecha, streamer, url_vid)
-
-nombre = "GANANDO CORONITAS || !redes !tempest"
-fecha = "15-10-2021"
-streamer = "imantado"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/0592230301336b46fe8a_imantado_43533611596_1634300888/chunked/index-dvr.m3u8"
-main(nombre, fecha, streamer, url_vid)
-
-nombre = "(!sorteo) Farmeando super chill | Alertas de sub de Halloween 🎃 "
+nombre = "TORTILLA LAND - Terminamos el Stavkirke."
 fecha = "16-10-2021"
-streamer = "sugussusana"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/8be4013cd314bf1db944_sugussusana_43545341612_1634403892/chunked/index-dvr.m3u8"
+streamer = "carola"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/983d66af88c6e2e57c29_carola_43545391484_1634404197/chunked/index-dvr.m3u8"
+main(nombre, fecha, streamer, url_vid)
+
+nombre = "+18 [ESP] SABADO DE METAL GEAR SOLID, NO CONOSCO A NADIE."
+fecha = "16-10-2021"
+streamer = "patodeaqualand"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/46f1e07857f876a2a312_patodeaqualand_43545401740_1634404262/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
