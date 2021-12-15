@@ -259,26 +259,26 @@ def main(nom_vid: str, fecha_vid: str, stream_vid: str, url_vid: str):
     os.rmdir("ts")
     crearTxtProp("./" + dir_vid + "/")
 
-nombre = "🔴 A tu lado bb ✨ !libro | !prime !sub | +18 | Follow @IamCristinini | Follow @IamCristinini"
-fecha = "14-10-2021"
-streamer = "iamcristinini"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/d00853548bd65ac623e9_iamcristinini_43526074668_1634217441/chunked/index-dvr.m3u8"
-main(nombre, fecha, streamer, url_vid)
-
-nombre = "UN POQUITO DE MINA Y UN POQUITO DE CRAFTO- LOS DOS GEMELOS QUE HAN LLEGADO HASTA AQUÍ"
-fecha = "14-10-2021"
-streamer = "jaggerprincesa"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/f777319fc73bf2e688e0_jaggerprincesa_43526530412_1634222373/chunked/index-dvr.m3u8"
-main(nombre, fecha, streamer, url_vid)
-
-nombre = "+18 INFAMES RP 🍀KANE BRADY 🍀 ❗retos ❗redes ❗pj"
-fecha = "14-10-2021"
-streamer = "elperitaafk"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/00d5e924613d86b207f0_elperitaafk_43530412380_1634250648/chunked/index-dvr.m3u8"
-main(nombre, fecha, streamer, url_vid)
-
-nombre = "HOY MINI TORNEO DE MINECRAFT Y DESPUÉS MÁS COSITAS uwuwuuwuwuwuw 😏"
+nombre = "🦑 EL MEJOR MAPA DEL JUEGO DEL CALAMAR 🦑 DESPUÉS AURON, GREFG Y 8CHO VS JUAN, MARIANA Y LUZU."
 fecha = "15-10-2021"
-streamer = "javidmr10"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/1029967cda61f9763864_javidmr10_43539353916_1634341216/chunked/index-dvr.m3u8"
+streamer = "thegrefg"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/b330ab2df8274370c995_thegrefg_43535658716_1634317996/chunked/index-dvr.m3u8"
+main(nombre, fecha, streamer, url_vid)
+
+nombre = "Ibai me ha cobrado 200 euros por stremear. Pásalo."
+fecha = "15-10-2021"
+streamer = "illojuan"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/ffe9c0a270e865a2516d_illojuan_43535960524_1634319988/chunked/index-dvr.m3u8"
+main(nombre, fecha, streamer, url_vid)
+
+nombre = "GANANDO CORONITAS || !redes !tempest"
+fecha = "15-10-2021"
+streamer = "imantado"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/0592230301336b46fe8a_imantado_43533611596_1634300888/chunked/index-dvr.m3u8"
+main(nombre, fecha, streamer, url_vid)
+
+nombre = "(!sorteo) Farmeando super chill | Alertas de sub de Halloween 🎃 "
+fecha = "16-10-2021"
+streamer = "sugussusana"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/8be4013cd314bf1db944_sugussusana_43545341612_1634403892/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
