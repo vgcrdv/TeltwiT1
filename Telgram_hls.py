@@ -259,20 +259,26 @@ def main(nom_vid: str, fecha_vid: str, stream_vid: str, url_vid: str):
     os.rmdir("ts")
     crearTxtProp("./" + dir_vid + "/")
 
-nombre = "Tortillaland y lo que surja 👁️👅👁️ !nuevovideo - IG: @_paracetamor TW: @paracetamor"
-fecha = "15-10-2021"
-streamer = "paracetamor"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/36055145412e4e961d44_paracetamor_43533844620_1634303556/chunked/index-dvr.m3u8"
+nombre = "🔴 TORTILLALAND - Tu alcaldesa favorita bb ✨ !libro | !prime !sub | +18 | Follow @IamCristinini | Follow @IamCristinini"
+fecha = "16-10-2021_1"
+streamer = "iamcristinini"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/2521a837a38c18dcf7d4_iamcristinini_43543748060_1634393054/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "TORTILLA LAND - Terminamos el Stavkirke."
-fecha = "16-10-2021"
-streamer = "carola"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/983d66af88c6e2e57c29_carola_43545391484_1634404197/chunked/index-dvr.m3u8"
+nombre = "🔴 TortillaLand ✨ !libro | !prime !sub | +18 | Follow @IamCristinini | Follow @IamCristinini"
+fecha = "16-10-2021_2"
+streamer = "iamcristinini"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/76e8902e4d68ca978b4a_iamcristinini_43546044956_1634408026/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "+18 [ESP] SABADO DE METAL GEAR SOLID, NO CONOSCO A NADIE."
+nombre = "TORTILLALAND #45 + REACCIONANDO + !SORTEO"
+fecha = "17-10-2021"
+streamer = "biyin_"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/c6fbd3799da1e37563ec_biyin__43552861404_1634476529/chunked/index-dvr.m3u8"
+main(nombre, fecha, streamer, url_vid)
+
+nombre = "TORTAZO AL HATER DE TORTILLALAND POR CADA 5 SUBS ( ͡° ͜ʖ ͡°)"
 fecha = "16-10-2021"
-streamer = "patodeaqualand"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/46f1e07857f876a2a312_patodeaqualand_43545401740_1634404262/chunked/index-dvr.m3u8"
+streamer = "ampeterby7"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/a657f2038e29bbf3b3d9_ampeterby7_43548447676_1634422789/chunked/index-muted-SF5UVG6A5G.m3u8"
 main(nombre, fecha, streamer, url_vid)
