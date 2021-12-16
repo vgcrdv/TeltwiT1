@@ -259,26 +259,20 @@ def main(nom_vid: str, fecha_vid: str, stream_vid: str, url_vid: str):
     os.rmdir("ts")
     crearTxtProp("./" + dir_vid + "/")
 
-nombre = "🔴 TORTILLALAND - Tu alcaldesa favorita bb ✨ !libro | !prime !sub | +18 | Follow @IamCristinini | Follow @IamCristinini"
-fecha = "16-10-2021_1"
-streamer = "iamcristinini"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/2521a837a38c18dcf7d4_iamcristinini_43543748060_1634393054/chunked/index-dvr.m3u8"
-main(nombre, fecha, streamer, url_vid)
-
-nombre = "🔴 TortillaLand ✨ !libro | !prime !sub | +18 | Follow @IamCristinini | Follow @IamCristinini"
-fecha = "16-10-2021_2"
-streamer = "iamcristinini"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/76e8902e4d68ca978b4a_iamcristinini_43546044956_1634408026/chunked/index-dvr.m3u8"
-main(nombre, fecha, streamer, url_vid)
-
-nombre = "TORTILLALAND #45 + REACCIONANDO + !SORTEO"
+nombre = "5/10💔Vidas | Tortillaland EVENTO DE LA ISLA OSCURA"
 fecha = "17-10-2021"
-streamer = "biyin_"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/c6fbd3799da1e37563ec_biyin__43552861404_1634476529/chunked/index-dvr.m3u8"
+streamer = "rubius"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/71f6047408ba2d040d5b_rubius_43554299308_1634486719/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "TORTAZO AL HATER DE TORTILLALAND POR CADA 5 SUBS ( ͡° ͜ʖ ͡°)"
-fecha = "16-10-2021"
-streamer = "ampeterby7"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/a657f2038e29bbf3b3d9_ampeterby7_43548447676_1634422789/chunked/index-muted-SF5UVG6A5G.m3u8"
+nombre = "TortillaLand - EVENTO LA ISLA OSCURA - Explanada. !redes !discord !yt"
+fecha = "17-10-2021"
+streamer = "deqiuv"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/3d0fc1f6260436383b4b_deqiuv_43554525100_1634488168/chunked/index-dvr.m3u8"
+main(nombre, fecha, streamer, url_vid)
+
+nombre = "TORTILLA: NUEVA HIPERCONSTRUCCIÓN + ZORLÁNTIDA"
+fecha = "18-10-2021"
+streamer = "zormanworld"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/f0b6880ccf9eac782494_zormanworld_43562504844_1634576012/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
