@@ -265,10 +265,10 @@ streamer = "rubius"
 url_vid = "https://d1ymi26ma8va5x.cloudfront.net/71f6047408ba2d040d5b_rubius_43554299308_1634486719/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "TortillaLand - EVENTO LA ISLA OSCURA - Explanada. !redes !discord !yt"
+nombre = "Tortillaland 58: Evento especial Tortillaland!"
 fecha = "17-10-2021"
-streamer = "deqiuv"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/3d0fc1f6260436383b4b_deqiuv_43554525100_1634488168/chunked/index-dvr.m3u8"
+streamer = "polispol1"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/bcd10d5dcadd7b241d89_polispol1_43554660652_1634489047/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
 nombre = "TORTILLA: NUEVA HIPERCONSTRUCCIÓN + ZORLÁNTIDA"
