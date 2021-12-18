@@ -259,20 +259,32 @@ def main(nom_vid: str, fecha_vid: str, stream_vid: str, url_vid: str):
     os.rmdir("ts")
     crearTxtProp("./" + dir_vid + "/")
 
-nombre = "5/10💔Vidas | Tortillaland EVENTO DE LA ISLA OSCURA"
-fecha = "17-10-2021"
-streamer = "rubius"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/71f6047408ba2d040d5b_rubius_43554299308_1634486719/chunked/index-dvr.m3u8"
-main(nombre, fecha, streamer, url_vid)
-
-nombre = "Tortillaland 58: Evento especial Tortillaland!"
-fecha = "17-10-2021"
-streamer = "polispol1"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/bcd10d5dcadd7b241d89_polispol1_43554660652_1634489047/chunked/index-dvr.m3u8"
-main(nombre, fecha, streamer, url_vid)
-
-nombre = "TORTILLA: NUEVA HIPERCONSTRUCCIÓN + ZORLÁNTIDA"
+nombre = "🔞 TortillaLand #64 | Terrible | !YouTube"
 fecha = "18-10-2021"
-streamer = "zormanworld"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/f0b6880ccf9eac782494_zormanworld_43562504844_1634576012/chunked/index-dvr.m3u8"
+streamer = "xxxthefocusxxx"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/7b6c6b090c78e212cfb0_xxxthefocusxxx_43561085100_1634563522/chunked/index-dvr.m3u8"
+main(nombre, fecha, streamer, url_vid)
+
+nombre = "TORTILLALAND #21 MIS COFRESIIIIITOS"
+fecha = "18-10-2021"
+streamer = "luzu"
+url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/5403069f726349395caa_luzu_44117963629_1634563678/chunked/index-muted-3NJXTQGDM1.m3u8"
+main(nombre, fecha, streamer, url_vid)
+
+nombre = "TERROR Y LUEGO A LA NOCHE TERROR CON GENTE FEA || !redes !tempest"
+fecha = "18-10-2021_1"
+streamer = "imantado"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/c88d072953ad2986db57_imantado_43561112492_1634563833/chunked/index-dvr.m3u8"
+main(nombre, fecha, streamer, url_vid)
+
+nombre = "TERROR CON PERSONAS CLOWNS || !redes !tempest"
+fecha = "18-10-2021_2"
+streamer = "imantado"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/d03c837e1555b40dea54_imantado_43564592220_1634588520/chunked/index-dvr.m3u8"
+main(nombre, fecha, streamer, url_vid)
+
+nombre = "(!sorteo) Rankeds solaQ hasta que empiecen los mundiales | Alertas de sub de Halloween 🎃 "
+fecha = "19-10-2021"
+streamer = "sugussusana"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/86c6d42c958cd65d8b6f_sugussusana_43568042684_1634631057/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
