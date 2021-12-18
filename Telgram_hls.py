@@ -259,32 +259,26 @@ def main(nom_vid: str, fecha_vid: str, stream_vid: str, url_vid: str):
     os.rmdir("ts")
     crearTxtProp("./" + dir_vid + "/")
 
-nombre = "🔞 TortillaLand #64 | Terrible | !YouTube"
-fecha = "18-10-2021"
-streamer = "xxxthefocusxxx"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/7b6c6b090c78e212cfb0_xxxthefocusxxx_43561085100_1634563522/chunked/index-dvr.m3u8"
+nombre = "[1] TORTILLALAND DÍA 50, UNBOXING, IRL y PUBG MOBILE 👻"
+fecha = "19-10-2021_1"
+streamer = "juansguarnizo"
+url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/b60873aaea8ad575109f_juansguarnizo_44130554605_1634662700/chunked/index-muted-25G72BZK28.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "TORTILLALAND #21 MIS COFRESIIIIITOS"
-fecha = "18-10-2021"
-streamer = "luzu"
-url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/5403069f726349395caa_luzu_44117963629_1634563678/chunked/index-muted-3NJXTQGDM1.m3u8"
+nombre = "[2] TORTILLALAND DÍA 50, UNBOXING, IRL y PUBG MOBILE 👻"
+fecha = "19-10-2021_2"
+streamer = "juansguarnizo"
+url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/2b15bbd365b188d22899_juansguarnizo_44133194381_1634680409/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "TERROR Y LUEGO A LA NOCHE TERROR CON GENTE FEA || !redes !tempest"
-fecha = "18-10-2021_1"
-streamer = "imantado"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/c88d072953ad2986db57_imantado_43561112492_1634563833/chunked/index-dvr.m3u8"
-main(nombre, fecha, streamer, url_vid)
-
-nombre = "TERROR CON PERSONAS CLOWNS || !redes !tempest"
-fecha = "18-10-2021_2"
-streamer = "imantado"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/d03c837e1555b40dea54_imantado_43564592220_1634588520/chunked/index-dvr.m3u8"
-main(nombre, fecha, streamer, url_vid)
-
-nombre = "(!sorteo) Rankeds solaQ hasta que empiecen los mundiales | Alertas de sub de Halloween 🎃 "
+nombre = "TORTILLITA GUAPA"
 fecha = "19-10-2021"
-streamer = "sugussusana"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/86c6d42c958cd65d8b6f_sugussusana_43568042684_1634631057/chunked/index-dvr.m3u8"
+streamer = "carola"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/badbe9b75286963536cd_carola_43569921500_1634657875/chunked/index-dvr.m3u8"
+main(nombre, fecha, streamer, url_vid)
+
+nombre = "TORTILLA: UNA NUEVA GIGA-CONSTRUCCIÓN DEMONÍACA"
+fecha = "19-10-2021"
+streamer = "zormanworld"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/689b8a03d6d8be853cca_zormanworld_43570788364_1634664011/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
