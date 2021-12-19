@@ -259,26 +259,20 @@ def main(nom_vid: str, fecha_vid: str, stream_vid: str, url_vid: str):
     os.rmdir("ts")
     crearTxtProp("./" + dir_vid + "/")
 
-nombre = "[1] TORTILLALAND DÍA 50, UNBOXING, IRL y PUBG MOBILE 👻"
-fecha = "19-10-2021_1"
-streamer = "juansguarnizo"
-url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/b60873aaea8ad575109f_juansguarnizo_44130554605_1634662700/chunked/index-muted-25G72BZK28.m3u8"
-main(nombre, fecha, streamer, url_vid)
-
-nombre = "[2] TORTILLALAND DÍA 50, UNBOXING, IRL y PUBG MOBILE 👻"
-fecha = "19-10-2021_2"
-streamer = "juansguarnizo"
-url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/2b15bbd365b188d22899_juansguarnizo_44133194381_1634680409/chunked/index-dvr.m3u8"
-main(nombre, fecha, streamer, url_vid)
-
-nombre = "TORTILLITA GUAPA"
+nombre = "🏆🦑 EL TORNEO HUMILDE DEL JUEGO DEL CALAMAR *PARTICIPANTES Y FECHA* 🦑🏆"
 fecha = "19-10-2021"
-streamer = "carola"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/badbe9b75286963536cd_carola_43569921500_1634657875/chunked/index-dvr.m3u8"
+streamer = "thegrefg"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/8be2d489d27c8698bcfc_thegrefg_43571539884_1634668695/chunked/index-muted-WHVXY38ZJC.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "TORTILLA: UNA NUEVA GIGA-CONSTRUCCIÓN DEMONÍACA"
+nombre = "🔴 CHARLAMOS, OS CUENTO UNA COSITA, CONTINUAMOS CON LA DECORACIÓN DE HALLOWEEN Y CONSTRUIMOS NUESTRO CEMENTERIO!! TORTILLALAND #43"
 fecha = "19-10-2021"
-streamer = "zormanworld"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/689b8a03d6d8be853cca_zormanworld_43570788364_1634664011/chunked/index-dvr.m3u8"
+streamer = "violetag"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/be1d415995e3842de495_violetag_43569642012_1634655512/chunked/index-dvr.m3u8"
+main(nombre, fecha, streamer, url_vid)
+
+nombre = "+18 [ESP] TortillaLand - Aportemos algo al castillo"
+fecha = "20-10-2021"
+streamer = "patodeaqualand"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/396091be2ce15864108f_patodeaqualand_43578695564_1634748433/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
