@@ -259,20 +259,20 @@ def main(nom_vid: str, fecha_vid: str, stream_vid: str, url_vid: str):
     os.rmdir("ts")
     crearTxtProp("./" + dir_vid + "/")
 
-nombre = "🔴 !libro HA SALIDO MI LIBRO✨| !prime !sub | +18 | Follow @IamCristinini | Follow @IamCristinini"
-fecha = "21-10-2021"
-streamer = "iamcristinini"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/fbd7c29808d9900fe5cd_iamcristinini_43586460108_1634832318/chunked/index-dvr.m3u8"
+nombre = "WORLDS 2021 - CUARTOS DE FINAL - RNG vs EDG"
+fecha = "23-10-2021"
+streamer = "ibai"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/7ddc1fbfb0710320c995_ibai_43602524652_1634988326/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "TORTILLITA GUAPA otro día más la verdad la vida es un completo misterio desconocido y por conocer la verdad"
-fecha = "21-10-2021"
-streamer = "carola"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/cf7ab5795acbccb497e6_carola_43586574060_1634833209/chunked/index-dvr.m3u8"
-main(nombre, fecha, streamer, url_vid)
-
-nombre = "Viktor Volkov | ASUNTOS FEDERALES | !NewSkill"
+nombre = "TortillaLand - Castillo Embrujado - !redes !discord !yt"
 fecha = "22-10-2021"
-streamer = "momonkunn"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/d9d7eb46fe1f8476ec20_momonkunn_43595031052_1634920598/chunked/index-muted-C66TZAVJVZ.m3u8"
+streamer = "deqiuv"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/0ea499b92dde894d6129_deqiuv_43595825660_1634925571/chunked/index-dvr.m3u8"
+main(nombre, fecha, streamer, url_vid)
+
+nombre = "(+910H) ¡SUBATÓN 1.000 HORAS EN DIRECTO! COMEMOS CON LA BRONZA !gamivo !DESCUENTO !granini !subaton !horas !video !rol !tortillaland"
+fecha = "23-10-2021"
+streamer = "coolifegame"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/78f239b15befee04e022_coolifegame_43603501308_1634997151/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
