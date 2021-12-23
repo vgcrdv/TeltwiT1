@@ -259,20 +259,20 @@ def main(nom_vid: str, fecha_vid: str, stream_vid: str, url_vid: str):
     os.rmdir("ts")
     crearTxtProp("./" + dir_vid + "/")
 
-nombre = "WORLDS 2021 - CUARTOS DE FINAL - RNG vs EDG"
+nombre = "🏆⛏ TORNEO MINECRAFT "DEDSAFÍO" CON NIMUVT, BARCA Y D3STRI ⛏🏆"
 fecha = "23-10-2021"
-streamer = "ibai"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/7ddc1fbfb0710320c995_ibai_43602524652_1634988326/chunked/index-dvr.m3u8"
+streamer = "thegrefg"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/77da6995fa1536fea2e1_thegrefg_43608128348_1635025499/chunked/index-muted-7ZMIGNJHMG.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "TortillaLand - Castillo Embrujado - !redes !discord !yt"
-fecha = "22-10-2021"
-streamer = "deqiuv"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/0ea499b92dde894d6129_deqiuv_43595825660_1634925571/chunked/index-dvr.m3u8"
+nombre = "Tortillaland 63: Hoy si que si ACABAMOS EL DICHOSO CASTILLO DE TORTILLALAND"
+fecha = "23-10-2021"
+streamer = "polispol1"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/e53f097d1d9f1413927d_polispol1_43607466764_1635021208/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "(+910H) ¡SUBATÓN 1.000 HORAS EN DIRECTO! COMEMOS CON LA BRONZA !gamivo !DESCUENTO !granini !subaton !horas !video !rol !tortillaland"
+nombre = "EVENTO DE JAWELLIN EN discord.gg/JavisCrew y después quizás STREAMMMMSDAKMDKA"
 fecha = "23-10-2021"
-streamer = "coolifegame"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/78f239b15befee04e022_coolifegame_43603501308_1634997151/chunked/index-dvr.m3u8"
+streamer = "javidmr10"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/b0a996f31fccb2e314dd_javidmr10_43608803740_1635030541/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
