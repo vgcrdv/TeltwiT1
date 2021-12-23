@@ -259,7 +259,7 @@ def main(nom_vid: str, fecha_vid: str, stream_vid: str, url_vid: str):
     os.rmdir("ts")
     crearTxtProp("./" + dir_vid + "/")
 
-nombre = "🏆⛏ TORNEO MINECRAFT "DEDSAFÍO" CON NIMUVT, BARCA Y D3STRI ⛏🏆"
+nombre = '🏆⛏ TORNEO MINECRAFT "DEDSAFÍO" CON NIMUVT, BARCA Y D3STRI ⛏🏆'
 fecha = "23-10-2021"
 streamer = "thegrefg"
 url_vid = "https://d1ymi26ma8va5x.cloudfront.net/77da6995fa1536fea2e1_thegrefg_43608128348_1635025499/chunked/index-muted-7ZMIGNJHMG.m3u8"
