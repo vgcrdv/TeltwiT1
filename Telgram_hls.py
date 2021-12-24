@@ -259,20 +259,26 @@ def main(nom_vid: str, fecha_vid: str, stream_vid: str, url_vid: str):
     os.rmdir("ts")
     crearTxtProp("./" + dir_vid + "/")
 
-nombre = '😱🏆 REACCIONANDO A LA FINAL DE LA FNCS Y CLASH ROYALE 🏆😱'
-fecha = "24-10-2021"
-streamer = "thegrefg"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/949e743c2ea739ebaca6_thegrefg_43616360380_1635102527/chunked/index-muted-GYBC4RZ548.m3u8"
+nombre = '🔞 TortillaLand #71 | Nueva Misión  | !YouTube'
+fecha = "25-10-2021"
+streamer = "xxxthefocusxxx"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/6f502af45c92411a2e35_xxxthefocusxxx_43621518876_1635166831/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "Entrega de premios con Vuelta al Cole con Minecraft #MinecraftMadrid - !corsair !evad !pampling"
-fecha = "24-10-2021"
-streamer = "luh"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/6cf6605c68bb9818d8c4_luh_43614458092_1635091855/chunked/index-dvr.m3u8"
+nombre = "🎃 MÁS TERROR QUE TU CARA DE GARBANZO || !redes !tempest !sustos"
+fecha = "25-10-2021"
+streamer = "imantado"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/21e6c67d2c7c2b527ba6_imantado_43621408316_1635165626/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "TORTILLALAND +18 | Hoy se decide todo!!"
-fecha = "24-10-2021"
-streamer = "gtv_genesis"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/0e8f4d2365c009a6bcb4_gtv_genesis_43614140908_1635089820/chunked/index-muted-LUVW5ZJTNF.m3u8"
+nombre = "IRL + Guardianes de la Galaxia"
+fecha = "25-10-2021"
+streamer = "menostrece"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/c48d4f4472262c4da683_menostrece_43621886892_1635170493/chunked/index-dvr.m3u8"
+main(nombre, fecha, streamer, url_vid)
+
+nombre = "HE IDO AL MEDICO ESTA MAÑANA Y.. "
+fecha = "25-10-2021"
+streamer = "ampeterby7"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/f6ea3743e5b8f808bd47_ampeterby7_43621826044_1635169973/chunked/index-muted-Y8UUCKIHQT.m3u8"
 main(nombre, fecha, streamer, url_vid)
