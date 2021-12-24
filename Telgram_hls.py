@@ -259,20 +259,20 @@ def main(nom_vid: str, fecha_vid: str, stream_vid: str, url_vid: str):
     os.rmdir("ts")
     crearTxtProp("./" + dir_vid + "/")
 
-nombre = '🏆⛏ TORNEO MINECRAFT "DEDSAFÍO" CON NIMUVT, BARCA Y D3STRI ⛏🏆'
-fecha = "23-10-2021"
+nombre = '😱🏆 REACCIONANDO A LA FINAL DE LA FNCS Y CLASH ROYALE 🏆😱'
+fecha = "24-10-2021"
 streamer = "thegrefg"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/77da6995fa1536fea2e1_thegrefg_43608128348_1635025499/chunked/index-muted-7ZMIGNJHMG.m3u8"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/949e743c2ea739ebaca6_thegrefg_43616360380_1635102527/chunked/index-muted-GYBC4RZ548.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "Tortillaland 63: Hoy si que si ACABAMOS EL DICHOSO CASTILLO DE TORTILLALAND"
-fecha = "23-10-2021"
-streamer = "polispol1"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/e53f097d1d9f1413927d_polispol1_43607466764_1635021208/chunked/index-dvr.m3u8"
+nombre = "Entrega de premios con Vuelta al Cole con Minecraft #MinecraftMadrid - !corsair !evad !pampling"
+fecha = "24-10-2021"
+streamer = "luh"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/6cf6605c68bb9818d8c4_luh_43614458092_1635091855/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "EVENTO DE JAWELLIN EN discord.gg/JavisCrew y después quizás STREAMMMMSDAKMDKA"
-fecha = "23-10-2021"
-streamer = "javidmr10"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/b0a996f31fccb2e314dd_javidmr10_43608803740_1635030541/chunked/index-dvr.m3u8"
+nombre = "TORTILLALAND +18 | Hoy se decide todo!!"
+fecha = "24-10-2021"
+streamer = "gtv_genesis"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/0e8f4d2365c009a6bcb4_gtv_genesis_43614140908_1635089820/chunked/index-muted-LUVW5ZJTNF.m3u8"
 main(nombre, fecha, streamer, url_vid)
