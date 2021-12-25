@@ -259,26 +259,20 @@ def main(nom_vid: str, fecha_vid: str, stream_vid: str, url_vid: str):
     os.rmdir("ts")
     crearTxtProp("./" + dir_vid + "/")
 
-nombre = '🔞 TortillaLand #71 | Nueva Misión  | !YouTube'
-fecha = "25-10-2021"
-streamer = "xxxthefocusxxx"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/6f502af45c92411a2e35_xxxthefocusxxx_43621518876_1635166831/chunked/index-dvr.m3u8"
+nombre = 'HORACIO TESTIMONIO en GTA V Roleplay!!!'
+fecha = "26-10-2021"
+streamer = "perxitaa"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/53df3cf03137eaf26f58_perxitaa_43631001532_1635260542/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "🎃 MÁS TERROR QUE TU CARA DE GARBANZO || !redes !tempest !sustos"
-fecha = "25-10-2021"
-streamer = "imantado"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/21e6c67d2c7c2b527ba6_imantado_43621408316_1635165626/chunked/index-dvr.m3u8"
+nombre = "TORTILLALAND #25 UNA MISIÓN EXTREMA"
+fecha = "26-10-2021"
+streamer = "luzu"
+url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/bd6e055448a17df30595_luzu_44209552957_1635252484/chunked/index-muted-9HTGQL33ZQ.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "IRL + Guardianes de la Galaxia"
-fecha = "25-10-2021"
-streamer = "menostrece"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/c48d4f4472262c4da683_menostrece_43621886892_1635170493/chunked/index-dvr.m3u8"
-main(nombre, fecha, streamer, url_vid)
-
-nombre = "HE IDO AL MEDICO ESTA MAÑANA Y.. "
-fecha = "25-10-2021"
-streamer = "ampeterby7"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/f6ea3743e5b8f808bd47_ampeterby7_43621826044_1635169973/chunked/index-muted-Y8UUCKIHQT.m3u8"
+nombre = "TORTILLA: FARMEO LAND + Empezamos JUEGAZO de TERROR"
+fecha = "26-10-2021"
+streamer = "zormanworld"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/032204f625d5a696504f_zormanworld_43632319532_1635269919/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
