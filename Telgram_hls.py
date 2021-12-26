@@ -259,20 +259,20 @@ def main(nom_vid: str, fecha_vid: str, stream_vid: str, url_vid: str):
     os.rmdir("ts")
     crearTxtProp("./" + dir_vid + "/")
 
-nombre = 'HORACIO TESTIMONIO en GTA V Roleplay!!!'
+nombre = 'VACACIONES EN IRAK - House of Ashes Completo ft. ISAM 😔'
 fecha = "26-10-2021"
-streamer = "perxitaa"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/53df3cf03137eaf26f58_perxitaa_43631001532_1635260542/chunked/index-dvr.m3u8"
+streamer = "illojuan"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/e49faa232eaddf249dc4_illojuan_43632362908_1635270209/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "TORTILLALAND #25 UNA MISIÓN EXTREMA"
+nombre = "🎃 MÁS TERROR QUE VERTE FUERA DEL ZOO || !redes !tempest !sustos"
 fecha = "26-10-2021"
-streamer = "luzu"
-url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/bd6e055448a17df30595_luzu_44209552957_1635252484/chunked/index-muted-9HTGQL33ZQ.m3u8"
+streamer = "imantado"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/f212169a3d2dcc362103_imantado_43630105132_1635251876/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "TORTILLA: FARMEO LAND + Empezamos JUEGAZO de TERROR"
+nombre = "DIRECTO VARIADO 😜  | #PandoraMe #Publi | !objetivo"
 fecha = "26-10-2021"
-streamer = "zormanworld"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/032204f625d5a696504f_zormanworld_43632319532_1635269919/chunked/index-dvr.m3u8"
+streamer = "gemita"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/ea9f640b5a9a75c24bd9_gemita_43630398364_1635254965/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
