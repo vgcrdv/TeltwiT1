@@ -259,20 +259,20 @@ def main(nom_vid: str, fecha_vid: str, stream_vid: str, url_vid: str):
     os.rmdir("ts")
     crearTxtProp("./" + dir_vid + "/")
 
-nombre = 'VACACIONES EN IRAK - House of Ashes Completo ft. ISAM 😔'
-fecha = "26-10-2021"
-streamer = "illojuan"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/e49faa232eaddf249dc4_illojuan_43632362908_1635270209/chunked/index-dvr.m3u8"
+nombre = '😱🔥 JUGANDO LA GRAN ACTUALIZACIÓN DE CLASH ROYALE (NIVEL 14, CAMPEONES...) 🔥😱'
+fecha = "27-10-2021"
+streamer = "thegrefg"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/e843937cacb2923a0525_thegrefg_43642662396_1635364105/chunked/index-muted-7J87143C1Q.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "🎃 MÁS TERROR QUE VERTE FUERA DEL ZOO || !redes !tempest !sustos"
-fecha = "26-10-2021"
+nombre = "🎃 MÁS TERROR QUE VOLVER DE LA PLAYA QUEMADO || !redes !tempest !sustos"
+fecha = "27-10-2021"
 streamer = "imantado"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/f212169a3d2dcc362103_imantado_43630105132_1635251876/chunked/index-dvr.m3u8"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/7e7104a2bfb1adf3d387_imantado_43639003868_1635338242/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "DIRECTO VARIADO 😜  | #PandoraMe #Publi | !objetivo"
-fecha = "26-10-2021"
-streamer = "gemita"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/ea9f640b5a9a75c24bd9_gemita_43630398364_1635254965/chunked/index-dvr.m3u8"
+nombre = "TORTILLA: MADERA Y CHULETAS"
+fecha = "27-10-2021"
+streamer = "zormanworld"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/88dbbcb86749d78abd68_zormanworld_43642201020_1635361563/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
