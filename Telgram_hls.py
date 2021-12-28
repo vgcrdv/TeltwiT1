@@ -259,20 +259,20 @@ def main(nom_vid: str, fecha_vid: str, stream_vid: str, url_vid: str):
     os.rmdir("ts")
     crearTxtProp("./" + dir_vid + "/")
 
-nombre = '😱🔥 JUGANDO LA GRAN ACTUALIZACIÓN DE CLASH ROYALE (NIVEL 14, CAMPEONES...) 🔥😱'
-fecha = "27-10-2021"
-streamer = "thegrefg"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/e843937cacb2923a0525_thegrefg_43642662396_1635364105/chunked/index-muted-7J87143C1Q.m3u8"
+nombre = 'ENTRENAMIENTO FBI y luego con AXO en GTA V Roleplay!!!'
+fecha = "28-10-2021"
+streamer = "perxitaa"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/20f74028f12b22c4670c_perxitaa_43648479388_1635431694/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "🎃 MÁS TERROR QUE VOLVER DE LA PLAYA QUEMADO || !redes !tempest !sustos"
-fecha = "27-10-2021"
-streamer = "imantado"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/7e7104a2bfb1adf3d387_imantado_43639003868_1635338242/chunked/index-dvr.m3u8"
+nombre = "💥TORTILLALAND +18💥 Tenemos que acabar la casa #3 ❗redes ❗retos"
+fecha = "28-10-2021"
+streamer = "elperitaafk"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/21bdb73ce0d943e10631_elperitaafk_43649934012_1635442317/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "TORTILLA: MADERA Y CHULETAS"
-fecha = "27-10-2021"
+nombre = "DR. ZORMAN: EL HOMBRE QUE SUSURRABA A LOS CERDOS"
+fecha = "28-10-2021"
 streamer = "zormanworld"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/88dbbcb86749d78abd68_zormanworld_43642201020_1635361563/chunked/index-dvr.m3u8"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/3d3dee625b92981e269f_zormanworld_43649688076_1635440661/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
