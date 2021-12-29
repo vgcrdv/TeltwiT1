@@ -259,26 +259,20 @@ def main(nom_vid: str, fecha_vid: str, stream_vid: str, url_vid: str):
     os.rmdir("ts")
     crearTxtProp("./" + dir_vid + "/")
 
-nombre = 'FINAL NACIONAL RED BULL ARGENTINA 2021'
+nombre = '🔞 TortillaLand #76 | Terrible  | !YouTube'
 fecha = "30-10-2021"
-streamer = "ibai"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/9e1aaa2a5e31423cfdc1_ibai_43670169196_1635624164/chunked/index-dvr.m3u8"
+streamer = "xxxthefocusxxx"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/e4f5a173accc6efad566_xxxthefocusxxx_43666265660_1635598911/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "🔴 EVENTO TORTILLALAND!!!! | TORTILLALAND #48"
-fecha = "29-10-2021"
-streamer = "violetag"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/d4cbc8fb80d13bf921bc_violetag_43658410972_1635526353/chunked/index-dvr.m3u8"
+nombre = "Una porrista juega Tortilla Land! "
+fecha = "30-10-2021"
+streamer = "arigameplays"
+url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/b321aaeaab1ef2a2ad0d_arigameplays_44257521565_1635617438/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "[1] TORTILLALAND EP 31     EVENTO ESPECIAL PLAYSTATION.. ;)......+18 "
-fecha = "29-10-2021_1"
-streamer = "josecristo_"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/99e9f8c0db866d1cd9eb_josecristo__43658390332_1635526219/chunked/index-dvr.m3u8"
-main(nombre, fecha, streamer, url_vid)
-
-nombre = "[2] TORTILLALAND EP 31     EVENTO ESPECIAL PLAYSTATION.. ;)......+18 "
-fecha = "29-10-2021_2"
-streamer = "josecristo_"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/ba241305b252d6a4e305_josecristo__43658874076_1635529239/chunked/index-dvr.m3u8"
+nombre = "INFAMESRP +18 | Carlo e Igor en Federal!!"
+fecha = "30-10-2021"
+streamer = "gtv_genesis"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/a0e497296f7759bb5fd0_gtv_genesis_43667293068_1635606803/chunked/index-muted-X9ES8FO0RH.m3u8"
 main(nombre, fecha, streamer, url_vid)
