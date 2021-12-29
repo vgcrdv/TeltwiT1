@@ -259,20 +259,32 @@ def main(nom_vid: str, fecha_vid: str, stream_vid: str, url_vid: str):
     os.rmdir("ts")
     crearTxtProp("./" + dir_vid + "/")
 
-nombre = 'KIFFLOM en GTA V Roleplay y EVENTO TORTILLA #TiemblaDeRisa #FantasmagoricNight Patrocinado por Fanta!'
-fecha = "29-10-2021"
-streamer = "perxitaa"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/b0867a8b5cd49cb6126e_perxitaa_43657449484_1635519443/chunked/index-dvr.m3u8"
+nombre = 'FINAL NACIONAL RED BULL ARGENTINA 2021'
+fecha = "30-10-2021"
+streamer = "ibai"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/9e1aaa2a5e31423cfdc1_ibai_43670169196_1635624164/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "TORTILLALAND #28 EVENTO SECRETO..."
+nombre = "🔴 EVENTO TORTILLALAND!!!! | TORTILLALAND #48"
 fecha = "29-10-2021"
-streamer = "luzu"
-url_vid = "https://dqrpb9wgowsf5.cloudfront.net/9e6c62385f4191cff264_luzu_40153986859_1635520419/chunked/index-dvr.m3u8"
+streamer = "violetag"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/d4cbc8fb80d13bf921bc_violetag_43658410972_1635526353/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "TORTILLALAND x PLAYSTATION, agárrame el pepino"
+nombre = "Jugando LIMBO por primera vez"
 fecha = "29-10-2021"
-streamer = "coolifegame"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/383507b969c40c07ff18_coolifegame_43658243308_1635525172/chunked/index-dvr.m3u8"
+streamer = "tanizen"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/d1a303ffb4a0145f4c73_tanizen_43654226044_1635472205/chunked/index-dvr.m3u8"
+main(nombre, fecha, streamer, url_vid)
+
+nombre = "[1] TORTILLALAND EP 31     EVENTO ESPECIAL PLAYSTATION.. ;)......+18 "
+fecha = "29-10-2021_1"
+streamer = "josecristo_"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/99e9f8c0db866d1cd9eb_josecristo__43658390332_1635526219/chunked/index-dvr.m3u8"
+main(nombre, fecha, streamer, url_vid)
+
+nombre = "[2] TORTILLALAND EP 31     EVENTO ESPECIAL PLAYSTATION.. ;)......+18 "
+fecha = "29-10-2021_2"
+streamer = "josecristo_"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/ba241305b252d6a4e305_josecristo__43658874076_1635529239/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
