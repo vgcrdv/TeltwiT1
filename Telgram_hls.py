@@ -271,12 +271,6 @@ streamer = "violetag"
 url_vid = "https://d1ymi26ma8va5x.cloudfront.net/d4cbc8fb80d13bf921bc_violetag_43658410972_1635526353/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "Jugando LIMBO por primera vez"
-fecha = "29-10-2021"
-streamer = "tanizen"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/d1a303ffb4a0145f4c73_tanizen_43654226044_1635472205/chunked/index-dvr.m3u8"
-main(nombre, fecha, streamer, url_vid)
-
 nombre = "[1] TORTILLALAND EP 31     EVENTO ESPECIAL PLAYSTATION.. ;)......+18 "
 fecha = "29-10-2021_1"
 streamer = "josecristo_"
