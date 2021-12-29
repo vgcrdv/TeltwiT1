@@ -259,20 +259,20 @@ def main(nom_vid: str, fecha_vid: str, stream_vid: str, url_vid: str):
     os.rmdir("ts")
     crearTxtProp("./" + dir_vid + "/")
 
-nombre = 'ENTRENAMIENTO FBI y luego con AXO en GTA V Roleplay!!!'
-fecha = "28-10-2021"
+nombre = 'KIFFLOM en GTA V Roleplay y EVENTO TORTILLA #TiemblaDeRisa #FantasmagoricNight Patrocinado por Fanta!'
+fecha = "29-10-2021"
 streamer = "perxitaa"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/20f74028f12b22c4670c_perxitaa_43648479388_1635431694/chunked/index-dvr.m3u8"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/b0867a8b5cd49cb6126e_perxitaa_43657449484_1635519443/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "💥TORTILLALAND +18💥 Tenemos que acabar la casa #3 ❗redes ❗retos"
-fecha = "28-10-2021"
-streamer = "elperitaafk"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/21bdb73ce0d943e10631_elperitaafk_43649934012_1635442317/chunked/index-dvr.m3u8"
+nombre = "TORTILLALAND #28 EVENTO SECRETO..."
+fecha = "29-10-2021"
+streamer = "luzu"
+url_vid = "https://dqrpb9wgowsf5.cloudfront.net/9e6c62385f4191cff264_luzu_40153986859_1635520419/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "DR. ZORMAN: EL HOMBRE QUE SUSURRABA A LOS CERDOS"
-fecha = "28-10-2021"
-streamer = "zormanworld"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/3d3dee625b92981e269f_zormanworld_43649688076_1635440661/chunked/index-dvr.m3u8"
+nombre = "TORTILLALAND x PLAYSTATION, agárrame el pepino"
+fecha = "29-10-2021"
+streamer = "coolifegame"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/383507b969c40c07ff18_coolifegame_43658243308_1635525172/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
