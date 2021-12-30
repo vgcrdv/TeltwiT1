@@ -259,20 +259,26 @@ def main(nom_vid: str, fecha_vid: str, stream_vid: str, url_vid: str):
     os.rmdir("ts")
     crearTxtProp("./" + dir_vid + "/")
 
-nombre = '🔞 TortillaLand #76 | Terrible  | !YouTube'
-fecha = "30-10-2021"
-streamer = "xxxthefocusxxx"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/e4f5a173accc6efad566_xxxthefocusxxx_43666265660_1635598911/chunked/index-dvr.m3u8"
+nombre = 'CONTANDO TODA LA VERDAD'
+fecha = "31-10-2021"
+streamer = "ibai"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/29f139302a9ee53c92e5_ibai_43680395980_1635715797/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "Una porrista juega Tortilla Land! "
-fecha = "30-10-2021"
-streamer = "arigameplays"
-url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/b321aaeaab1ef2a2ad0d_arigameplays_44257521565_1635617438/chunked/index-dvr.m3u8"
+nombre = "#GAMINGWEEK PLATICANDO UN POCO Y JUGANDO WARZONE"
+fecha = "31-10-2021"
+streamer = "elmariana"
+url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/765ca28d5c195aa5feca_elmariana_44261301229_1635640871/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "INFAMESRP +18 | Carlo e Igor en Federal!!"
-fecha = "30-10-2021"
+nombre = "PASANDO MIEDO EN LA #FANTASMAGORICNIGHT #PATROCINADO POR FANTA "
+fecha = "31-10-2021"
+streamer = "biyin_"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/ccf761f45723ae53adb4_biyin__43679300060_1635709199/chunked/index-dvr.m3u8"
+main(nombre, fecha, streamer, url_vid)
+
+nombre = "Feliz Halloween!!! Un poco de miedito y luego tortilla!"
+fecha = "31-10-2021"
 streamer = "gtv_genesis"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/a0e497296f7759bb5fd0_gtv_genesis_43667293068_1635606803/chunked/index-muted-X9ES8FO0RH.m3u8"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/0f171cb715252b834961_gtv_genesis_43677377164_1635698074/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
