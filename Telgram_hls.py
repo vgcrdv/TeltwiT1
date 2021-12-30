@@ -259,26 +259,20 @@ def main(nom_vid: str, fecha_vid: str, stream_vid: str, url_vid: str):
     os.rmdir("ts")
     crearTxtProp("./" + dir_vid + "/")
 
-nombre = 'CONTANDO TODA LA VERDAD'
-fecha = "31-10-2021"
-streamer = "ibai"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/29f139302a9ee53c92e5_ibai_43680395980_1635715797/chunked/index-dvr.m3u8"
+nombre = 'TortillaLand #62 || Un ratito de tortilla, por diosssssssssssssss'
+fecha = "01-11-2021"
+streamer = "auronplay"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/964152feb4e733431c15_auronplay_43685494796_1635780122/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "#GAMINGWEEK PLATICANDO UN POCO Y JUGANDO WARZONE"
+nombre = "Evento Aldeanos Comunitarios en el server de subs + TortillaLand cumple de Nia! | !corsair !evad"
 fecha = "31-10-2021"
-streamer = "elmariana"
-url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/765ca28d5c195aa5feca_elmariana_44261301229_1635640871/chunked/index-dvr.m3u8"
+streamer = "luh"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/282f90901dc804b7dbab_luh_43677604236_1635699506/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "PASANDO MIEDO EN LA #FANTASMAGORICNIGHT #PATROCINADO POR FANTA "
-fecha = "31-10-2021"
-streamer = "biyin_"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/ccf761f45723ae53adb4_biyin__43679300060_1635709199/chunked/index-dvr.m3u8"
-main(nombre, fecha, streamer, url_vid)
-
-nombre = "Feliz Halloween!!! Un poco de miedito y luego tortilla!"
-fecha = "31-10-2021"
-streamer = "gtv_genesis"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/0f171cb715252b834961_gtv_genesis_43677377164_1635698074/chunked/index-dvr.m3u8"
+nombre = "HOLA NOVIEMBRE | 7 DÍAS PARA LA TITAN CUP DE CS:GO"
+fecha = "01-11-2021"
+streamer = "zormanworld"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/c49ad257a14c5b24c243_zormanworld_43687051196_1635790479/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
