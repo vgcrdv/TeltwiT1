@@ -259,20 +259,20 @@ def main(nom_vid: str, fecha_vid: str, stream_vid: str, url_vid: str):
     os.rmdir("ts")
     crearTxtProp("./" + dir_vid + "/")
 
-nombre = 'TortillaLand #62 || Un ratito de tortilla, por diosssssssssssssss'
+nombre = 'REACCIONANDO A VÍDEOS Y TAL VEZ CRAB GAME'
 fecha = "01-11-2021"
-streamer = "auronplay"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/964152feb4e733431c15_auronplay_43685494796_1635780122/chunked/index-dvr.m3u8"
+streamer = "reborn_live"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/f2f00bc39c77fe98c47d_reborn_live_43687758556_1635794753/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "Evento Aldeanos Comunitarios en el server de subs + TortillaLand cumple de Nia! | !corsair !evad"
-fecha = "31-10-2021"
-streamer = "luh"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/282f90901dc804b7dbab_luh_43677604236_1635699506/chunked/index-dvr.m3u8"
+nombre = "ADIOS HALLOWEN. HOLA NAVIDAD || !redes !sustos !tatuaje"
+fecha = "01-11-2021"
+streamer = "imantado"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/1a0fb646e153907def38_imantado_43684660220_1635773197/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "HOLA NOVIEMBRE | 7 DÍAS PARA LA TITAN CUP DE CS:GO"
+nombre = "TORTILLALAND #73 - Hoy el objetivo es conseguir una mascota bonita!"
 fecha = "01-11-2021"
-streamer = "zormanworld"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/c49ad257a14c5b24c243_zormanworld_43687051196_1635790479/chunked/index-dvr.m3u8"
+streamer = "tanizen"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/6fdfa04713c51ba84c65_tanizen_43688796524_1635800593/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
