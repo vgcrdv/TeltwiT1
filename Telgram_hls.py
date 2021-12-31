@@ -259,20 +259,20 @@ def main(nom_vid: str, fecha_vid: str, stream_vid: str, url_vid: str):
     os.rmdir("ts")
     crearTxtProp("./" + dir_vid + "/")
 
-nombre = 'REACCIONANDO A VÍDEOS Y TAL VEZ CRAB GAME'
-fecha = "01-11-2021"
-streamer = "reborn_live"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/f2f00bc39c77fe98c47d_reborn_live_43687758556_1635794753/chunked/index-dvr.m3u8"
+nombre = 'TortillaLand #63 || Continua la caza y cuidado de animalessssss'
+fecha = "02-11-2021"
+streamer = "auronplay"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/7aec0821f52cf7509c4f_auronplay_43694408604_1635869345/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "ADIOS HALLOWEN. HOLA NAVIDAD || !redes !sustos !tatuaje"
+nombre = "(GdlG #4) Finaliza el Guardar de la Galaxia! 🦝"
 fecha = "01-11-2021"
-streamer = "imantado"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/1a0fb646e153907def38_imantado_43684660220_1635773197/chunked/index-dvr.m3u8"
+streamer = "menostrece"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/f8eb9821ee9fc7721e12_menostrece_43685351804_1635779022/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "TORTILLALAND #73 - Hoy el objetivo es conseguir una mascota bonita!"
-fecha = "01-11-2021"
-streamer = "tanizen"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/6fdfa04713c51ba84c65_tanizen_43688796524_1635800593/chunked/index-dvr.m3u8"
+nombre = "Estamos en portada 💫 | Rankeds platino main support | Soy muy maja uwu"
+fecha = "02-11-2021"
+streamer = "sugussusana"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/0673a48de03072d754f2_sugussusana_43692251836_1635843450/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
