@@ -259,32 +259,26 @@ def main(nom_vid: str, fecha_vid: str, stream_vid: str, url_vid: str):
     os.rmdir("ts")
     crearTxtProp("./" + dir_vid + "/")
 
-nombre = '😱💙 MAÑANA PRESENTO UNA NUEVA SKIN DE FORTNITE !anuncio 💙😱 *hoy me he vacunado*'
-fecha = "03-11-2021"
-streamer = "thegrefg"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/a1700324336de7232f39_thegrefg_43703930044_1635960669/chunked/index-dvr.m3u8"
+nombre = 'CHECAMOS EL ELDEN RING Y PONEMOS ALGUNOS PALOS'
+fecha = "04-11-2021"
+streamer = "jaggerprincesa"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/d1d86123b3eb99873653_jaggerprincesa_43711136572_1636037250/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "TORTILALLAND y lo que surja 👁️👅👁️ !nuevovideo  - IG: @_paracetamor TW: @paracetamor"
-fecha = "03-11-2021"
-streamer = "paracetamor"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/209ce254bfe5f9b55585_paracetamor_43702577196_1635950243/chunked/index-dvr.m3u8"
+nombre = 'TortillaLand #9 | El inicio de "NasheePark" '
+fecha = "04-11-2021"
+streamer = "desst3"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/bfa31252629d6d8a6f80_desst3_43712688572_1636048855/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "‍[1] 🔴 COMIENZA LA OPERACIÓN: VOLVIENDO A RECORDAR!!! RECOGEMOS NUESTRA RECOMPENSA Y EXPLORAMOS EL NUEVO MUNDO!!!! | TORTILLALAND #50🎄"
-fecha = "03-11-2021_1"
-streamer = "violetag"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/9017232847d6001978c3_violetag_43702296476_1635947617/chunked/index-dvr.m3u8"
+nombre = "‍L"
+fecha = "04-11-2021"
+streamer = "luh"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/199caed38da0c3f9dba9_luh_43711979884_1636044040/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "‍[2] 🔴 COMIENZA LA OPERACIÓN: VOLVIENDO A RECORDAR!!! RECOGEMOS NUESTRA RECOMPENSA Y EXPLORAMOS EL NUEVO MUNDO!!!! | TORTILLALAND #50🎄"
-fecha = "03-11-2021_2"
-streamer = "violetag"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/0137680cc9c11e26c334_violetag_43702563404_1635950110/chunked/index-dvr.m3u8"
-main(nombre, fecha, streamer, url_vid)
-
-nombre = "En busca de mazos nuevos en Clash Royale, ¿Me ayudas? 🥰 | !objetivo"
-fecha = "03-11-2021"
-streamer = "gemita"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/2e0ec69ec136958bee08_gemita_43702769244_1635951910/chunked/index-dvr.m3u8"
+nombre = "Noche de chill con Jacky !tortillaland !video !rol"
+fecha = "04-11-2021"
+streamer = "coolifegame"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/30125e74da98024e36a3_coolifegame_43715489340_1636065922/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
