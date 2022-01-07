@@ -259,20 +259,26 @@ def main(nom_vid: str, fecha_vid: str, stream_vid: str, url_vid: str):
     os.rmdir("ts")
     crearTxtProp("./" + dir_vid + "/")
 
-nombre = '💙💜 PRESENTACIÓN OFICIAL DE UNA NUEVA SKIN DE FORTNITE 💜💙'
-fecha = "04-11-2021"
-streamer = "thegrefg"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/7701da78785c9f81520c_thegrefg_43711251820_1636038228/chunked/index-muted-9YQU7FW7I2.m3u8"
+nombre = 'LOS PAYASOS de GTA V Roleplay!!!'
+fecha = "07-11-2021"
+streamer = "perxitaa"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/59172b51b7a5e7c6893e_perxitaa_43740962700_1636301124/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "🎡 MAÑANA 'PARQUE DE ATRACCIONES ABANDONAD', ¿ganas? || !redes !sustos !mañana !tempest"
-fecha = "05-11-2021"
-streamer = "imantado"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/a82740c62eeeeed3ec11_imantado_43719538348_1636119125/chunked/index-dvr.m3u8"
+nombre = "TortillaLand #32 | ¡FOCUUUUU HE COMPRADO UVAS! !MythicHeroes #Patrocinado"
+fecha = "08-11-2021"
+streamer = "8cho"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/fda7598ddf52a0627f08_8cho_43748907260_1636386791/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "TORTILLALAND +18 | Es viernes y el cuerpo lo sabeeeee!!"
-fecha = "05-11-2021"
-streamer = "gtv_genesis"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/286686fe7a7cc926278c_gtv_genesis_43721264204_1636132242/chunked/index-muted-XRG4QBR7EB.m3u8"
+nombre = "¡HE VUELTO! TEAM FOLAGOR - TITAN CUP DE STAXX"
+fecha = "08-11-2021_1"
+streamer = "lakshartnia"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/2fb9ef0e08ae8a27bf77_lakshartnia_43748627980_1636384059/chunked/index-dvr.m3u8"
+main(nombre, fecha, streamer, url_vid)
+
+nombre = "TORTILLA NOCTURNA "
+fecha = "08-11-2021_2"
+streamer = "lakshartnia"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/c66ce5596311fb143613_lakshartnia_43752623852_1636412519/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
