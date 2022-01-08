@@ -259,10 +259,10 @@ def main(nom_vid: str, fecha_vid: str, stream_vid: str, url_vid: str):
     os.rmdir("ts")
     crearTxtProp("./" + dir_vid + "/")
 
-nombre = 'TORTILLALLAND y lo que surja 👁️👅👁️ !nuevovideo  - IG: @_paracetamor TW: @paracetamor'
-fecha = "08-11-2021"
-streamer = "paracetamor"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/c8e00fbdb68a917d95bb_paracetamor_43748313532_1636380657/chunked/index-muted-101EIWA14O.m3u8"
+nombre = 'VOLVÍ, Just Chatting, TORTILLALAND DÍA 64, UNBOXING y lo que salga'
+fecha = "09-11-2021"
+streamer = "juansguarnizo"
+url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/367c47dcfa9adccb0096_juansguarnizo_44371311581_1636480543/chunked/index-muted-VQGN1IWMCN.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
 nombre = "TORNEO TITAN CUP 🏆 POV de Perdedores - 1% de posibilidades, 99% de fe"
@@ -277,8 +277,8 @@ streamer = "violetag"
 url_vid = "https://d1ymi26ma8va5x.cloudfront.net/71fdddcbe7d4abbedb7f_violetag_43749222188_1636389436/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "(!sorteo ) 3 sorteos activos | Viernes Subathon socorro | Soy maja"
-fecha = "08-11-2021"
-streamer = "sugussusana"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/89f2c3ce696c90a55139_sugussusana_43750242700_1636396645/chunked/index-dvr.m3u8"
+nombre = "+18 [ESP] Tortillaland - Pato Croft,  exploraciones,"
+fecha = "09-11-2021"
+streamer = "patodeaqualand"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/cacdddb143b8148ba51d_patodeaqualand_43757871036_1636480099/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
