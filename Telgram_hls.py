@@ -259,26 +259,26 @@ def main(nom_vid: str, fecha_vid: str, stream_vid: str, url_vid: str):
     os.rmdir("ts")
     crearTxtProp("./" + dir_vid + "/")
 
-nombre = 'LOS PAYASOS de GTA V Roleplay!!!'
-fecha = "07-11-2021"
-streamer = "perxitaa"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/59172b51b7a5e7c6893e_perxitaa_43740962700_1636301124/chunked/index-dvr.m3u8"
-main(nombre, fecha, streamer, url_vid)
-
-nombre = "TortillaLand #32 | ¡FOCUUUUU HE COMPRADO UVAS! !MythicHeroes #Patrocinado"
+nombre = 'TORTILLALLAND y lo que surja 👁️👅👁️ !nuevovideo  - IG: @_paracetamor TW: @paracetamor'
 fecha = "08-11-2021"
-streamer = "8cho"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/fda7598ddf52a0627f08_8cho_43748907260_1636386791/chunked/index-dvr.m3u8"
+streamer = "paracetamor"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/c8e00fbdb68a917d95bb_paracetamor_43748313532_1636380657/chunked/index-muted-101EIWA14O.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "¡HE VUELTO! TEAM FOLAGOR - TITAN CUP DE STAXX"
-fecha = "08-11-2021_1"
-streamer = "lakshartnia"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/2fb9ef0e08ae8a27bf77_lakshartnia_43748627980_1636384059/chunked/index-dvr.m3u8"
+nombre = "TORNEO TITAN CUP 🏆 POV de Perdedores - 1% de posibilidades, 99% de fe"
+fecha = "08-11-2021"
+streamer = "rubius"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/9f1102e9a57d4f1b8913_rubius_43749499964_1636391458/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "TORTILLA NOCTURNA "
-fecha = "08-11-2021_2"
-streamer = "lakshartnia"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/c66ce5596311fb143613_lakshartnia_43752623852_1636412519/chunked/index-dvr.m3u8"
+nombre = "🔴 LLEGÓ EL DÍA...ATENTOS A TODO LO QUE VA A PASAR HOY!!! ¿SERÁ EL FIN DE LOS MAPS? ¿O EL COMIENZO? | TORTILLALAND #53"
+fecha = "08-11-2021"
+streamer = "violetag"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/71fdddcbe7d4abbedb7f_violetag_43749222188_1636389436/chunked/index-dvr.m3u8"
+main(nombre, fecha, streamer, url_vid)
+
+nombre = "(!sorteo ) 3 sorteos activos | Viernes Subathon socorro | Soy maja"
+fecha = "08-11-2021"
+streamer = "sugussusana"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/89f2c3ce696c90a55139_sugussusana_43750242700_1636396645/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
