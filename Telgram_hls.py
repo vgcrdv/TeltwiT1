@@ -259,26 +259,20 @@ def main(nom_vid: str, fecha_vid: str, stream_vid: str, url_vid: str):
     os.rmdir("ts")
     crearTxtProp("./" + dir_vid + "/")
 
-nombre = 'VOLVÍ, Just Chatting, TORTILLALAND DÍA 64, UNBOXING y lo que salga'
+nombre = 'TORTILLALLAND, sorpresa y lo que surja 👁️👅👁️ !nuevovideo  - IG: @_paracetamor TW: @paracetamor'
 fecha = "09-11-2021"
-streamer = "juansguarnizo"
-url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/367c47dcfa9adccb0096_juansguarnizo_44371311581_1636480543/chunked/index-muted-VQGN1IWMCN.m3u8"
+streamer = "paracetamor"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/63160fe486a290e7e769_paracetamor_43756376604_1636467847/chunked/index-muted-ZSEYPAE3IZ.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "TORNEO TITAN CUP 🏆 POV de Perdedores - 1% de posibilidades, 99% de fe"
-fecha = "08-11-2021"
-streamer = "rubius"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/9f1102e9a57d4f1b8913_rubius_43749499964_1636391458/chunked/index-dvr.m3u8"
-main(nombre, fecha, streamer, url_vid)
-
-nombre = "🔴 LLEGÓ EL DÍA...ATENTOS A TODO LO QUE VA A PASAR HOY!!! ¿SERÁ EL FIN DE LOS MAPS? ¿O EL COMIENZO? | TORTILLALAND #53"
-fecha = "08-11-2021"
-streamer = "violetag"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/71fdddcbe7d4abbedb7f_violetag_43749222188_1636389436/chunked/index-dvr.m3u8"
-main(nombre, fecha, streamer, url_vid)
-
-nombre = "+18 [ESP] Tortillaland - Pato Croft,  exploraciones,"
+nombre = "TortillaLand - ESTAMOS DE VUELTA !redes !discord !yt"
 fecha = "09-11-2021"
-streamer = "patodeaqualand"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/cacdddb143b8148ba51d_patodeaqualand_43757871036_1636480099/chunked/index-dvr.m3u8"
+streamer = "deqiuv"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/7221e974ce6561de25dd_deqiuv_43758617180_1636484799/chunked/index-dvr.m3u8"
+main(nombre, fecha, streamer, url_vid)
+
+nombre = "TORTILLALAND EP 43   Castillo minas animales expediciones y luego Valorant.. ;)......+18 "
+fecha = "09-11-2021"
+streamer = "josecristo_"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/923a3e48c4ae1c4c9466_josecristo__43760576348_1636496102/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
