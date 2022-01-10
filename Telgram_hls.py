@@ -259,20 +259,20 @@ def main(nom_vid: str, fecha_vid: str, stream_vid: str, url_vid: str):
     os.rmdir("ts")
     crearTxtProp("./" + dir_vid + "/")
 
-nombre = 'TORTILLALLAND, sorpresa y lo que surja 👁️👅👁️ !nuevovideo  - IG: @_paracetamor TW: @paracetamor'
-fecha = "09-11-2021"
-streamer = "paracetamor"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/63160fe486a290e7e769_paracetamor_43756376604_1636467847/chunked/index-muted-ZSEYPAE3IZ.m3u8"
+nombre = 'VOLVEMOS A LA CAZA - Phasmophobia ft. Andrés y Guille 👻 [mañana GTA Trilogy hasta que se me seque el tercer ojo]'
+fecha = "10-11-2021"
+streamer = "illojuan"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/7cc9ccd9cd3b94927e49_illojuan_43768303052_1636576716/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "TortillaLand - ESTAMOS DE VUELTA !redes !discord !yt"
-fecha = "09-11-2021"
-streamer = "deqiuv"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/7221e974ce6561de25dd_deqiuv_43758617180_1636484799/chunked/index-dvr.m3u8"
+nombre = "🔴NOS VAMOS DE EXPLORACIÓN A UN SITIO MUY GUAY Y LUEGO...PERXIPIÑA?? | TORTILLALAND #55"
+fecha = "10-11-2021"
+streamer = "violetag"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/4359f7316569a4c22e1c_violetag_43765685660_1636559857/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "TORTILLALAND EP 43   Castillo minas animales expediciones y luego Valorant.. ;)......+18 "
-fecha = "09-11-2021"
-streamer = "josecristo_"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/923a3e48c4ae1c4c9466_josecristo__43760576348_1636496102/chunked/index-dvr.m3u8"
+nombre = "HAGO EL SBC ICONO 500k MONEDAS Y CLASIFICATORIO DE FUT CHAMPIONS!!"
+fecha = "10-11-2021"
+streamer = "ampeterby7"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/38c0ab7edef2747f34c2_ampeterby7_43765163196_1636555204/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
