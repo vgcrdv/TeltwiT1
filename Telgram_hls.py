@@ -259,20 +259,20 @@ def main(nom_vid: str, fecha_vid: str, stream_vid: str, url_vid: str):
     os.rmdir("ts")
     crearTxtProp("./" + dir_vid + "/")
 
-nombre = 'VOLVEMOS A LA CAZA - Phasmophobia ft. Andrés y Guille 👻 [mañana GTA Trilogy hasta que se me seque el tercer ojo]'
-fecha = "10-11-2021"
-streamer = "illojuan"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/7cc9ccd9cd3b94927e49_illojuan_43768303052_1636576716/chunked/index-dvr.m3u8"
+nombre = '🔞TortillaLand #87 | El Terreno | !YouTube'
+fecha = "12-11-2021"
+streamer = "xxxthefocusxxx"
+url_vid = "https://dqrpb9wgowsf5.cloudfront.net/48273e7a58bff2408c0b_xxxthefocusxxx_40209856875_1636725466/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "🔴NOS VAMOS DE EXPLORACIÓN A UN SITIO MUY GUAY Y LUEGO...PERXIPIÑA?? | TORTILLALAND #55"
-fecha = "10-11-2021"
-streamer = "violetag"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/4359f7316569a4c22e1c_violetag_43765685660_1636559857/chunked/index-dvr.m3u8"
+nombre = "TortillaLand - BATALLANDO POR NUESTRAS COSAS. !redes !discord !yt"
+fecha = "12-11-2021"
+streamer = "deqiuv"
+url_vid = "https://dqrpb9wgowsf5.cloudfront.net/edd93eea3e1e7af67908_deqiuv_40209777883_1636723511/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "HAGO EL SBC ICONO 500k MONEDAS Y CLASIFICATORIO DE FUT CHAMPIONS!!"
-fecha = "10-11-2021"
-streamer = "ampeterby7"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/38c0ab7edef2747f34c2_ampeterby7_43765163196_1636555204/chunked/index-dvr.m3u8"
+nombre = "(!sorteo ) 3 sorteos activos | Sábado Subathon socorro | Compatriotas murcianos, sois bienvenidos"
+fecha = "12-11-2021"
+streamer = "sugussusana"
+url_vid = "https://dqrpb9wgowsf5.cloudfront.net/2e33a9938fcab78c54f0_sugussusana_40209272379_1636707701/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
