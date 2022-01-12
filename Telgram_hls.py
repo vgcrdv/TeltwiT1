@@ -259,20 +259,20 @@ def main(nom_vid: str, fecha_vid: str, stream_vid: str, url_vid: str):
     os.rmdir("ts")
     crearTxtProp("./" + dir_vid + "/")
 
-nombre = '🔞TortillaLand #87 | El Terreno | !YouTube'
+nombre = 'AMONG US '
 fecha = "12-11-2021"
-streamer = "xxxthefocusxxx"
-url_vid = "https://dqrpb9wgowsf5.cloudfront.net/48273e7a58bff2408c0b_xxxthefocusxxx_40209856875_1636725466/chunked/index-dvr.m3u8"
+streamer = "reborn_live"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/a3a4fd6bf865b95039b0_reborn_live_43792382252_1636742253/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "TortillaLand - BATALLANDO POR NUESTRAS COSAS. !redes !discord !yt"
+nombre = "MAÑANA IMANCOOK || !redes !sustos !tempest !imancook"
 fecha = "12-11-2021"
-streamer = "deqiuv"
-url_vid = "https://dqrpb9wgowsf5.cloudfront.net/edd93eea3e1e7af67908_deqiuv_40209777883_1636723511/chunked/index-dvr.m3u8"
+streamer = "imantado"
+url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/a9b70207dde2ace59869_imantado_44404291005_1636723814/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "(!sorteo ) 3 sorteos activos | Sábado Subathon socorro | Compatriotas murcianos, sois bienvenidos"
+nombre = "TORTILLALAND Y PREPARANDO EL 24H! | CÓDIGO D3STRI | !redes !video"
 fecha = "12-11-2021"
-streamer = "sugussusana"
-url_vid = "https://dqrpb9wgowsf5.cloudfront.net/2e33a9938fcab78c54f0_sugussusana_40209272379_1636707701/chunked/index-dvr.m3u8"
+streamer = "d3stri"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/74481ee74cca74d75842_d3stri_43794235292_1636751458/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
