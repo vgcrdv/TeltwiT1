@@ -259,20 +259,20 @@ def main(nom_vid: str, fecha_vid: str, stream_vid: str, url_vid: str):
     os.rmdir("ts")
     crearTxtProp("./" + dir_vid + "/")
 
-nombre = '🔞TortillaLand #88 | El Terreno | !YouTube'
-fecha = "13-11-2021"
-streamer = "xxxthefocusxxx"
-url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/76bc13fc4ea66abba017_xxxthefocusxxx_44417578397_1636812025/chunked/index-dvr.m3u8"
+nombre = 'REACCIONANDO A VÍDEOS Y CHARLANDO EN ESTE MARAVILLOSO DOMINGO'
+fecha = "14-11-2021"
+streamer = "ibai"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/fbff4d34026c9031ec03_ibai_43813646044_1636914999/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "Tortillaland 75: Hacemos las fotos del concurso"
-fecha = "13-11-2021"
+nombre = "Tortillaland 76"
+fecha = "14-11-2021"
 streamer = "polispol1"
-url_vid = "https://dqrpb9wgowsf5.cloudfront.net/3e159371009016e0c605_polispol1_40214715547_1636839053/chunked/index-dvr.m3u8"
+url_vid = "https://dqrpb9wgowsf5.cloudfront.net/ca6fa79dcffbfa469cc0_polispol1_40218266603_1636925479/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "Viktor Volkov | Turno Nocturno | !NewSkill"
-fecha = "13-11-2021"
-streamer = "momonkunn"
-url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/d9a6f205c4e22369754c_momonkunn_44423451533_1636846791/chunked/index-dvr.m3u8"
+nombre = "Stream felis uwu :)"
+fecha = "14-11-2021"
+streamer = "javidmr10"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/b4b4bf1341e6b891a981_javidmr10_43807419772_1636855651/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
