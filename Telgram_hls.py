@@ -259,20 +259,20 @@ def main(nom_vid: str, fecha_vid: str, stream_vid: str, url_vid: str):
     os.rmdir("ts")
     crearTxtProp("./" + dir_vid + "/")
 
-nombre = 'REACCIONANDO A VÍDEOS Y CHARLANDO EN ESTE MARAVILLOSO DOMINGO'
+nombre = 'VOY A IR TRANQUILO, SOSEGADO, POR PARTES, SIN PRISA - TAL VEZ 1ª PARTE PARA PASARME EL MINECRAFT '
 fecha = "14-11-2021"
-streamer = "ibai"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/fbff4d34026c9031ec03_ibai_43813646044_1636914999/chunked/index-dvr.m3u8"
+streamer = "reborn_live"
+url_vid = "https://dqrpb9wgowsf5.cloudfront.net/9ff397a2f1b5f4e45594_reborn_live_40217799819_1636914882/chunked/index-muted-D7LV9O4JH4.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "Tortillaland 76"
+nombre = "ARTO"
 fecha = "14-11-2021"
-streamer = "polispol1"
-url_vid = "https://dqrpb9wgowsf5.cloudfront.net/ca6fa79dcffbfa469cc0_polispol1_40218266603_1636925479/chunked/index-dvr.m3u8"
+streamer = "komanche"
+url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/afb155ba92f1b73ef80b_komanche_44435827485_1636930712/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "Stream felis uwu :)"
+nombre = "¡MEDIA MALITA! HOY A FULL TORTILLALAND :D"
 fecha = "14-11-2021"
-streamer = "javidmr10"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/b4b4bf1341e6b891a981_javidmr10_43807419772_1636855651/chunked/index-dvr.m3u8"
+streamer = "lakshartnia"
+url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/bb0b78d8f6b7469766c2_lakshartnia_44432615965_1636911910/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
