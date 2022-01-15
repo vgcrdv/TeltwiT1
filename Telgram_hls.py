@@ -259,26 +259,26 @@ def main(nom_vid: str, fecha_vid: str, stream_vid: str, url_vid: str):
     os.rmdir("ts")
     crearTxtProp("./" + dir_vid + "/")
 
-nombre = 'Tortillaland 👁️👅👁️ !nuevovideo  - IG: @_paracetamor TW: @paracetamor'
-fecha = "15-11-2021"
-streamer = "paracetamor"
-url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/92751a17151fd848d476_paracetamor_44442604413_1636988473/chunked/index-dvr.m3u8"
+nombre = "🔞TortillaLand #91 |Empezamos con el Zoo | !YouTube"
+fecha = "16-11-2021_1"
+streamer = "xxxthefocusxxx"
+url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/d3e3284c415f904852f5_xxxthefocusxxx_44453702477_1637071329/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "[1] 🔴 ABRIMOS LO NUEVO QUE ME HA LLEGADO PARA NAVIDAD Y BUSCAMOS EL CHISMESITO POR EL PUEBLO!!! | TORTILLALAND #58"
-fecha = "15-11-2021_1"
-streamer = "violetag"
-url_vid = "https://dqrpb9wgowsf5.cloudfront.net/61d9370724330cfb10b9_violetag_40220439083_1636986642/chunked/index-dvr.m3u8"
+nombre = "🔞Among Us |Terrible| !YouTube"
+fecha = "16-11-2021_2"
+streamer = "xxxthefocusxxx"
+url_vid = "https://dqrpb9wgowsf5.cloudfront.net/cc50fedb68b15e1cd0c3_xxxthefocusxxx_40224466491_1637093750/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "[2] 🔴 ABRIMOS LO NUEVO QUE ME HA LLEGADO PARA NAVIDAD Y BUSCAMOS EL CHISMESITO POR EL PUEBLO!!! | TORTILLALAND #58"
-fecha = "15-11-2021_2"
-streamer = "violetag"
-url_vid = "https://dqrpb9wgowsf5.cloudfront.net/a0d370d8f04caf16e3a9_violetag_40220679419_1636993022/chunked/index-dvr.m3u8"
+nombre = "AMONG US DADDY!| !videofb !redes"
+fecha = "16-11-2021"
+streamer = "komanche"
+url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/43d1c2db27d50dd842d7_komanche_44456871597_1637095256/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "TORTILLALAND | NUEVA DIMENSION Y NUEVA MISION! | CÓDIGO D3STRI | !redes !video"
-fecha = "15-11-2021"
-streamer = "d3stri"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/7dac29c37a4b2dd13721_d3stri_43820584060_1636991847/chunked/index-dvr.m3u8"
+nombre = "(!sorteo) Vamos a probar picks nuevos ahora que es preseason uwu"
+fecha = "16-11-2021"
+streamer = "sugussusana"
+url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/577077747b6992223edc_sugussusana_44452112797_1637053268/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
