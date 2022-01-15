@@ -259,20 +259,26 @@ def main(nom_vid: str, fecha_vid: str, stream_vid: str, url_vid: str):
     os.rmdir("ts")
     crearTxtProp("./" + dir_vid + "/")
 
-nombre = 'VOY A IR TRANQUILO, SOSEGADO, POR PARTES, SIN PRISA - TAL VEZ 1ª PARTE PARA PASARME EL MINECRAFT '
-fecha = "14-11-2021"
-streamer = "reborn_live"
-url_vid = "https://dqrpb9wgowsf5.cloudfront.net/9ff397a2f1b5f4e45594_reborn_live_40217799819_1636914882/chunked/index-muted-D7LV9O4JH4.m3u8"
+nombre = 'Tortillaland 👁️👅👁️ !nuevovideo  - IG: @_paracetamor TW: @paracetamor'
+fecha = "15-11-2021"
+streamer = "paracetamor"
+url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/92751a17151fd848d476_paracetamor_44442604413_1636988473/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "ARTO"
-fecha = "14-11-2021"
-streamer = "komanche"
-url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/afb155ba92f1b73ef80b_komanche_44435827485_1636930712/chunked/index-dvr.m3u8"
+nombre = "[1] 🔴 ABRIMOS LO NUEVO QUE ME HA LLEGADO PARA NAVIDAD Y BUSCAMOS EL CHISMESITO POR EL PUEBLO!!! | TORTILLALAND #58"
+fecha = "15-11-2021_1"
+streamer = "violetag"
+url_vid = "https://dqrpb9wgowsf5.cloudfront.net/61d9370724330cfb10b9_violetag_40220439083_1636986642/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "¡MEDIA MALITA! HOY A FULL TORTILLALAND :D"
-fecha = "14-11-2021"
-streamer = "lakshartnia"
-url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/bb0b78d8f6b7469766c2_lakshartnia_44432615965_1636911910/chunked/index-dvr.m3u8"
+nombre = "[2] 🔴 ABRIMOS LO NUEVO QUE ME HA LLEGADO PARA NAVIDAD Y BUSCAMOS EL CHISMESITO POR EL PUEBLO!!! | TORTILLALAND #58"
+fecha = "15-11-2021_2"
+streamer = "violetag"
+url_vid = "https://dqrpb9wgowsf5.cloudfront.net/a0d370d8f04caf16e3a9_violetag_40220679419_1636993022/chunked/index-dvr.m3u8"
+main(nombre, fecha, streamer, url_vid)
+
+nombre = "TORTILLALAND | NUEVA DIMENSION Y NUEVA MISION! | CÓDIGO D3STRI | !redes !video"
+fecha = "15-11-2021"
+streamer = "d3stri"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/7dac29c37a4b2dd13721_d3stri_43820584060_1636991847/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
