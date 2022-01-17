@@ -259,26 +259,20 @@ def main(nom_vid: str, fecha_vid: str, stream_vid: str, url_vid: str):
     os.rmdir("ts")
     crearTxtProp("./" + dir_vid + "/")
 
-nombre = "🔞TortillaLand #91 |Empezamos con el Zoo | !YouTube"
-fecha = "16-11-2021_1"
-streamer = "xxxthefocusxxx"
-url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/d3e3284c415f904852f5_xxxthefocusxxx_44453702477_1637071329/chunked/index-dvr.m3u8"
+nombre = "🔶 MayiTEK🐱 Eres Bienvenid@ 💜"
+fecha = "17-11-2021"
+streamer = "mayichi"
+url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/6926048dc24deca668f2_mayichi_44469608589_1637189501/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "🔞Among Us |Terrible| !YouTube"
-fecha = "16-11-2021_2"
-streamer = "xxxthefocusxxx"
-url_vid = "https://dqrpb9wgowsf5.cloudfront.net/cc50fedb68b15e1cd0c3_xxxthefocusxxx_40224466491_1637093750/chunked/index-dvr.m3u8"
+nombre = "TortillaLand #2 - Emosido Engañado + Nueva Estafa || !redes !sustos !tempest !tortilla <-"
+fecha = "17-11-2021"
+streamer = "imantado"
+url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/374d43a80ce86044fa10_imantado_44465225613_1637158113/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "AMONG US DADDY!| !videofb !redes"
+nombre = "ME GUSTA COMER EMPANADAS EN LA PLAYA | FORTNITE + NO SE + LA VIDA"
 fecha = "16-11-2021"
-streamer = "komanche"
-url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/43d1c2db27d50dd842d7_komanche_44456871597_1637095256/chunked/index-dvr.m3u8"
-main(nombre, fecha, streamer, url_vid)
-
-nombre = "(!sorteo) Vamos a probar picks nuevos ahora que es preseason uwu"
-fecha = "16-11-2021"
-streamer = "sugussusana"
-url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/577077747b6992223edc_sugussusana_44452112797_1637053268/chunked/index-dvr.m3u8"
+streamer = "javidmr10"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/06fd4a66ee0e5dbe35cc_javidmr10_43834824684_1637117189/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
