@@ -259,20 +259,20 @@ def main(nom_vid: str, fecha_vid: str, stream_vid: str, url_vid: str):
     os.rmdir("ts")
     crearTxtProp("./" + dir_vid + "/")
 
-nombre = "🔶 MayiTEK🐱 Eres Bienvenid@ 💜"
-fecha = "17-11-2021"
-streamer = "mayichi"
-url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/6926048dc24deca668f2_mayichi_44469608589_1637189501/chunked/index-dvr.m3u8"
+nombre = "TORTILLALAND #3 - EMPEZAMOS LA CABAÑA DONDE REPOSARÁN MIS MACROSANTOS"
+fecha = "19-11-2021"
+streamer = "reborn_live"
+url_vid = "https://dqrpb9wgowsf5.cloudfront.net/515e30e5d250e3d22cf0_reborn_live_40235729051_1637349384/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "TortillaLand #2 - Emosido Engañado + Nueva Estafa || !redes !sustos !tempest !tortilla <-"
-fecha = "17-11-2021"
-streamer = "imantado"
-url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/374d43a80ce86044fa10_imantado_44465225613_1637158113/chunked/index-dvr.m3u8"
+nombre = "🔴 NOS VAMOS DE EXCURSIÓN? VEMOS EL ZOO? INVESTIGAMOS? O...DECORAMOS PARA NAVIDAD? COSITAAAAAAAS!!! | TORTILLALAND #61"
+fecha = "19-11-2021"
+streamer = "violetag"
+url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/d8610bd9a1a143f84c60_violetag_44489633949_1637337491/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "ME GUSTA COMER EMPANADAS EN LA PLAYA | FORTNITE + NO SE + LA VIDA"
-fecha = "16-11-2021"
-streamer = "javidmr10"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/06fd4a66ee0e5dbe35cc_javidmr10_43834824684_1637117189/chunked/index-dvr.m3u8"
+nombre = "(!sorteo) Feelings de la infancia <3"
+fecha = "19-11-2021"
+streamer = "sugussusana"
+url_vid = "https://dqrpb9wgowsf5.cloudfront.net/2d425b2ef29ac9f9b971_sugussusana_40234017179_1637314264/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
