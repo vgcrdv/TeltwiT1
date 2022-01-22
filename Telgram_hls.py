@@ -259,20 +259,20 @@ def main(nom_vid: str, fecha_vid: str, stream_vid: str, url_vid: str):
     os.rmdir("ts")
     crearTxtProp("./" + dir_vid + "/")
 
-nombre = "TORTILLALAND #3 - EMPEZAMOS LA CABAÑA DONDE REPOSARÁN MIS MACROSANTOS"
-fecha = "19-11-2021"
-streamer = "reborn_live"
-url_vid = "https://dqrpb9wgowsf5.cloudfront.net/515e30e5d250e3d22cf0_reborn_live_40235729051_1637349384/chunked/index-dvr.m3u8"
+nombre = "🔞TortillaLand #97 |La casa de Carola |!YouTube"
+fecha = "23-11-2021"
+streamer = "xxxthefocusxxx"
+url_vid = "https://dqrpb9wgowsf5.cloudfront.net/dfa4ea1e24e18b8edc4f_xxxthefocusxxx_40254119787_1637676003/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "🔴 NOS VAMOS DE EXCURSIÓN? VEMOS EL ZOO? INVESTIGAMOS? O...DECORAMOS PARA NAVIDAD? COSITAAAAAAAS!!! | TORTILLALAND #61"
-fecha = "19-11-2021"
-streamer = "violetag"
-url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/d8610bd9a1a143f84c60_violetag_44489633949_1637337491/chunked/index-dvr.m3u8"
+nombre = "Tortilla y más juegos con amigos! 🥳 (tal vez doble stream hoy)"
+fecha = "23-11-2021"
+streamer = "arigameplays"
+url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/8987601a8082b7327318_arigameplays_44543937357_1637699353/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "(!sorteo) Feelings de la infancia <3"
-fecha = "19-11-2021"
-streamer = "sugussusana"
-url_vid = "https://dqrpb9wgowsf5.cloudfront.net/2d425b2ef29ac9f9b971_sugussusana_40234017179_1637314264/chunked/index-dvr.m3u8"
+nombre = "TORTILLA ESTA EN GUERRA! QUE HACEMOS HOY?  | CÓDIGO D3STRI | !redes !video"
+fecha = "23-11-2021"
+streamer = "d3stri"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/c0d3be0b17f8c53c04d4_d3stri_43883917148_1637696627/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
