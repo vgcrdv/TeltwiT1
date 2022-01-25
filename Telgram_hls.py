@@ -259,26 +259,20 @@ def main(nom_vid: str, fecha_vid: str, stream_vid: str, url_vid: str):
     os.rmdir("ts")
     crearTxtProp("./" + dir_vid + "/")
 
-nombre = "HABLANDO CON FARRUKO Y DESAFÍO 20 VICTORIAS CLASH ROYALE 😱"
+nombre = "TortillaLand #80 || Regalo a Ibai y boda de Juan y Rubí "
+fecha = "26-11-2021"
+streamer = "auronplay"
+url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/ef8e6f4cddfe20ae48ce_auronplay_44576419085_1637945002/chunked/index-dvr.m3u8"
+main(nombre, fecha, streamer, url_vid)
+
+nombre = "AMONGUS CON PEOPLE|| !redes !sustos !tempest !tortilla <- !nuevovideo !pais"
 fecha = "25-11-2021"
-streamer = "thegrefg"
-url_vid = "https://dqrpb9wgowsf5.cloudfront.net/7e7560e9029e7586a2c7_thegrefg_40260836747_1637861603/chunked/index-muted-Y2Y86Y89VE.m3u8"
-main(nombre, fecha, streamer, url_vid)
-
-nombre = "TortillaLand CHILL - LISTO PARA LA OCASIÓN. GUERRA. || !redes !sustos !tempest !tortilla <- !nuevovideo !pais"
-fecha = "25-11-2021_1"
 streamer = "imantado"
-url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/131034f7d2dd7014d0a2_imantado_44564435277_1637849962/chunked/index-dvr.m3u8"
+url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/c31c3af1fe6fddc70215_imantado_44567611197_1637873108/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "TortillaLand PARTY - LISTO PARA LA OCASIÓN. GUERRA. || !redes !sustos !tempest !tortilla <- !nuevovideo !pais"
-fecha = "25-11-2021_2"
-streamer = "imantado"
-url_vid = "https://dqrpb9wgowsf5.cloudfront.net/b821689d7b1056a0dd75_imantado_40261142027_1637869829/chunked/index-dvr.m3u8"
-main(nombre, fecha, streamer, url_vid)
-
-nombre = "TortillaLand #1 | Es mi primerito día y soy maja"
+nombre = "TU STREAMER FAVORITO DE FIFA NAAAAAAAH"
 fecha = "25-11-2021"
-streamer = "sugussusana"
-url_vid = "https://dqrpb9wgowsf5.cloudfront.net/058c5f3add5e33a3e788_sugussusana_40260818443_1637861105/chunked/index-dvr.m3u8"
+streamer = "ampeterby7"
+url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/5309f534a923a00da1c4_ampeterby7_44564953181_1637854610/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
