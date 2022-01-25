@@ -259,20 +259,20 @@ def main(nom_vid: str, fecha_vid: str, stream_vid: str, url_vid: str):
     os.rmdir("ts")
     crearTxtProp("./" + dir_vid + "/")
 
-nombre = "TortillaLand #80 || Regalo a Ibai y boda de Juan y Rubí "
+nombre = "PROPAGAMOS LA WENA NUEVA - QUE COMIENCE LA CARRERISA"
 fecha = "26-11-2021"
-streamer = "auronplay"
-url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/ef8e6f4cddfe20ae48ce_auronplay_44576419085_1637945002/chunked/index-dvr.m3u8"
+streamer = "jaggerprincesa"
+url_vid = "https://dqrpb9wgowsf5.cloudfront.net/f4357166f9b47ea05f6d_jaggerprincesa_40263662107_1637944417/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "AMONGUS CON PEOPLE|| !redes !sustos !tempest !tortilla <- !nuevovideo !pais"
-fecha = "25-11-2021"
-streamer = "imantado"
-url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/c31c3af1fe6fddc70215_imantado_44567611197_1637873108/chunked/index-dvr.m3u8"
+nombre = "TortillaLand - Intentamos decorar la casa de Rubius - !redes !discord !yt"
+fecha = "26-11-2021"
+streamer = "deqiuv"
+url_vid = "https://dqrpb9wgowsf5.cloudfront.net/380dfd24525cde789c38_deqiuv_40263237851_1637933947/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "TU STREAMER FAVORITO DE FIFA NAAAAAAAH"
-fecha = "25-11-2021"
-streamer = "ampeterby7"
-url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/5309f534a923a00da1c4_ampeterby7_44564953181_1637854610/chunked/index-dvr.m3u8"
+nombre = "TORTILLALAND +18 | Reaccionamos a clips y pa dentro!!"
+fecha = "26-11-2021"
+streamer = "gtv_genesis"
+url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/efaa372e413ecad681e4_gtv_genesis_44575677133_1637939339/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
