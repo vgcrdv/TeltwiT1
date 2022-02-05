@@ -259,20 +259,20 @@ def main(nom_vid: str, fecha_vid: str, stream_vid: str, url_vid: str):
     os.rmdir("ts")
     crearTxtProp("./" + dir_vid + "/")
 
-nombre = "PROPAGAMOS LA WENA NUEVA - QUE COMIENCE LA CARRERISA"
-fecha = "26-11-2021"
-streamer = "jaggerprincesa"
-url_vid = "https://dqrpb9wgowsf5.cloudfront.net/f4357166f9b47ea05f6d_jaggerprincesa_40263662107_1637944417/chunked/index-dvr.m3u8"
+nombre = "Reaccionando a Tortillaland y lo que surja - !sorteo 👁️👅👁️ !nuevovideo  - IG: @_paracetamor TW: @paracetamor"
+fecha = "07-12-2021"
+streamer = "paracetamor"
+url_vid = "https://dqrpb9wgowsf5.cloudfront.net/116466dcf9b6d67d3f6b_paracetamor_40309362875_1638886550/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "TortillaLand - Intentamos decorar la casa de Rubius - !redes !discord !yt"
-fecha = "26-11-2021"
-streamer = "deqiuv"
-url_vid = "https://dqrpb9wgowsf5.cloudfront.net/380dfd24525cde789c38_deqiuv_40263237851_1637933947/chunked/index-dvr.m3u8"
+nombre = "🔴 DECORAMOS NUESTRO SET UP NAVIDEÑO Y CONTINUAMOS CON LA DECORACIÓN DE NUESTRO CASTILLO!!! | TORTILLALAND #71"
+fecha = "07-12-2021"
+streamer = "violetag"
+url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/0928420b257635c2cb1d_violetag_44706234461_1638892963/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "TORTILLALAND +18 | Reaccionamos a clips y pa dentro!!"
-fecha = "26-11-2021"
-streamer = "gtv_genesis"
-url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/efaa372e413ecad681e4_gtv_genesis_44575677133_1637939339/chunked/index-dvr.m3u8"
+nombre = "IRL CON DAVID HACIENDO UN  ☃ | !objetivo"
+fecha = "07-12-2021"
+streamer = "gemita"
+url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/cdf2b213f2f800f4259f_gemita_44705795981_1638889219/chunked/index-muted-WQR2G7GV8F.m3u8"
 main(nombre, fecha, streamer, url_vid)
