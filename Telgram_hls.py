@@ -259,20 +259,26 @@ def main(nom_vid: str, fecha_vid: str, stream_vid: str, url_vid: str):
     os.rmdir("ts")
     crearTxtProp("./" + dir_vid + "/")
 
-nombre = "CARLO GAMBINO en Gta V Roleplay!!! "
+nombre = "LA CARA DEL MAHE 2: REMASTERED 💡 - Game Awards 2021 ft. Mangel"
 fecha = "09-12-2021"
-streamer = "perxitaa"
-url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/04f3cf9ac786bba5c3cf_perxitaa_44731620845_1639074874/chunked/index-dvr.m3u8"
+streamer = "illojuan"
+url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/a47bd24638904ece4862_illojuan_44733904877_1639089093/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "ESTE JUEVES QUE SABE A JUEVES"
+nombre = "🔴 DÍA DE CHILLS DECORANDO Y CONSTRUYENDO COSITAS NAVIDEÑAS!!!! | TORTILLALAND #73"
 fecha = "09-12-2021"
-streamer = "luzu"
-url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/89d37eff68c932e508b5_luzu_44729047645_1639054694/chunked/index-muted-PY4T40XD7L.m3u8"
+streamer = "violetag"
+url_vid = "https://dqrpb9wgowsf5.cloudfront.net/1becceb634d2000fbb9f_violetag_40315861099_1639065465/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "SUBIENDO A LIGA DE CAMPEONES Y HOY SORTEO 13.500 PAVOS FORTNITE || !sorteo !sub !ventajas"
-fecha = "09-12-2021"
-streamer = "ampeterby7"
-url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/508fa38210ca95e14d36_ampeterby7_44729597341_1639059869/chunked/index-dvr.m3u8"
+nombre = "[1] TORTILLA + Among Us ÉPICO + ¿Game Awards? | Mi directo favorito"
+fecha = "09-12-2021_1"
+streamer = "zormanworld"
+url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/40cb7cd50aed1488429c_zormanworld_44730639309_1639068488/chunked/index-muted-ZH70993EZN.m3u8"
+main(nombre, fecha, streamer, url_vid)
+
+nombre = "[2] TORTILLA + Among Us ÉPICO + ¿Game Awards? | Mi directo favorito"
+fecha = "09-12-2021_2"
+streamer = "zormanworld"
+url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/777f9363716b291bac6c_zormanworld_44733951837_1639089366/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
