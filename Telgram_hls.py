@@ -259,20 +259,20 @@ def main(nom_vid: str, fecha_vid: str, stream_vid: str, url_vid: str):
     os.rmdir("ts")
     crearTxtProp("./" + dir_vid + "/")
 
-nombre = "Reaccionando a Tortillaland y lo que surja - !sorteo 👁️👅👁️ !nuevovideo  - IG: @_paracetamor TW: @paracetamor"
-fecha = "07-12-2021"
-streamer = "paracetamor"
-url_vid = "https://dqrpb9wgowsf5.cloudfront.net/116466dcf9b6d67d3f6b_paracetamor_40309362875_1638886550/chunked/index-dvr.m3u8"
+nombre = "CARLO GAMBINO en Gta V Roleplay!!! "
+fecha = "09-12-2021"
+streamer = "perxitaa"
+url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/04f3cf9ac786bba5c3cf_perxitaa_44731620845_1639074874/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "🔴 DECORAMOS NUESTRO SET UP NAVIDEÑO Y CONTINUAMOS CON LA DECORACIÓN DE NUESTRO CASTILLO!!! | TORTILLALAND #71"
-fecha = "07-12-2021"
-streamer = "violetag"
-url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/0928420b257635c2cb1d_violetag_44706234461_1638892963/chunked/index-dvr.m3u8"
+nombre = "ESTE JUEVES QUE SABE A JUEVES"
+fecha = "09-12-2021"
+streamer = "luzu"
+url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/89d37eff68c932e508b5_luzu_44729047645_1639054694/chunked/index-muted-PY4T40XD7L.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "IRL CON DAVID HACIENDO UN  ☃ | !objetivo"
-fecha = "07-12-2021"
-streamer = "gemita"
-url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/cdf2b213f2f800f4259f_gemita_44705795981_1638889219/chunked/index-muted-WQR2G7GV8F.m3u8"
+nombre = "SUBIENDO A LIGA DE CAMPEONES Y HOY SORTEO 13.500 PAVOS FORTNITE || !sorteo !sub !ventajas"
+fecha = "09-12-2021"
+streamer = "ampeterby7"
+url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/508fa38210ca95e14d36_ampeterby7_44729597341_1639059869/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
