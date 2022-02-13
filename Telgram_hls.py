@@ -259,26 +259,50 @@ def main(nom_vid: str, fecha_vid: str, stream_vid: str, url_vid: str):
     os.rmdir("ts")
     crearTxtProp("./" + dir_vid + "/")
 
-nombre = "[1] ULTIMA VIDA monkaS"
-fecha = "13-12-2021_1"
-streamer = "rubius"
-url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/012d10cd660ac31ff3d6_rubius_44781436685_1639418692/chunked/index-dvr.m3u8"
+nombre = "[1] COCINANDO PIZZA con PERXITAA y VIOLETA!!!"
+fecha = "15-12-2021_1"
+streamer = "perxitaa"
+url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/37c2090ea5e4d0a6f9e5_perxitaa_44801251037_1639580939/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "[2] ULTIMA VIDA monkaS"
-fecha = "13-12-2021_2"
-streamer = "rubius"
-url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/a62d626d4618e8291a92_rubius_44781546093_1639419403/chunked/index-dvr.m3u8"
+nombre = "[2] COCINANDO PIZZA con PERXITAA y VIOLETA!!!"
+fecha = "15-12-2021_2"
+streamer = "perxitaa"
+url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/9ed1cf2f76cedc4c90f7_perxitaa_44801374045_1639581985/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "Chris Collins | Realidad o Ficción|  InfamesRP"
-fecha = "13-12-2021"
-streamer = "desst3"
-url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/234817d49ac49133c09c_desst3_44781455725_1639418814/chunked/index-muted-4E7T0A2IF6.m3u8"
+nombre = "[3] COCINANDO PIZZA con PERXITAA y VIOLETA!!!"
+fecha = "15-12-2021_3"
+streamer = "perxitaa"
+url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/493f30c2cf161278b402_perxitaa_44801560285_1639582823/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "TortillaLand #13 | Reaccionando a tortilla y luego jugamos"
-fecha = "13-12-2021"
-streamer = "sugussusana"
-url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/de825de146dcb0759a69_sugussusana_44780770253_1639414078/chunked/index-dvr.m3u8"
+nombre = "[4] COCINANDO PIZZA con PERXITAA y VIOLETA!!!"
+fecha = "15-12-2021_4"
+streamer = "perxitaa"
+url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/2984c331ba5ee5bd5717_perxitaa_44801753421_1639584043/chunked/index-dvr.m3u8"
+main(nombre, fecha, streamer, url_vid)
+
+nombre = "[5] COCINANDO PIZZA con PERXITAA y VIOLETA!!!"
+fecha = "15-12-2021_5"
+streamer = "perxitaa"
+url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/1778dd15462ae27b3558_perxitaa_44802251597_1639587618/chunked/index-dvr.m3u8"
+main(nombre, fecha, streamer, url_vid)
+
+nombre = "Noche de variedades!"
+fecha = "15-12-2021"
+streamer = "polispol1"
+url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/62ad5e669c8f839da249_polispol1_44804463101_1639604175/chunked/index-dvr.m3u8"
+main(nombre, fecha, streamer, url_vid)
+
+nombre = "EL SPIDERMAN BLANCO ESTA DE LOCOS! | SOLOS DE CHILL | CÓDIGO D3STRI | !redes !video"
+fecha = "15-12-2021_1"
+streamer = "d3stri"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/8769cc592b01f8ca2531_d3stri_44077295820_1639568423/chunked/index-muted-WTN85B7UZF.m3u8"
+main(nombre, fecha, streamer, url_vid)
+
+nombre = "DUOS DE CHILL CON HIPPER! | CÓDIGO D3STRI | !redes !video"
+fecha = "15-12-2021_2"
+streamer = "d3stri"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/6b8363f9d00d7407888a_d3stri_44081665324_1639600813/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
