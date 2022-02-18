@@ -259,20 +259,32 @@ def main(nom_vid: str, fecha_vid: str, stream_vid: str, url_vid: str):
     os.rmdir("ts")
     crearTxtProp("./" + dir_vid + "/")
 
-nombre = "[1] | Mayichi KOI ^^ | FIVE NIGHTS AT FREDDY'S HOYY 🔶Mayichi🐱 Eres Bienvenid@ 💜"
-fecha = "21-12-2021"
-streamer = "mayichi"
-url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/cb3a41b21f0f72ac0da6_mayichi_44857958957_1640044982/chunked/index-dvr.m3u8"
+nombre = "🔞TortillaLand #126| Chocovo, chocobo o chopobo   |!YouTube"
+fecha = "22-12-2021"
+streamer = "xxxthefocusxxx"
+url_vid = "https://dqrpb9wgowsf5.cloudfront.net/2551d5ec342f728d9a3b_xxxthefocusxxx_40356003371_1640181539/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "Among us, Warfare, Crab game, Krunker, Geoguessr"
-fecha = "21-12-2021"
-streamer = "polispol1"
-url_vid = "https://dqrpb9wgowsf5.cloudfront.net/b36b88ad335c8e1bd375_polispol1_40353829371_1640121577/chunked/index-dvr.m3u8"
+nombre = "[1] El regreso de Tessa Goretti (GTA roleplay) 🥰 ✨| !zings"
+fecha = "22-12-2021"
+streamer = "arigameplays"
+url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/a714214ff224d5e06a9d_arigameplays_44869525741_1640136588/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "Tortilla Land: Documental y Chocobos | Luego quizás hacemos PJ en GTA ROLPLAY"
-fecha = "21-12-2021"
-streamer = "zormanworld"
-url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/abc682e02619c8cf0c29_zormanworld_44865609117_1640111226/chunked/index-dvr.m3u8"
+nombre = "[3] TortillaLand & Reaccionamos - Tamos de vuelta! || !redes !tempest !tortilla <- !nuevovideo -> !sorteo"
+fecha = "22-12-2021"
+streamer = "imantado"
+url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/d93340aa6a8eefda8ea4_imantado_44878746205_1640212659/chunked/index-muted-9MQP3A7D3T.m3u8"
+main(nombre, fecha, streamer, url_vid)
+
+nombre = "VOLVEMOS AL VICIO!! VAMOS A POR UNAS WINS!! | CÓDIGO D3STRI | !redes !video"
+fecha = "22-12-2021_1"
+streamer = "d3stri"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/289247b2f66ec41e6359_d3stri_44145040988_1640187906/chunked/index-muted-PSX850L9ZB.m3u8"
+main(nombre, fecha, streamer, url_vid)
+
+nombre = "*EVENTO NAVIDAD* SALVANDO LA NAVIDAD | CON ARSILEX | CÓDIGO D3STRI | !redes !video"
+fecha = "22-12-2021_2"
+streamer = "d3stri"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/5481f28fd8e0811db7b7_d3stri_44149302844_1640213421/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
