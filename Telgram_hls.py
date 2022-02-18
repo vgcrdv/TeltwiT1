@@ -259,50 +259,26 @@ def main(nom_vid: str, fecha_vid: str, stream_vid: str, url_vid: str):
     os.rmdir("ts")
     crearTxtProp("./" + dir_vid + "/")
 
-nombre = "[1] COCINANDO PIZZA con PERXITAA y VIOLETA!!!"
-fecha = "15-12-2021_1"
-streamer = "perxitaa"
-url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/37c2090ea5e4d0a6f9e5_perxitaa_44801251037_1639580939/chunked/index-dvr.m3u8"
+nombre = "HOMBRE VACUNADO Y MORIBUNDO SE PASA EL NUEVO FNAF EN TIEMPO RECORD Y PIERDE SU ULTIMA VIDA EN TORTILLA KEKW"
+fecha = "21-12-2021"
+streamer = "rubius"
+url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/652efabef6eac9b933e8_rubius_44865386029_1640109727/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "[2] COCINANDO PIZZA con PERXITAA y VIOLETA!!!"
-fecha = "15-12-2021_2"
-streamer = "perxitaa"
-url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/9ed1cf2f76cedc4c90f7_perxitaa_44801374045_1639581985/chunked/index-dvr.m3u8"
+nombre = "🔥 DIVERSIÓN? AQUÍ 🔥"
+fecha = "21-12-2021"
+streamer = "luzu"
+url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/20621a3100b71ddb6a7f_luzu_44863166221_1640089813/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "[3] COCINANDO PIZZA con PERXITAA y VIOLETA!!!"
-fecha = "15-12-2021_3"
-streamer = "perxitaa"
-url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/493f30c2cf161278b402_perxitaa_44801560285_1639582823/chunked/index-dvr.m3u8"
+nombre = "🔴 IRL ENSEÑANDOOS COMO DECORO LOS REGALITOS DE NAVIDAD!!!!!"
+fecha = "21-12-2021"
+streamer = "violetag"
+url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/e2c834c688ad01f9dc8e_violetag_44864599917_1640103744/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "[4] COCINANDO PIZZA con PERXITAA y VIOLETA!!!"
-fecha = "15-12-2021_4"
-streamer = "perxitaa"
-url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/2984c331ba5ee5bd5717_perxitaa_44801753421_1639584043/chunked/index-dvr.m3u8"
-main(nombre, fecha, streamer, url_vid)
-
-nombre = "[5] COCINANDO PIZZA con PERXITAA y VIOLETA!!!"
-fecha = "15-12-2021_5"
-streamer = "perxitaa"
-url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/1778dd15462ae27b3558_perxitaa_44802251597_1639587618/chunked/index-dvr.m3u8"
-main(nombre, fecha, streamer, url_vid)
-
-nombre = "Noche de variedades!"
-fecha = "15-12-2021"
-streamer = "polispol1"
-url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/62ad5e669c8f839da249_polispol1_44804463101_1639604175/chunked/index-dvr.m3u8"
-main(nombre, fecha, streamer, url_vid)
-
-nombre = "EL SPIDERMAN BLANCO ESTA DE LOCOS! | SOLOS DE CHILL | CÓDIGO D3STRI | !redes !video"
-fecha = "15-12-2021_1"
-streamer = "d3stri"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/8769cc592b01f8ca2531_d3stri_44077295820_1639568423/chunked/index-muted-WTN85B7UZF.m3u8"
-main(nombre, fecha, streamer, url_vid)
-
-nombre = "DUOS DE CHILL CON HIPPER! | CÓDIGO D3STRI | !redes !video"
-fecha = "15-12-2021_2"
-streamer = "d3stri"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/6b8363f9d00d7407888a_d3stri_44081665324_1639600813/chunked/index-dvr.m3u8"
+nombre = "UN POQUITO DE TORTILLA LAND + JUGANDO CON SUBS 🖖🖖"
+fecha = "21-12-2021"
+streamer = "javidmr10"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/27254f0e7f6b3c8711df_javidmr10_44138545036_1640129393/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
