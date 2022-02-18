@@ -259,26 +259,20 @@ def main(nom_vid: str, fecha_vid: str, stream_vid: str, url_vid: str):
     os.rmdir("ts")
     crearTxtProp("./" + dir_vid + "/")
 
-nombre = "HOMBRE VACUNADO Y MORIBUNDO SE PASA EL NUEVO FNAF EN TIEMPO RECORD Y PIERDE SU ULTIMA VIDA EN TORTILLA KEKW"
+nombre = "[1] | Mayichi KOI ^^ | FIVE NIGHTS AT FREDDY'S HOYY 🔶Mayichi🐱 Eres Bienvenid@ 💜"
 fecha = "21-12-2021"
-streamer = "rubius"
-url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/652efabef6eac9b933e8_rubius_44865386029_1640109727/chunked/index-dvr.m3u8"
+streamer = "mayichi"
+url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/cb3a41b21f0f72ac0da6_mayichi_44857958957_1640044982/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "🔥 DIVERSIÓN? AQUÍ 🔥"
+nombre = "Among us, Warfare, Crab game, Krunker, Geoguessr"
 fecha = "21-12-2021"
-streamer = "luzu"
-url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/20621a3100b71ddb6a7f_luzu_44863166221_1640089813/chunked/index-dvr.m3u8"
+streamer = "polispol1"
+url_vid = "https://dqrpb9wgowsf5.cloudfront.net/b36b88ad335c8e1bd375_polispol1_40353829371_1640121577/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "🔴 IRL ENSEÑANDOOS COMO DECORO LOS REGALITOS DE NAVIDAD!!!!!"
+nombre = "Tortilla Land: Documental y Chocobos | Luego quizás hacemos PJ en GTA ROLPLAY"
 fecha = "21-12-2021"
-streamer = "violetag"
-url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/e2c834c688ad01f9dc8e_violetag_44864599917_1640103744/chunked/index-dvr.m3u8"
-main(nombre, fecha, streamer, url_vid)
-
-nombre = "UN POQUITO DE TORTILLA LAND + JUGANDO CON SUBS 🖖🖖"
-fecha = "21-12-2021"
-streamer = "javidmr10"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/27254f0e7f6b3c8711df_javidmr10_44138545036_1640129393/chunked/index-dvr.m3u8"
+streamer = "zormanworld"
+url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/abc682e02619c8cf0c29_zormanworld_44865609117_1640111226/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
