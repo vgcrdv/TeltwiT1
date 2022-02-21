@@ -259,20 +259,26 @@ def main(nom_vid: str, fecha_vid: str, stream_vid: str, url_vid: str):
     os.rmdir("ts")
     crearTxtProp("./" + dir_vid + "/")
 
-nombre = "GEOPOZAZA NAVIDEÑA..."
-fecha = "24-12-2021"
-streamer = "elmariana"
-url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/f67f556dcbd72d02cbc6_elmariana_39297261833_1640309639/chunked/index-muted-XW0812DPMV.m3u8"
+nombre = "[1] ABRIENDO REGALOS de NAVIDAD!!!"
+fecha = "25-12-2021_1"
+streamer = "perxitaa"
+url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/dc4bae9bac1deef17afe_perxitaa_44906134173_1640447602/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "TortillaLand + Reaccionamos + #BenéficoAdorablísimo || !redes !tempest !tortilla <- !nuevovideo -> !sorteo"
-fecha = "23-12-2021"
-streamer = "imantado"
-url_vid = "https://dqrpb9wgowsf5.cloudfront.net/9a624bfaf55c56b797ed_imantado_40359396587_1640270232/chunked/index-dvr.m3u8"
+nombre = "[2] ABRIENDO REGALOS de NAVIDAD!!!"
+fecha = "25-12-2021_2"
+streamer = "perxitaa"
+url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/f1b3a645177efaac5a38_perxitaa_44907011709_1640455249/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "MINI ESPECIAL NAVIDEÑO ❄️🌟"
+nombre = "Soy Papa Noel - Navidades Juntos ❗redes ❗retos ❗pj"
 fecha = "24-12-2021"
-streamer = "javidmr10"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/52438453ec5a68dfd33a_javidmr10_44167627628_1640386245/chunked/index-dvr.m3u8"
+streamer = "elperitaafk"
+url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/25ef11a9840992678586_elperitaafk_44898679357_1640375934/chunked/index-dvr.m3u8"
+main(nombre, fecha, streamer, url_vid)
+
+nombre = "🎄 FELIZ NAVIDAD 🎄"
+fecha = "25-12-2021"
+streamer = "tanizen"
+url_vid = "https://dqrpb9wgowsf5.cloudfront.net/bb95c769a27db8663584_tanizen_40363760347_1640394230/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
