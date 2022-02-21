@@ -259,32 +259,20 @@ def main(nom_vid: str, fecha_vid: str, stream_vid: str, url_vid: str):
     os.rmdir("ts")
     crearTxtProp("./" + dir_vid + "/")
 
-nombre = "Videitos con su abuela de 10,000 años favorita 💜 | Mayichi KOI ^^ | 🔶Mayichi🐱 Eres Bienvenid@ 💜"
+nombre = "GEOPOZAZA NAVIDEÑA..."
+fecha = "24-12-2021"
+streamer = "elmariana"
+url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/f67f556dcbd72d02cbc6_elmariana_39297261833_1640309639/chunked/index-muted-XW0812DPMV.m3u8"
+main(nombre, fecha, streamer, url_vid)
+
+nombre = "TortillaLand + Reaccionamos + #BenéficoAdorablísimo || !redes !tempest !tortilla <- !nuevovideo -> !sorteo"
 fecha = "23-12-2021"
-streamer = "mayichi"
-url_vid = "https://dqrpb9wgowsf5.cloudfront.net/20173cf7610f4e8e1702_mayichi_40360661595_1640301751/chunked/index-dvr.m3u8"
+streamer = "imantado"
+url_vid = "https://dqrpb9wgowsf5.cloudfront.net/9a624bfaf55c56b797ed_imantado_40359396587_1640270232/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "CONDON CON FIEBRE  ❗retos ❗redes ❗pj"
-fecha = "23-12-2021"
-streamer = "elperitaafk"
-url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/8e327ad217321c0eefa2_elperitaafk_44887388317_1640283789/chunked/index-dvr.m3u8"
-main(nombre, fecha, streamer, url_vid)
-
-nombre = "🔥 DIVERSIÓN? AQUÍ 🔥"
-fecha = "23-12-2021"
-streamer = "luzu"
-url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/c477160e87ae75452a84_luzu_44885125693_1640264813/chunked/index-dvr.m3u8"
-main(nombre, fecha, streamer, url_vid)
-
-nombre = "VAMOS A POR UNAS WINS! | CÓDIGO D3STRI | !redes !video"
-fecha = "23-12-2021_1"
-streamer = "d3stri"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/5036acbf9b6e9bcd18b0_d3stri_44154464044_1640272266/chunked/index-dvr.m3u8"
-main(nombre, fecha, streamer, url_vid)
-
-nombre = "TORTILLALAND! CREAMOS EL HOGAR DE LOS CHOCOBOS!!| CÓDIGO D3STRI | !redes !video"
-fecha = "23-12-2021_2"
-streamer = "d3stri"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/3815c2d548b77e16cf4a_d3stri_44158648124_1640297209/chunked/index-dvr.m3u8"
+nombre = "MINI ESPECIAL NAVIDEÑO ❄️🌟"
+fecha = "24-12-2021"
+streamer = "javidmr10"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/52438453ec5a68dfd33a_javidmr10_44167627628_1640386245/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
