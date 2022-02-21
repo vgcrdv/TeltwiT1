@@ -259,32 +259,32 @@ def main(nom_vid: str, fecha_vid: str, stream_vid: str, url_vid: str):
     os.rmdir("ts")
     crearTxtProp("./" + dir_vid + "/")
 
-nombre = "🔞TortillaLand #126| Chocovo, chocobo o chopobo   |!YouTube"
-fecha = "22-12-2021"
-streamer = "xxxthefocusxxx"
-url_vid = "https://dqrpb9wgowsf5.cloudfront.net/2551d5ec342f728d9a3b_xxxthefocusxxx_40356003371_1640181539/chunked/index-dvr.m3u8"
+nombre = "Videitos con su abuela de 10,000 años favorita 💜 | Mayichi KOI ^^ | 🔶Mayichi🐱 Eres Bienvenid@ 💜"
+fecha = "23-12-2021"
+streamer = "mayichi"
+url_vid = "https://dqrpb9wgowsf5.cloudfront.net/20173cf7610f4e8e1702_mayichi_40360661595_1640301751/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "[1] El regreso de Tessa Goretti (GTA roleplay) 🥰 ✨| !zings"
-fecha = "22-12-2021"
-streamer = "arigameplays"
-url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/a714214ff224d5e06a9d_arigameplays_44869525741_1640136588/chunked/index-dvr.m3u8"
+nombre = "CONDON CON FIEBRE  ❗retos ❗redes ❗pj"
+fecha = "23-12-2021"
+streamer = "elperitaafk"
+url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/8e327ad217321c0eefa2_elperitaafk_44887388317_1640283789/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "[3] TortillaLand & Reaccionamos - Tamos de vuelta! || !redes !tempest !tortilla <- !nuevovideo -> !sorteo"
-fecha = "22-12-2021"
-streamer = "imantado"
-url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/d93340aa6a8eefda8ea4_imantado_44878746205_1640212659/chunked/index-muted-9MQP3A7D3T.m3u8"
+nombre = "🔥 DIVERSIÓN? AQUÍ 🔥"
+fecha = "23-12-2021"
+streamer = "luzu"
+url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/c477160e87ae75452a84_luzu_44885125693_1640264813/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "VOLVEMOS AL VICIO!! VAMOS A POR UNAS WINS!! | CÓDIGO D3STRI | !redes !video"
-fecha = "22-12-2021_1"
+nombre = "VAMOS A POR UNAS WINS! | CÓDIGO D3STRI | !redes !video"
+fecha = "23-12-2021_1"
 streamer = "d3stri"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/289247b2f66ec41e6359_d3stri_44145040988_1640187906/chunked/index-muted-PSX850L9ZB.m3u8"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/5036acbf9b6e9bcd18b0_d3stri_44154464044_1640272266/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "*EVENTO NAVIDAD* SALVANDO LA NAVIDAD | CON ARSILEX | CÓDIGO D3STRI | !redes !video"
-fecha = "22-12-2021_2"
+nombre = "TORTILLALAND! CREAMOS EL HOGAR DE LOS CHOCOBOS!!| CÓDIGO D3STRI | !redes !video"
+fecha = "23-12-2021_2"
 streamer = "d3stri"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/5481f28fd8e0811db7b7_d3stri_44149302844_1640213421/chunked/index-dvr.m3u8"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/3815c2d548b77e16cf4a_d3stri_44158648124_1640297209/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
