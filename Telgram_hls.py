@@ -259,26 +259,20 @@ def main(nom_vid: str, fecha_vid: str, stream_vid: str, url_vid: str):
     os.rmdir("ts")
     crearTxtProp("./" + dir_vid + "/")
 
-nombre = "[1] ABRIENDO REGALOS de NAVIDAD!!!"
-fecha = "25-12-2021_1"
-streamer = "perxitaa"
-url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/dc4bae9bac1deef17afe_perxitaa_44906134173_1640447602/chunked/index-dvr.m3u8"
-main(nombre, fecha, streamer, url_vid)
-
-nombre = "[2] ABRIENDO REGALOS de NAVIDAD!!!"
-fecha = "25-12-2021_2"
-streamer = "perxitaa"
-url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/f1b3a645177efaac5a38_perxitaa_44907011709_1640455249/chunked/index-dvr.m3u8"
-main(nombre, fecha, streamer, url_vid)
-
-nombre = "Soy Papa Noel - Navidades Juntos ❗redes ❗retos ❗pj"
-fecha = "24-12-2021"
-streamer = "elperitaafk"
-url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/25ef11a9840992678586_elperitaafk_44898679357_1640375934/chunked/index-dvr.m3u8"
-main(nombre, fecha, streamer, url_vid)
-
-nombre = "🎄 FELIZ NAVIDAD 🎄"
+nombre = "FELIS NABIDAD"
 fecha = "25-12-2021"
-streamer = "tanizen"
-url_vid = "https://dqrpb9wgowsf5.cloudfront.net/bb95c769a27db8663584_tanizen_40363760347_1640394230/chunked/index-dvr.m3u8"
+streamer = "xcry"
+url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/954c1b6f93c6ef902045_xcry_44907997517_1640462691/chunked/index-dvr.m3u8"
+main(nombre, fecha, streamer, url_vid)
+
+nombre = "ÚLTIMO STREAM DEL AÑO | COPA SKROTO 2021 MARIOKART"
+fecha = "25-12-2021"
+streamer = "biyin_"
+url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/9fb7a9fa507808cdd047_biyin__44908389597_1640465645/chunked/index-muted-B1GK1UZYC3.m3u8"
+main(nombre, fecha, streamer, url_vid)
+
+nombre = "+18 [ESP] Pato Noel y Copa Escroto First Edition con Patino Rossi"
+fecha = "25-12-2021"
+streamer = "patodeaqualand"
+url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/579d8924a60e9dbdd2f7_patodeaqualand_44907963517_1640462442/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
