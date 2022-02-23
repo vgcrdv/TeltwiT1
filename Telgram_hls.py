@@ -259,20 +259,26 @@ def main(nom_vid: str, fecha_vid: str, stream_vid: str, url_vid: str):
     os.rmdir("ts")
     crearTxtProp("./" + dir_vid + "/")
 
-nombre = "FELIS NABIDAD"
-fecha = "25-12-2021"
+nombre = "REACCIONES Y JUEGOS TRAVIESOS CON MI JARDINERO"
+fecha = "26-12-2021"
 streamer = "xcry"
-url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/954c1b6f93c6ef902045_xcry_44907997517_1640462691/chunked/index-dvr.m3u8"
+url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/c8734962d5690e7e617d_xcry_44918855117_1640550376/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "ÚLTIMO STREAM DEL AÑO | COPA SKROTO 2021 MARIOKART"
-fecha = "25-12-2021"
-streamer = "biyin_"
-url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/9fb7a9fa507808cdd047_biyin__44908389597_1640465645/chunked/index-muted-B1GK1UZYC3.m3u8"
+nombre = "La CENA de NAVIDAD de HORACIO GTA V Roleplay!!!"
+fecha = "26-12-2021"
+streamer = "perxitaa"
+url_vid = "https://dqrpb9wgowsf5.cloudfront.net/68f9f3226be20ee6ec8f_perxitaa_40368664315_1640543510/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "+18 [ESP] Pato Noel y Copa Escroto First Edition con Patino Rossi"
-fecha = "25-12-2021"
+nombre = "LEVI, TU GAMBERRO FAVORITO - GTA V ROLEPLAY."
+fecha = "26-12-2021"
+streamer = "deqiuv"
+url_vid = "https://dqrpb9wgowsf5.cloudfront.net/598e35fc5717221156d4_deqiuv_40368904891_1640549523/chunked/index-dvr.m3u8"
+main(nombre, fecha, streamer, url_vid)
+
+nombre = "+18 [ESP] Tortillaland - Regalo dioses y relax"
+fecha = "26-12-2021"
 streamer = "patodeaqualand"
-url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/579d8924a60e9dbdd2f7_patodeaqualand_44907963517_1640462442/chunked/index-dvr.m3u8"
+url_vid = "https://dqrpb9wgowsf5.cloudfront.net/bb9381612e2e820533b8_patodeaqualand_40368529579_1640540029/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
