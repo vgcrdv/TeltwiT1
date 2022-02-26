@@ -259,26 +259,26 @@ def main(nom_vid: str, fecha_vid: str, stream_vid: str, url_vid: str):
     os.rmdir("ts")
     crearTxtProp("./" + dir_vid + "/")
 
-nombre = "REACCIONES Y JUEGOS TRAVIESOS CON MI JARDINERO"
-fecha = "26-12-2021"
-streamer = "xcry"
-url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/c8734962d5690e7e617d_xcry_44918855117_1640550376/chunked/index-dvr.m3u8"
+nombre = "🔞TortillaLand #131| t de Terrible |!YouTube"
+fecha = "28-12-2021"
+streamer = "xxxthefocusxxx"
+url_vid = "https://dqrpb9wgowsf5.cloudfront.net/c3735067d54ecc8e911a_xxxthefocusxxx_40374587179_1640699686/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "La CENA de NAVIDAD de HORACIO GTA V Roleplay!!!"
-fecha = "26-12-2021"
-streamer = "perxitaa"
-url_vid = "https://dqrpb9wgowsf5.cloudfront.net/68f9f3226be20ee6ec8f_perxitaa_40368664315_1640543510/chunked/index-dvr.m3u8"
+nombre = "MI REACCION AL REWIND HISPANO! | !videofb !redes"
+fecha = "28-12-2021"
+streamer = "komanche"
+url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/9f3d041689de261f693d_komanche_44942512493_1640723866/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "LEVI, TU GAMBERRO FAVORITO - GTA V ROLEPLAY."
-fecha = "26-12-2021"
-streamer = "deqiuv"
-url_vid = "https://dqrpb9wgowsf5.cloudfront.net/598e35fc5717221156d4_deqiuv_40368904891_1640549523/chunked/index-dvr.m3u8"
+nombre = "🔴 PROBAMOS UN JUEGUESITO NUEVO??? "
+fecha = "28-12-2021"
+streamer = "violetag"
+url_vid = "https://dqrpb9wgowsf5.cloudfront.net/e977972ed12ea1459604_violetag_40374896731_1640707378/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "+18 [ESP] Tortillaland - Regalo dioses y relax"
-fecha = "26-12-2021"
-streamer = "patodeaqualand"
-url_vid = "https://dqrpb9wgowsf5.cloudfront.net/bb9381612e2e820533b8_patodeaqualand_40368529579_1640540029/chunked/index-dvr.m3u8"
+nombre = "Continuamos el NUEVO I WANNA BE + REACCIONAMOS AL YOUTUBE REWIND 2021 JUNTOS"
+fecha = "28-12-2021"
+streamer = "zormanworld"
+url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/a5cf351161b671f10933_zormanworld_44941044973_1640715137/chunked/index-muted-EULBY7PUVL.m3u8"
 main(nombre, fecha, streamer, url_vid)
