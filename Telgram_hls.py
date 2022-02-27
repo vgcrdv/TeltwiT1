@@ -259,26 +259,20 @@ def main(nom_vid: str, fecha_vid: str, stream_vid: str, url_vid: str):
     os.rmdir("ts")
     crearTxtProp("./" + dir_vid + "/")
 
-nombre = "🔞TortillaLand #131| t de Terrible |!YouTube"
-fecha = "28-12-2021"
-streamer = "xxxthefocusxxx"
-url_vid = "https://dqrpb9wgowsf5.cloudfront.net/c3735067d54ecc8e911a_xxxthefocusxxx_40374587179_1640699686/chunked/index-dvr.m3u8"
+nombre = "HOLA 👁️👅👁️ !nuevovideo  - IG: @_paracetamor"
+fecha = "30-12-2021"
+streamer = "paracetamor"
+url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/2264156eb0735c46a4f1_paracetamor_44964009709_1640873244/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "MI REACCION AL REWIND HISPANO! | !videofb !redes"
-fecha = "28-12-2021"
-streamer = "komanche"
-url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/9f3d041689de261f693d_komanche_44942512493_1640723866/chunked/index-dvr.m3u8"
+nombre = "(DS2 #5) Final hoy? Final hoy!"
+fecha = "30-12-2021"
+streamer = "menostrece"
+url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/1bad1520ed5aac3c844b_menostrece_44964421581_1640876771/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "🔴 PROBAMOS UN JUEGUESITO NUEVO??? "
-fecha = "28-12-2021"
-streamer = "violetag"
-url_vid = "https://dqrpb9wgowsf5.cloudfront.net/e977972ed12ea1459604_violetag_40374896731_1640707378/chunked/index-dvr.m3u8"
-main(nombre, fecha, streamer, url_vid)
-
-nombre = "Continuamos el NUEVO I WANNA BE + REACCIONAMOS AL YOUTUBE REWIND 2021 JUNTOS"
-fecha = "28-12-2021"
+nombre = "Happy Zorman en Tortilla + otros juegos con gente épica"
+fecha = "30-12-2021"
 streamer = "zormanworld"
-url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/a5cf351161b671f10933_zormanworld_44941044973_1640715137/chunked/index-muted-EULBY7PUVL.m3u8"
+url_vid = "https://dqrpb9wgowsf5.cloudfront.net/683ad6bb189ab309ac78_zormanworld_40381937291_1640888237/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
