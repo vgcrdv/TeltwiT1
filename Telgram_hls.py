@@ -259,20 +259,20 @@ def main(nom_vid: str, fecha_vid: str, stream_vid: str, url_vid: str):
     os.rmdir("ts")
     crearTxtProp("./" + dir_vid + "/")
 
-nombre = "HOLA 👁️👅👁️ !nuevovideo  - IG: @_paracetamor"
-fecha = "30-12-2021"
-streamer = "paracetamor"
-url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/2264156eb0735c46a4f1_paracetamor_44964009709_1640873244/chunked/index-dvr.m3u8"
+nombre = "ULTIMO STREAM con PERXITAA!!!"
+fecha = "31-12-2021"
+streamer = "perxitaa"
+url_vid = "https://dqrpb9wgowsf5.cloudfront.net/e91dd7d777fc4f68dc1c_perxitaa_40384870731_1640965293/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "(DS2 #5) Final hoy? Final hoy!"
-fecha = "30-12-2021"
-streamer = "menostrece"
-url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/1bad1520ed5aac3c844b_menostrece_44964421581_1640876771/chunked/index-dvr.m3u8"
+nombre = "Último directo del año 💜"
+fecha = "31-12-2021"
+streamer = "imantado"
+url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/6ac65dec1a13f36c9e95_imantado_44977386397_1640968219/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "Happy Zorman en Tortilla + otros juegos con gente épica"
-fecha = "30-12-2021"
-streamer = "zormanworld"
-url_vid = "https://dqrpb9wgowsf5.cloudfront.net/683ad6bb189ab309ac78_zormanworld_40381937291_1640888237/chunked/index-dvr.m3u8"
+nombre = "ÚLTIMO STREAM DEL AAAAÑOOO "
+fecha = "31-12-2021"
+streamer = "coolifegame"
+url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/e4addbf37d77373fc05e_coolifegame_44977613389_1640970038/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
