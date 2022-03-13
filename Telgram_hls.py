@@ -259,20 +259,20 @@ def main(nom_vid: str, fecha_vid: str, stream_vid: str, url_vid: str):
     os.rmdir("ts")
     crearTxtProp("./" + dir_vid + "/")
 
-nombre = "ULTIMO STREAM con PERXITAA!!!"
-fecha = "31-12-2021"
-streamer = "perxitaa"
-url_vid = "https://dqrpb9wgowsf5.cloudfront.net/e91dd7d777fc4f68dc1c_perxitaa_40384870731_1640965293/chunked/index-dvr.m3u8"
+nombre = "🔞EgoLand 2 #5 Día de Buscar Armas."
+fecha = "12-01-2022"
+streamer = "xxxthefocusxxx"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/0cd3326c6d13654c5ba5_xxxthefocusxxx_44360008732_1642001335/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "Último directo del año 💜"
-fecha = "31-12-2021"
-streamer = "imantado"
-url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/6ac65dec1a13f36c9e95_imantado_44977386397_1640968219/chunked/index-dvr.m3u8"
+nombre = "PUBG A FULL! "
+fecha = "12-01-2022"
+streamer = "luzu"
+url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/ea6f5ee04edc4e63339e_luzu_45121543229_1642012834/chunked/index-muted-2GXDTO2WQ4.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "ÚLTIMO STREAM DEL AAAAÑOOO "
-fecha = "31-12-2021"
+nombre = "MG: MAYICIUS GUAPO | EGOLAND 2 | LOS LOCOS DEL DESIERTO #6"
+fecha = "12-01-2022"
 streamer = "coolifegame"
-url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/e4addbf37d77373fc05e_coolifegame_44977613389_1640970038/chunked/index-dvr.m3u8"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/c9b230f8af331087f96d_coolifegame_44364241964_1642025247/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
