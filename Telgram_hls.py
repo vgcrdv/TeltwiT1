@@ -259,20 +259,32 @@ def main(nom_vid: str, fecha_vid: str, stream_vid: str, url_vid: str):
     os.rmdir("ts")
     crearTxtProp("./" + dir_vid + "/")
 
-nombre = "🔞EgoLand 2 #5 Día de Buscar Armas."
-fecha = "12-01-2022"
-streamer = "xxxthefocusxxx"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/0cd3326c6d13654c5ba5_xxxthefocusxxx_44360008732_1642001335/chunked/index-dvr.m3u8"
+nombre = "| 🔶 KOI Mayichi 🐱 Eres Bienvenid@ 💜"
+fecha = "13-01-2022"
+streamer = "mayichi"
+url_vid = "https://dqrpb9wgowsf5.cloudfront.net/37a2e7acef9578976620_mayichi_40427953051_1642113501/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "PUBG A FULL! "
-fecha = "12-01-2022"
-streamer = "luzu"
-url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/ea6f5ee04edc4e63339e_luzu_45121543229_1642012834/chunked/index-muted-2GXDTO2WQ4.m3u8"
+nombre = "🔴 UN POQUITO DE LUCHA POR EGOLAND Y DESPUÉS NOS VAMOS AL FINAL DE TORTILLA!!!! | TORTIILLALAN - EL FINAL | EGOLAND 2 | #6"
+fecha = "13-01-2022"
+streamer = "violetag"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/cc86ef4f5ed1899c4cd9_violetag_44369611036_1642087550/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "MG: MAYICIUS GUAPO | EGOLAND 2 | LOS LOCOS DEL DESIERTO #6"
-fecha = "12-01-2022"
-streamer = "coolifegame"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/c9b230f8af331087f96d_coolifegame_44364241964_1642025247/chunked/index-dvr.m3u8"
+nombre = "JUST DANCE 💃 Y DESFÍO DE ARENAS EN CLASH | !objetivo"
+fecha = "13-01-2022"
+streamer = "gemita"
+url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/e94eb327182ecd898ca5_gemita_45133893853_1642103166/chunked/index-muted-GHFBJQK6CD.m3u8"
+main(nombre, fecha, streamer, url_vid)
+
+nombre = "[1] hoy evento con amigos, mods y subs 20hs (arg)"
+fecha = "13-01-2022_1"
+streamer = "elspreen"
+url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/b2ffc375bf97bc0eadf8_elspreen_45135118541_1642110798/chunked/index-dvr.m3u8"
+main(nombre, fecha, streamer, url_vid)
+
+nombre = "[2] hoy evento con amigos, mods y subs 20hs (arg)"
+fecha = "13-01-2022_2"
+streamer = "elspreen"
+url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/11bcf87b5280ec05cf4c_elspreen_45136363805_1642117969/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
