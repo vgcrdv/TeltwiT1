@@ -259,32 +259,26 @@ def main(nom_vid: str, fecha_vid: str, stream_vid: str, url_vid: str):
     os.rmdir("ts")
     crearTxtProp("./" + dir_vid + "/")
 
-nombre = "| 🔶 KOI Mayichi 🐱 Eres Bienvenid@ 💜"
-fecha = "13-01-2022"
-streamer = "mayichi"
-url_vid = "https://dqrpb9wgowsf5.cloudfront.net/37a2e7acef9578976620_mayichi_40427953051_1642113501/chunked/index-dvr.m3u8"
+nombre = "[1] DROPS ON - EGOLAND 2, YA HA VUELTO EL PAPA"
+fecha = "14-01-2022_1"
+streamer = "lolitofdez"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/460dbbd69a21119e6df0_lolitofdez_44382216540_1642189654/chunked/index-muted-0AWJ39RYZU.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "🔴 UN POQUITO DE LUCHA POR EGOLAND Y DESPUÉS NOS VAMOS AL FINAL DE TORTILLA!!!! | TORTIILLALAN - EL FINAL | EGOLAND 2 | #6"
-fecha = "13-01-2022"
-streamer = "violetag"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/cc86ef4f5ed1899c4cd9_violetag_44369611036_1642087550/chunked/index-dvr.m3u8"
+nombre = "[2] DROPS ON - EGOLAND 2, YA HA VUELTO EL PAPA"
+fecha = "14-01-2022_2"
+streamer = "lolitofdez"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/a7cd4a1ebfdfac6a5195_lolitofdez_44383960780_1642197542/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "JUST DANCE 💃 Y DESFÍO DE ARENAS EN CLASH | !objetivo"
-fecha = "13-01-2022"
-streamer = "gemita"
-url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/e94eb327182ecd898ca5_gemita_45133893853_1642103166/chunked/index-muted-GHFBJQK6CD.m3u8"
+nombre = "REACCIONAMOS 👊"
+fecha = "14-01-2022"
+streamer = "imantado"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/37d6a10e2312a93bbf92_imantado_44378967612_1642171019/chunked/index-muted-D9LFBUK4YO.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "[1] hoy evento con amigos, mods y subs 20hs (arg)"
-fecha = "13-01-2022_1"
-streamer = "elspreen"
-url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/b2ffc375bf97bc0eadf8_elspreen_45135118541_1642110798/chunked/index-dvr.m3u8"
-main(nombre, fecha, streamer, url_vid)
-
-nombre = "[2] hoy evento con amigos, mods y subs 20hs (arg)"
-fecha = "13-01-2022_2"
-streamer = "elspreen"
-url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/11bcf87b5280ec05cf4c_elspreen_45136363805_1642117969/chunked/index-dvr.m3u8"
+nombre = "EGOLAND 2 👴👍  FAM ILIA: INCURSION NOCTURNEA 🐴 !metagaming = ban 🥶 !0HL"
+fecha = "14-01-2022"
+streamer = "chusommontero"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/21b225dc61e7da269eb2_chusommontero_44382247196_1642189799/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
