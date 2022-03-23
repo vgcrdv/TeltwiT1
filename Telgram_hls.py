@@ -259,68 +259,38 @@ def main(nom_vid: str, fecha_vid: str, stream_vid: str, url_vid: str):
     os.rmdir("ts")
     crearTxtProp("./" + dir_vid + "/")
 
-nombre = "[1] SQUID GAME MINECRAFT DÍA 4 || TWITCH RIVALS 100K DÓLARES EN JUEGO || HOY 3 JUEGOS, RIP AURON "
+nombre = "Stream pre-Squid Games día 4 👁️👅👁️ IG: @_paracetamor TW: @paracetamor !nuevovideo "
+fecha = "22-01-2022"
+streamer = "paracetamor"
+url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/6c8986f4a3ba4824ea8e_paracetamor_45244205693_1642859608/chunked/index-dvr.m3u8"
+main(nombre, fecha, streamer, url_vid)
+
+nombre = "[1] Juegos del calamar día 4🔶 KOI Mayichi 🐱 Eres Bienvenid@ 💜"
 fecha = "22-01-2022_1"
-streamer = "auronplay"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/fe68dff1912dcc8da3c5_auronplay_44466702476_1642872880/chunked/index-dvr.m3u8"
+streamer = "mayichi"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/f1ff340ee616692e7e60_mayichi_44467256972_1642875492/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "[2] SQUID GAME MINECRAFT DÍA 4 || TWITCH RIVALS 100K DÓLARES EN JUEGO || HOY 3 JUEGOS, RIP AURON "
+nombre = "[2] Juegos del calamar día 4🔶 KOI Mayichi 🐱 Eres Bienvenid@ 💜"
 fecha = "22-01-2022_2"
-streamer = "auronplay"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/fd894732dcb8848ad051_auronplay_44467231356_1642875364/chunked/index-dvr.m3u8"
+streamer = "mayichi"
+url_vid = "https://dqrpb9wgowsf5.cloudfront.net/64186ec0578fe946bfe4_mayichi_40462367931_1642881775/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "[3] SQUID GAME MINECRAFT DÍA 4 || TWITCH RIVALS 100K DÓLARES EN JUEGO || HOY 3 JUEGOS, RIP AURON "
-fecha = "22-01-2022_3"
-streamer = "auronplay"
-url_vid = "https://dqrpb9wgowsf5.cloudfront.net/5365ea665cad8c50565c_auronplay_40462106283_1642876748/chunked/index-dvr.m3u8"
-main(nombre, fecha, streamer, url_vid)
-
-nombre = "[1] DIA 4 | TORNEO DE 100K$ DE SQUID CRAFT GAMES 🐙 CO-STREAM OFICIAL DE TWITCH RIVALS - LUEGO FINAL DE EGOLAND OKEEEYLETSGOU"
+nombre = "[1] EL VERDADERO ALFA HA VUELTO A YT!!!"
 fecha = "22-01-2022_1"
-streamer = "rubius"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/e09a328161a63987b290_rubius_44467034860_1642874474/chunked/index-dvr.m3u8"
+streamer = "bytarifaaa"
+url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/27d6efb79d42a722e332_bytarifaaa_45244651469_1642862838/chunked/index-muted-MVYPF6O0D8.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "[2] DIA 4 | TORNEO DE 100K$ DE SQUID CRAFT GAMES 🐙 CO-STREAM OFICIAL DE TWITCH RIVALS - LUEGO FINAL DE EGOLAND OKEEEYLETSGOU"
+nombre = "[2] EL VERDADERO ALFA HA VUELTO A YT!!!"
 fecha = "22-01-2022_2"
-streamer = "rubius"
-url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/f57b0b9e91e49657f754_rubius_45246792013_1642875473/chunked/index-dvr.m3u8"
+streamer = "bytarifaaa"
+url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/2517200cc58d18f5e756_bytarifaaa_45246824701_1642875637/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "[3] DIA 4 | TORNEO DE 100K$ DE SQUID CRAFT GAMES 🐙 CO-STREAM OFICIAL DE TWITCH RIVALS - LUEGO FINAL DE EGOLAND OKEEEYLETSGOU"
-fecha = "22-01-2022_3"
-streamer = "rubius"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/cb84d9ae5531f3f3549c_rubius_44467474268_1642876548/chunked/index-dvr.m3u8"
-main(nombre, fecha, streamer, url_vid)
-
-nombre = "[4] DIA 4 | TORNEO DE 100K$ DE SQUID CRAFT GAMES 🐙 CO-STREAM OFICIAL DE TWITCH RIVALS - LUEGO FINAL DE EGOLAND OKEEEYLETSGOU"
-fecha = "22-01-2022_4"
-streamer = "rubius"
-url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/8b74d9650c0b4f8bf94a_rubius_45248083085_1642881580/chunked/index-dvr.m3u8"
-main(nombre, fecha, streamer, url_vid)
-
-nombre = "[1] DÍA 4 | TORNEO DEL CALAMAR DE 100.000$"
-fecha = "22-01-2022_1"
-streamer = "luzu"
-url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/5aadcce8f4c30e7e94fd_luzu_39371569225_1642855913/chunked/index-dvr.m3u8"
-main(nombre, fecha, streamer, url_vid)
-
-nombre = "[2] DÍA 4 | TORNEO DEL CALAMAR DE 100.000$"
-fecha = "22-01-2022_2"
-streamer = "luzu"
-url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/55124b283c647dc28ebd_luzu_45246812813_1642875580/chunked/index-dvr.m3u8"
-main(nombre, fecha, streamer, url_vid)
-
-nombre = "[1] SquidGame | 100k de premio | Día4"
-fecha = "22-01-2022_1"
-streamer = "gtv_genesis"
-url_vid = "https://dqrpb9wgowsf5.cloudfront.net/1be61e3add54bdb984e4_gtv_genesis_40462036923_1642875331/chunked/index-dvr.m3u8"
-main(nombre, fecha, streamer, url_vid)
-
-nombre = "[2] SquidGame | 100k de premio | Día4"
-fecha = "22-01-2022_2"
-streamer = "gtv_genesis"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/236d292954cea574297c_gtv_genesis_44467927708_1642878536/chunked/index-dvr.m3u8"
+nombre = "0-HIT LEAGUE 💥 Jornada 3: David contra Goliat, vs @thatcoolblackdude 🎲 !0HL !0HLReglas !walkofshame"
+fecha = "22-01-2022"
+streamer = "chusommontero"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/30efc6fddc90693878bc_chusommontero_44469213228_1642884105/chunked/index-muted-0HUXRVA9S3.m3u8"
 main(nombre, fecha, streamer, url_vid)
