@@ -259,38 +259,38 @@ def main(nom_vid: str, fecha_vid: str, stream_vid: str, url_vid: str):
     os.rmdir("ts")
     crearTxtProp("./" + dir_vid + "/")
 
-nombre = "Stream pre-Squid Games día 4 👁️👅👁️ IG: @_paracetamor TW: @paracetamor !nuevovideo "
-fecha = "22-01-2022"
+nombre = "DÍA 5 SQUID GAME A las 18h 👁️👅👁️ IG: @_paracetamor TW: @paracetamor !nuevovideo "
+fecha = "23-01-2022"
 streamer = "paracetamor"
-url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/6c8986f4a3ba4824ea8e_paracetamor_45244205693_1642859608/chunked/index-dvr.m3u8"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/a816b6c8fc9d68e686f0_paracetamor_44476642156_1642949193/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "[1] Juegos del calamar día 4🔶 KOI Mayichi 🐱 Eres Bienvenid@ 💜"
-fecha = "22-01-2022_1"
+nombre = "[1] Evento final de EGOLAND 2🔶 KOI Mayichi 🐱 Eres Bienvenid@ 💜"
+fecha = "23-01-2022_1"
 streamer = "mayichi"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/f1ff340ee616692e7e60_mayichi_44467256972_1642875492/chunked/index-dvr.m3u8"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/29db749e42509f4b6f70_mayichi_44481238588_1642972580/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "[2] Juegos del calamar día 4🔶 KOI Mayichi 🐱 Eres Bienvenid@ 💜"
-fecha = "22-01-2022_2"
+nombre = "[2] Evento final de EGOLAND 2🔶 KOI Mayichi 🐱 Eres Bienvenid@ 💜"
+fecha = "23-01-2022_2"
 streamer = "mayichi"
-url_vid = "https://dqrpb9wgowsf5.cloudfront.net/64186ec0578fe946bfe4_mayichi_40462367931_1642881775/chunked/index-dvr.m3u8"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/aaf905c2b44dd85ce444_mayichi_44481393900_1642973518/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "[1] EL VERDADERO ALFA HA VUELTO A YT!!!"
-fecha = "22-01-2022_1"
-streamer = "bytarifaaa"
-url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/27d6efb79d42a722e332_bytarifaaa_45244651469_1642862838/chunked/index-muted-MVYPF6O0D8.m3u8"
+nombre = "FINAL DE EGOLAND Y CONCIERTO DEL COÑO DE LA BERNARDA"
+fecha = "23-01-2022"
+streamer = "kikorivera"
+url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/885cc7a61541cc5392ca_kikorivera_45262917165_1642972992/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "[2] EL VERDADERO ALFA HA VUELTO A YT!!!"
-fecha = "22-01-2022_2"
-streamer = "bytarifaaa"
-url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/2517200cc58d18f5e756_bytarifaaa_45246824701_1642875637/chunked/index-dvr.m3u8"
+nombre = "SQUID GAME MINECRAFT  DAY 5  #095           CUENTA ATRÁS  !ig Darle amor"
+fecha = "23-01-2022"
+streamer = "desst3"
+url_vid = "https://dqrpb9wgowsf5.cloudfront.net/f7638d546ec51b029fbd_desst3_40465973211_1642957184/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "0-HIT LEAGUE 💥 Jornada 3: David contra Goliat, vs @thatcoolblackdude 🎲 !0HL !0HLReglas !walkofshame"
-fecha = "22-01-2022"
+nombre = "ROGUE SOULS 🎲 Dark Souls todo randomizado no-death 🎲 !roguesouls"
+fecha = "23-01-2022"
 streamer = "chusommontero"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/30efc6fddc90693878bc_chusommontero_44469213228_1642884105/chunked/index-muted-0HUXRVA9S3.m3u8"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/2d48ee02734e4c5f898c_chusommontero_44478640716_1642960087/chunked/index-muted-KWG2ZGMJJP.m3u8"
 main(nombre, fecha, streamer, url_vid)
