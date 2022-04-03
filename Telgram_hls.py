@@ -259,38 +259,20 @@ def main(nom_vid: str, fecha_vid: str, stream_vid: str, url_vid: str):
     os.rmdir("ts")
     crearTxtProp("./" + dir_vid + "/")
 
-nombre = "DÍA 5 SQUID GAME A las 18h 👁️👅👁️ IG: @_paracetamor TW: @paracetamor !nuevovideo "
-fecha = "23-01-2022"
-streamer = "paracetamor"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/a816b6c8fc9d68e686f0_paracetamor_44476642156_1642949193/chunked/index-dvr.m3u8"
+nombre = "🔞Tarde de Pubg con Compañía."
+fecha = "03-02-2022"
+streamer = "xxxthefocusxxx"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/b7c35b1ca7472c185806_xxxthefocusxxx_44588463804_1643895920/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "[1] Evento final de EGOLAND 2🔶 KOI Mayichi 🐱 Eres Bienvenid@ 💜"
-fecha = "23-01-2022_1"
-streamer = "mayichi"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/29db749e42509f4b6f70_mayichi_44481238588_1642972580/chunked/index-dvr.m3u8"
+nombre = "(✿◠‿◠) Zeling I 🐷 Hola uwu"
+fecha = "03-02-2022"
+streamer = "zeling"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/3bc498908fa3c92d1f3b_zeling_44587584988_1643884437/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "[2] Evento final de EGOLAND 2🔶 KOI Mayichi 🐱 Eres Bienvenid@ 💜"
-fecha = "23-01-2022_2"
-streamer = "mayichi"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/aaf905c2b44dd85ce444_mayichi_44481393900_1642973518/chunked/index-dvr.m3u8"
-main(nombre, fecha, streamer, url_vid)
-
-nombre = "FINAL DE EGOLAND Y CONCIERTO DEL COÑO DE LA BERNARDA"
-fecha = "23-01-2022"
-streamer = "kikorivera"
-url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/885cc7a61541cc5392ca_kikorivera_45262917165_1642972992/chunked/index-dvr.m3u8"
-main(nombre, fecha, streamer, url_vid)
-
-nombre = "SQUID GAME MINECRAFT  DAY 5  #095           CUENTA ATRÁS  !ig Darle amor"
-fecha = "23-01-2022"
-streamer = "desst3"
-url_vid = "https://dqrpb9wgowsf5.cloudfront.net/f7638d546ec51b029fbd_desst3_40465973211_1642957184/chunked/index-dvr.m3u8"
-main(nombre, fecha, streamer, url_vid)
-
-nombre = "ROGUE SOULS 🎲 Dark Souls todo randomizado no-death 🎲 !roguesouls"
-fecha = "23-01-2022"
-streamer = "chusommontero"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/2d48ee02734e4c5f898c_chusommontero_44478640716_1642960087/chunked/index-muted-KWG2ZGMJJP.m3u8"
+nombre = "GNDX Hablemos de todo y nada | #JavaScript #React #NextJS #WEB3"
+fecha = "03-02-2022"
+streamer = "gndxdev"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/83555d5068fd12243c80_gndxdev_44585180412_1643850598/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
