@@ -259,20 +259,44 @@ def main(nom_vid: str, fecha_vid: str, stream_vid: str, url_vid: str):
     os.rmdir("ts")
     crearTxtProp("./" + dir_vid + "/")
 
-nombre = "🔞Tarde de Pubg con Compañía."
-fecha = "03-02-2022"
-streamer = "xxxthefocusxxx"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/b7c35b1ca7472c185806_xxxthefocusxxx_44588463804_1643895920/chunked/index-dvr.m3u8"
+nombre = "ИВАН ЗОЛО И ДАША КОРЕЙКА ПЕРВОЕ СВИДАНИЕ !"
+fecha = "04-02-2022"
+streamer = "n3koglai"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/161f9741ab2bafd942f1_n3koglai_44599272972_1643987123/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "(✿◠‿◠) Zeling I 🐷 Hola uwu"
-fecha = "03-02-2022"
-streamer = "zeling"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/3bc498908fa3c92d1f3b_zeling_44587584988_1643884437/chunked/index-dvr.m3u8"
+nombre = "【﻿ＤＲＯＳＳ－Ｏ－ＲＡＭＡ】"
+fecha = "04-02-2022"
+streamer = "thedrossrotzank"
+url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/86dd8039baa91ca91f0d_thedrossrotzank_45409296861_1644013627/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "GNDX Hablemos de todo y nada | #JavaScript #React #NextJS #WEB3"
-fecha = "03-02-2022"
-streamer = "gndxdev"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/83555d5068fd12243c80_gndxdev_44585180412_1643850598/chunked/index-dvr.m3u8"
+nombre = "Sorteo Dying Light 2, jugamos Horizon y Minecraft !sorteo 👁️👅👁️ IG: @_paracetamor TW: @paracetamor !nuevovideo"
+fecha = "04-02-2022"
+streamer = "paracetamor"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/5b0ed5244cd30aede709_paracetamor_44598531068_1643981339/chunked/index-dvr.m3u8"
+main(nombre, fecha, streamer, url_vid)
+
+nombre = "REACCIONAMOS Y FNAF4 🧸 | !objetivo | EL ÁRBOL NO SE VA A QUITAR NUNCA"
+fecha = "04-02-2022"
+streamer = "gemita"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/82c3d71d4dc05349f2e3_gemita_44598966508_1643984947/chunked/index-muted-P1OHYRAD2H.m3u8"
+main(nombre, fecha, streamer, url_vid)
+
+nombre = "¿LA PELI MÁS BONICA DEL 2021?"
+fecha = "04-02-2022"
+streamer = "nanisimo"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/4c32f22b93887a0c5164_nanisimo_44601964428_1644001359/chunked/index-dvr.m3u8"
+main(nombre, fecha, streamer, url_vid)
+
+nombre = "HackTheBox | Return"
+fecha = "04-02-2022"
+streamer = "s4vitaar"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/dfafb3ca8154b85a5a26_s4vitaar_44602727244_1644004634/chunked/index-dvr.m3u8"
+main(nombre, fecha, streamer, url_vid)
+
+nombre = "Dome Romantik game dev"
+fecha = "04-02-2022"
+streamer = "jotson"
+url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/553221955ac5f44436f0_jotson_45404678957_1643984912/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
