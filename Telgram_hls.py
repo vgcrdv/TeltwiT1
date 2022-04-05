@@ -259,44 +259,20 @@ def main(nom_vid: str, fecha_vid: str, stream_vid: str, url_vid: str):
     os.rmdir("ts")
     crearTxtProp("./" + dir_vid + "/")
 
-nombre = "ИВАН ЗОЛО И ДАША КОРЕЙКА ПЕРВОЕ СВИДАНИЕ !"
-fecha = "04-02-2022"
-streamer = "n3koglai"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/161f9741ab2bafd942f1_n3koglai_44599272972_1643987123/chunked/index-dvr.m3u8"
-main(nombre, fecha, streamer, url_vid)
-
-nombre = "【﻿ＤＲＯＳＳ－Ｏ－ＲＡＭＡ】"
-fecha = "04-02-2022"
-streamer = "thedrossrotzank"
-url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/86dd8039baa91ca91f0d_thedrossrotzank_45409296861_1644013627/chunked/index-dvr.m3u8"
-main(nombre, fecha, streamer, url_vid)
-
-nombre = "Sorteo Dying Light 2, jugamos Horizon y Minecraft !sorteo 👁️👅👁️ IG: @_paracetamor TW: @paracetamor !nuevovideo"
-fecha = "04-02-2022"
+nombre = "Rebajas en Steam de Los Sims #SponsoredbyEA 👁️👅👁️ IG: @_paracetamor TW: @paracetamor !nuevovideo"
+fecha = "05-02-2022"
 streamer = "paracetamor"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/5b0ed5244cd30aede709_paracetamor_44598531068_1643981339/chunked/index-dvr.m3u8"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/b83df1408de3be3848a3_paracetamor_44610591964_1644068063/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "REACCIONAMOS Y FNAF4 🧸 | !objetivo | EL ÁRBOL NO SE VA A QUITAR NUNCA"
-fecha = "04-02-2022"
+nombre = "VAMOS A DESBLOQUEAR A THEROCK EN FORTNITE Y LUEGO LO QUE SURJAAAAAA PA PA PA PA PA "
+fecha = "05-02-2022"
 streamer = "gemita"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/82c3d71d4dc05349f2e3_gemita_44598966508_1643984947/chunked/index-muted-P1OHYRAD2H.m3u8"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/28fd1b20855f10713b4e_vicens_44612949516_1644081590/chunked/index-muted-C1V55GAYHQ.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "¿LA PELI MÁS BONICA DEL 2021?"
-fecha = "04-02-2022"
-streamer = "nanisimo"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/4c32f22b93887a0c5164_nanisimo_44601964428_1644001359/chunked/index-dvr.m3u8"
-main(nombre, fecha, streamer, url_vid)
-
-nombre = "HackTheBox | Return"
-fecha = "04-02-2022"
-streamer = "s4vitaar"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/dfafb3ca8154b85a5a26_s4vitaar_44602727244_1644004634/chunked/index-dvr.m3u8"
-main(nombre, fecha, streamer, url_vid)
-
-nombre = "Dome Romantik game dev"
-fecha = "04-02-2022"
-streamer = "jotson"
-url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/553221955ac5f44436f0_jotson_45404678957_1643984912/chunked/index-dvr.m3u8"
+nombre = "SABADO PARA CONSEGUIR UN BUEN TOKEN!!!!"
+fecha = "05-02-2022"
+streamer = "raedtoken"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/e270b27326a606b7c49b_raedtoken_44617318140_1644102213/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
