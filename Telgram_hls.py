@@ -259,20 +259,26 @@ def main(nom_vid: str, fecha_vid: str, stream_vid: str, url_vid: str):
     os.rmdir("ts")
     crearTxtProp("./" + dir_vid + "/")
 
-nombre = "Rebajas en Steam de Los Sims #SponsoredbyEA 👁️👅👁️ IG: @_paracetamor TW: @paracetamor !nuevovideo"
-fecha = "05-02-2022"
+nombre = "Elitecraft 3 evento de Rich y lo que surja 👁️👅👁️ IG: @_paracetamor TW: @paracetamor !nuevovideo"
+fecha = "06-02-2022"
 streamer = "paracetamor"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/b83df1408de3be3848a3_paracetamor_44610591964_1644068063/chunked/index-dvr.m3u8"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/3a2a6a391ea4d4130a3c_paracetamor_44623642044_1644160848/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "VAMOS A DESBLOQUEAR A THEROCK EN FORTNITE Y LUEGO LO QUE SURJAAAAAA PA PA PA PA PA "
-fecha = "05-02-2022"
-streamer = "gemita"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/28fd1b20855f10713b4e_vicens_44612949516_1644081590/chunked/index-muted-C1V55GAYHQ.m3u8"
+nombre = "Hacking y Ciberseguridad | CIBERCONSULTORIO CON S4VITAR !comoempiezo"
+fecha = "06-02-2022"
+streamer = "s4vitaar"
+url_vid = "https://dqrpb9wgowsf5.cloudfront.net/2abbe0f53641c9f16016_s4vitaar_40513387963_1644177432/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "SABADO PARA CONSEGUIR UN BUEN TOKEN!!!!"
-fecha = "05-02-2022"
-streamer = "raedtoken"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/e270b27326a606b7c49b_raedtoken_44617318140_1644102213/chunked/index-dvr.m3u8"
+nombre = "[1] +🔞 ✨ORIGEN RP✨Kane O'Neill 🍀|Familia O'neill|❗redes ❗retos ❗pj"
+fecha = "06-02-2022_1"
+streamer = "elperitaafk"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/dd107127df0ffd3be4ad_elperitaafk_44627989676_1644182202/chunked/index-dvr.m3u8"
+main(nombre, fecha, streamer, url_vid)
+
+nombre = "[2] +🔞 ✨ORIGEN RP✨Kane O'Neill 🍀|Familia O'neill|❗redes ❗retos ❗pj"
+fecha = "06-02-2022_2"
+streamer = "elperitaafk"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/791c4d5765afa7b99381_elperitaafk_44629201356_1644190497/chunked/index-muted-IWGW11BMD0.m3u8"
 main(nombre, fecha, streamer, url_vid)
