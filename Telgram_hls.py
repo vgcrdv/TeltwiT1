@@ -259,26 +259,26 @@ def main(nom_vid: str, fecha_vid: str, stream_vid: str, url_vid: str):
     os.rmdir("ts")
     crearTxtProp("./" + dir_vid + "/")
 
-nombre = "Elitecraft 3 evento de Rich y lo que surja 👁️👅👁️ IG: @_paracetamor TW: @paracetamor !nuevovideo"
+nombre = "AYUDENME CON ALGO Y DESPUES THE FOREST EPISODIO 2"
+fecha = "07-02-2022"
+streamer = "rivers_gg"
+url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/0ab75513fbc40b40f5f6_rivers_gg_39430189209_1644277233/chunked/index-dvr.m3u8"
+main(nombre, fecha, streamer, url_vid)
+
+nombre = "🔴 HABLAMOS DE CHILLS Y REACCIONAMOS!!   !redes !libro"
 fecha = "06-02-2022"
-streamer = "paracetamor"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/3a2a6a391ea4d4130a3c_paracetamor_44623642044_1644160848/chunked/index-dvr.m3u8"
+streamer = "violetag"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/52ade35d6f4dc83f485c_violetag_44633163212_1644242631/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "Hacking y Ciberseguridad | CIBERCONSULTORIO CON S4VITAR !comoempiezo"
-fecha = "06-02-2022"
-streamer = "s4vitaar"
-url_vid = "https://dqrpb9wgowsf5.cloudfront.net/2abbe0f53641c9f16016_s4vitaar_40513387963_1644177432/chunked/index-dvr.m3u8"
+nombre = "Rust | Neovim | Back on the layout code"
+fecha = "07-02-2022"
+streamer = "togglebit"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/92df74c20798c4d8f3b2_togglebit_44634145964_1644250385/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "[1] +🔞 ✨ORIGEN RP✨Kane O'Neill 🍀|Familia O'neill|❗redes ❗retos ❗pj"
-fecha = "06-02-2022_1"
-streamer = "elperitaafk"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/dd107127df0ffd3be4ad_elperitaafk_44627989676_1644182202/chunked/index-dvr.m3u8"
-main(nombre, fecha, streamer, url_vid)
-
-nombre = "[2] +🔞 ✨ORIGEN RP✨Kane O'Neill 🍀|Familia O'neill|❗redes ❗retos ❗pj"
-fecha = "06-02-2022_2"
-streamer = "elperitaafk"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/791c4d5765afa7b99381_elperitaafk_44629201356_1644190497/chunked/index-muted-IWGW11BMD0.m3u8"
+nombre = "Hablemos de desarrollo y cosas - UNBOXING de micro y cámara  nueva =D"
+fecha = "07-02-2022"
+streamer = "ari_reinventada"
+url_vid = "https://dqrpb9wgowsf5.cloudfront.net/baf192111c675d3dc632_ari_reinventada_40516132507_1644256742/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
