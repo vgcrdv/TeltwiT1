@@ -259,26 +259,20 @@ def main(nom_vid: str, fecha_vid: str, stream_vid: str, url_vid: str):
     os.rmdir("ts")
     crearTxtProp("./" + dir_vid + "/")
 
-nombre = "AYUDENME CON ALGO Y DESPUES THE FOREST EPISODIO 2"
-fecha = "07-02-2022"
-streamer = "rivers_gg"
-url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/0ab75513fbc40b40f5f6_rivers_gg_39430189209_1644277233/chunked/index-dvr.m3u8"
-main(nombre, fecha, streamer, url_vid)
-
-nombre = "🔴 HABLAMOS DE CHILLS Y REACCIONAMOS!!   !redes !libro"
-fecha = "06-02-2022"
-streamer = "violetag"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/52ade35d6f4dc83f485c_violetag_44633163212_1644242631/chunked/index-dvr.m3u8"
+nombre = "tonto el que lo lea 👁️👅👁️ IG: @_paracetamor TW: @paracetamor !nuevovideo"
+fecha = "08-02-2022"
+streamer = "paracetamor"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/fc25ac01059a7fd12826_paracetamor_44642905708_1644329412/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
 nombre = "Rust | Neovim | Back on the layout code"
-fecha = "07-02-2022"
+fecha = "08-02-2022"
 streamer = "togglebit"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/92df74c20798c4d8f3b2_togglebit_44634145964_1644250385/chunked/index-dvr.m3u8"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/7e3b2d6ff3052f9d6ae9_togglebit_44641290652_1644305431/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "Hablemos de desarrollo y cosas - UNBOXING de micro y cámara  nueva =D"
-fecha = "07-02-2022"
-streamer = "ari_reinventada"
-url_vid = "https://dqrpb9wgowsf5.cloudfront.net/baf192111c675d3dc632_ari_reinventada_40516132507_1644256742/chunked/index-dvr.m3u8"
+nombre = "⭐ HOY SERÁ EL STREAM MÁS CHILL DE LA HISTORIA DEL CANAL⭐ & 👄 TAL VEZ... NOCHE DE ASMR 👄 !regalo !pobox | No Zing"
+fecha = "08-02-2022"
+streamer = "staryuuki"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/ee69a8a848656986ab3b_staryuuki_44638996940_1644279159/chunked/index-muted-Q9K5LN69BJ.m3u8"
 main(nombre, fecha, streamer, url_vid)
