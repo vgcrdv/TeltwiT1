@@ -259,20 +259,26 @@ def main(nom_vid: str, fecha_vid: str, stream_vid: str, url_vid: str):
     os.rmdir("ts")
     crearTxtProp("./" + dir_vid + "/")
 
-nombre = "HOY FULL MELODÍAS - NOS ADENTRAMOS EN LO ABSTRACTO DE LAS ONDAS PARA SACAR A LA SUPERFICIE UNOS RITMOS SABROSONES"
-fecha = "10-02-2022"
-streamer = "jaggerprincesa"
-url_vid = "https://dqrpb9wgowsf5.cloudfront.net/9e137ed2c61b6735e110_jaggerprincesa_40525358539_1644510843/chunked/index-dvr.m3u8"
+nombre = "【﻿ＤＲＯＳＳ－Ｏ－ＲＡＭＡ】"
+fecha = "11-02-2022"
+streamer = "thedrossrotzank"
+url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/6a55f52e4eeacce1b654_thedrossrotzank_45492637021_1644620958/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "¡Grafeno! - Con Paula Urrutia ✏️"
-fecha = "10-02-2022"
-streamer = "gisbanos"
-url_vid = "https://dqrpb9wgowsf5.cloudfront.net/b7ca3ba233e702f3a257_gisbanos_40525932731_1644525112/chunked/index-dvr.m3u8"
+nombre = "JUANIQUILACOPA BUILD BATTLE"
+fecha = "11-02-2022"
+streamer = "rivers_gg"
+url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/6e3802a2ffc97bd06851_rivers_gg_39443783753_1644603843/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "CHARLA SPURSITO + Haaland al Barça o al Madrid con Jijantes y Siro López + Mister Chip"
+nombre = "JUANIQUILACOPA BUILD BATTLE 🚧 espero acepten sobornos"
 fecha = "10-02-2022"
+streamer = "roier"
+url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/e183930ce3f7b59df49d_roier_39443708409_1644602485/chunked/index-muted-I6HL0FAIT7.m3u8"
+main(nombre, fecha, streamer, url_vid)
+
+nombre = "PORRA BARÇA-ESPANYOL CON JIJANTES | PSG-MADRID CON SIRO LÓPEZ | POLÉMICA COPA CON RUBÉN MARTÍN"
+fecha = "11-02-2022"
 streamer = "valentisanjuan"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/d09fc92e7785d23b35d7_valentisanjuan_44662086076_1644495647/chunked/index-dvr.m3u8"
+url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/07f29889e933ec0d0bc5_valentisanjuan_45486818301_1644581478/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
