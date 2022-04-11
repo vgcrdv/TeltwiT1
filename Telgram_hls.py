@@ -259,20 +259,26 @@ def main(nom_vid: str, fecha_vid: str, stream_vid: str, url_vid: str):
     os.rmdir("ts")
     crearTxtProp("./" + dir_vid + "/")
 
-nombre = "tonto el que lo lea 👁️👅👁️ IG: @_paracetamor TW: @paracetamor !nuevovideo"
-fecha = "08-02-2022"
-streamer = "paracetamor"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/fc25ac01059a7fd12826_paracetamor_44642905708_1644329412/chunked/index-dvr.m3u8"
+nombre = "HOY FULL MELODÍAS - NOS ADENTRAMOS EN LO ABSTRACTO DE LAS ONDAS PARA SACAR A LA SUPERFICIE UNOS RITMOS SABROSONES"
+fecha = "10-02-2022"
+streamer = "jaggerprincesa"
+url_vid = "https://dqrpb9wgowsf5.cloudfront.net/9e137ed2c61b6735e110_jaggerprincesa_40525358539_1644510843/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "Rust | Neovim | Back on the layout code"
-fecha = "08-02-2022"
-streamer = "togglebit"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/7e3b2d6ff3052f9d6ae9_togglebit_44641290652_1644305431/chunked/index-dvr.m3u8"
+nombre = "【﻿ＤＲＯＳＳ－Ｏ－ＲＡＭＡ】-> CON UN INVITADO SORPRESA!"
+fecha = "10-02-2022"
+streamer = "thedrossrotzank"
+url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/504306b969af34633042_thedrossrotzank_45470249373_1644451206/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "⭐ HOY SERÁ EL STREAM MÁS CHILL DE LA HISTORIA DEL CANAL⭐ & 👄 TAL VEZ... NOCHE DE ASMR 👄 !regalo !pobox | No Zing"
-fecha = "08-02-2022"
-streamer = "staryuuki"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/ee69a8a848656986ab3b_staryuuki_44638996940_1644279159/chunked/index-muted-Q9K5LN69BJ.m3u8"
+nombre = "¡Grafeno! - Con Paula Urrutia ✏️"
+fecha = "10-02-2022"
+streamer = "gisbanos"
+url_vid = "https://dqrpb9wgowsf5.cloudfront.net/b7ca3ba233e702f3a257_gisbanos_40525932731_1644525112/chunked/index-dvr.m3u8"
+main(nombre, fecha, streamer, url_vid)
+
+nombre = "CHARLA SPURSITO + Haaland al Barça o al Madrid con Jijantes y Siro López + Mister Chip"
+fecha = "10-02-2022"
+streamer = "valentisanjuan"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/d09fc92e7785d23b35d7_valentisanjuan_44662086076_1644495647/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
