@@ -265,12 +265,6 @@ streamer = "jaggerprincesa"
 url_vid = "https://dqrpb9wgowsf5.cloudfront.net/9e137ed2c61b6735e110_jaggerprincesa_40525358539_1644510843/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "【﻿ＤＲＯＳＳ－Ｏ－ＲＡＭＡ】-> CON UN INVITADO SORPRESA!"
-fecha = "10-02-2022"
-streamer = "thedrossrotzank"
-url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/504306b969af34633042_thedrossrotzank_45470249373_1644451206/chunked/index-dvr.m3u8"
-main(nombre, fecha, streamer, url_vid)
-
 nombre = "¡Grafeno! - Con Paula Urrutia ✏️"
 fecha = "10-02-2022"
 streamer = "gisbanos"
