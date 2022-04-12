@@ -259,26 +259,20 @@ def main(nom_vid: str, fecha_vid: str, stream_vid: str, url_vid: str):
     os.rmdir("ts")
     crearTxtProp("./" + dir_vid + "/")
 
-nombre = "【﻿ＤＲＯＳＳ－Ｏ－ＲＡＭＡ】"
-fecha = "11-02-2022"
-streamer = "thedrossrotzank"
-url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/6a55f52e4eeacce1b654_thedrossrotzank_45492637021_1644620958/chunked/index-dvr.m3u8"
-main(nombre, fecha, streamer, url_vid)
-
-nombre = "JUANIQUILACOPA BUILD BATTLE"
-fecha = "11-02-2022"
+nombre = "THE FOREST CAPITULO 3"
+fecha = "12-02-2022"
 streamer = "rivers_gg"
-url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/6e3802a2ffc97bd06851_rivers_gg_39443783753_1644603843/chunked/index-dvr.m3u8"
+url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/7e69fc74517cde6c7ad4_rivers_gg_39445263353_1644627474/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "JUANIQUILACOPA BUILD BATTLE 🚧 espero acepten sobornos"
-fecha = "10-02-2022"
-streamer = "roier"
-url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/e183930ce3f7b59df49d_roier_39443708409_1644602485/chunked/index-muted-I6HL0FAIT7.m3u8"
+nombre = "DOGE DEAD! COMPRAMOS UNA SUPER MEMECOIN! CHUDEMUN?"
+fecha = "12-02-2022"
+streamer = "raedtoken"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/a9d151e23b8cac5dd84c_raedtoken_44682686892_1644673496/chunked/index-muted-8TSR6127GB.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "PORRA BARÇA-ESPANYOL CON JIJANTES | PSG-MADRID CON SIRO LÓPEZ | POLÉMICA COPA CON RUBÉN MARTÍN"
-fecha = "11-02-2022"
-streamer = "valentisanjuan"
-url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/07f29889e933ec0d0bc5_valentisanjuan_45486818301_1644581478/chunked/index-dvr.m3u8"
+nombre = "NO-HIT RELAY RACE 💀 !relayrace !reglas !equipos !horariosabado"
+fecha = "12-02-2022"
+streamer = "chusommontero"
+url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/584d786354d24c7fc279_chusommontero_45502153821_1644685310/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
