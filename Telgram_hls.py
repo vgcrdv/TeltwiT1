@@ -259,20 +259,26 @@ def main(nom_vid: str, fecha_vid: str, stream_vid: str, url_vid: str):
     os.rmdir("ts")
     crearTxtProp("./" + dir_vid + "/")
 
-nombre = "THE FOREST CAPITULO 3"
-fecha = "12-02-2022"
-streamer = "rivers_gg"
-url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/7e69fc74517cde6c7ad4_rivers_gg_39445263353_1644627474/chunked/index-dvr.m3u8"
+nombre = "Charlamos Y Comenzamos con la Gasolinera"
+fecha = "13-02-2022"
+streamer = "xxxthefocusxxx"
+url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/4f2461df70f4bedd4d4f_xxxthefocusxxx_45513802333_1644760842/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "DOGE DEAD! COMPRAMOS UNA SUPER MEMECOIN! CHUDEMUN?"
-fecha = "12-02-2022"
+nombre = "Building a todo app in Vue.js"
+fecha = "13-02-2022"
+streamer = "brookzerker"
+url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/6759f9aca945cbc45c03_brookzerker_45514675245_1644767129/chunked/index-dvr.m3u8"
+main(nombre, fecha, streamer, url_vid)
+
+nombre = "COMPRANDO LO QUE SEA!"
+fecha = "13-02-2022"
 streamer = "raedtoken"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/a9d151e23b8cac5dd84c_raedtoken_44682686892_1644673496/chunked/index-muted-8TSR6127GB.m3u8"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/e0b990fdc7333c90d84b_raedtoken_44690093100_1644718050/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "NO-HIT RELAY RACE 💀 !relayrace !reglas !equipos !horariosabado"
-fecha = "12-02-2022"
-streamer = "chusommontero"
-url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/584d786354d24c7fc279_chusommontero_45502153821_1644685310/chunked/index-dvr.m3u8"
+nombre = "🍀KANE O'NEILL +18 ORIGEN RP  LA MAFIA IRLANDESA🍀 ❗retos ❗redes ❗pj"
+fecha = "13-02-2022"
+streamer = "elperitaafk"
+url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/7410bc37422530c60d9a_elperitaafk_45519094157_1644793313/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
