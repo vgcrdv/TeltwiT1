@@ -259,26 +259,26 @@ def main(nom_vid: str, fecha_vid: str, stream_vid: str, url_vid: str):
     os.rmdir("ts")
     crearTxtProp("./" + dir_vid + "/")
 
-nombre = "ＤＲＯＳＳ－Ｏ－ＲＡＭＡ"
-fecha = "14-02-2022"
-streamer = "thedrossrotzank"
-url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/a741f8c8c25d38c22f6f_thedrossrotzank_45529070477_1644878173/chunked/index-dvr.m3u8"
+nombre = "ZORDO YA ES PARTE DEL PASADO, VUELVE ZORMANOS ||💎Happy Zorman💎"
+fecha = "15-02-2022"
+streamer = "zormanworld"
+url_vid = "https://d1m7jfoe9zdc1j.cloudfront.net/89b8cb2d548d54964b42_zormanworld_45537985997_1644951495/chunked/index-muted-QEPV4REVY5.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "caminando con ustedes feliz san valentin ❤"
-fecha = "14-02-2022"
-streamer = "elspreen"
-url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/70a5d7bb61dac75896be_elspreen_45528487709_1644874340/chunked/index-dvr.m3u8"
+nombre = "Feynman Lectures on Physics - I. 32. Amortiguación de radiación. Esparcimiento de la luz ☁️"
+fecha = "15-02-2022"
+streamer = "gisbanos"
+url_vid = "https://d1m7jfoe9zdc1j.cloudfront.net/d9bc9c0bf181474b3ca8_gisbanos_45538766925_1644956790/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "NO HAY TIEMPO PARA EL AMOR SI TENEMOS QUE COMPRAR 2 MEMECOINS!"
-fecha = "14-02-2022"
-streamer = "raedtoken"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/1459751d6e2f90d5290a_raedtoken_44702706012_1644846118/chunked/index-muted-QFAVEMM3VN.m3u8"
+nombre = "¿Rusia se retira? ¿Canadá se tiraniza?"
+fecha = "15-02-2022"
+streamer = "nanisimo"
+url_vid = "https://dgeft87wbj63p.cloudfront.net/045317793d6e1af8b907_nanisimo_44713858396_1644951608/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "El Origen RP +18 | La familia O’Neill 🍀 - ¿En forma? "
-fecha = "14-02-2022"
-streamer = "tanizen"
-url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/01d44f3a8f185ff6453a_tanizen_45529452029_1644880566/chunked/index-dvr.m3u8"
+nombre = "HackTheBox | Flustered"
+fecha = "15-02-2022"
+streamer = "s4vitaar"
+url_vid = "https://d1m7jfoe9zdc1j.cloudfront.net/52c5b6b9077f8311bdb9_s4vitaar_45538531773_1644955203/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
