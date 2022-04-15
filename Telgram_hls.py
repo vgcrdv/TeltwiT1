@@ -259,26 +259,26 @@ def main(nom_vid: str, fecha_vid: str, stream_vid: str, url_vid: str):
     os.rmdir("ts")
     crearTxtProp("./" + dir_vid + "/")
 
-nombre = "Charlamos Y Comenzamos con la Gasolinera"
-fecha = "13-02-2022"
-streamer = "xxxthefocusxxx"
-url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/4f2461df70f4bedd4d4f_xxxthefocusxxx_45513802333_1644760842/chunked/index-dvr.m3u8"
+nombre = "ＤＲＯＳＳ－Ｏ－ＲＡＭＡ"
+fecha = "14-02-2022"
+streamer = "thedrossrotzank"
+url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/a741f8c8c25d38c22f6f_thedrossrotzank_45529070477_1644878173/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "Building a todo app in Vue.js"
-fecha = "13-02-2022"
-streamer = "brookzerker"
-url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/6759f9aca945cbc45c03_brookzerker_45514675245_1644767129/chunked/index-dvr.m3u8"
+nombre = "caminando con ustedes feliz san valentin ❤"
+fecha = "14-02-2022"
+streamer = "elspreen"
+url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/70a5d7bb61dac75896be_elspreen_45528487709_1644874340/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "COMPRANDO LO QUE SEA!"
-fecha = "13-02-2022"
+nombre = "NO HAY TIEMPO PARA EL AMOR SI TENEMOS QUE COMPRAR 2 MEMECOINS!"
+fecha = "14-02-2022"
 streamer = "raedtoken"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/e0b990fdc7333c90d84b_raedtoken_44690093100_1644718050/chunked/index-dvr.m3u8"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/1459751d6e2f90d5290a_raedtoken_44702706012_1644846118/chunked/index-muted-QFAVEMM3VN.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "🍀KANE O'NEILL +18 ORIGEN RP  LA MAFIA IRLANDESA🍀 ❗retos ❗redes ❗pj"
-fecha = "13-02-2022"
-streamer = "elperitaafk"
-url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/7410bc37422530c60d9a_elperitaafk_45519094157_1644793313/chunked/index-dvr.m3u8"
+nombre = "El Origen RP +18 | La familia O’Neill 🍀 - ¿En forma? "
+fecha = "14-02-2022"
+streamer = "tanizen"
+url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/01d44f3a8f185ff6453a_tanizen_45529452029_1644880566/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
