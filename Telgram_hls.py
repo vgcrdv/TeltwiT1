@@ -259,32 +259,20 @@ def main(nom_vid: str, fecha_vid: str, stream_vid: str, url_vid: str):
     os.rmdir("ts")
     crearTxtProp("./" + dir_vid + "/")
 
-nombre = "HOY REGRESAN LOS SOLOS EN WZ Y DESPUES CAFE SIMULATOR"
-fecha = "16-02-2022"
+nombre = "RIVERSUS ESCONDIDAS EN WARZONE CON STREAMERS"
+fecha = "17-02-2022"
 streamer = "rivers_gg"
-url_vid = "https://d1m7jfoe9zdc1j.cloudfront.net/e0d09c0ead06dcac6b72_rivers_gg_39463060313_1645052959/chunked/index-dvr.m3u8"
+url_vid = "https://d1m7jfoe9zdc1j.cloudfront.net/d13d662b68f7c26ec9ac_rivers_gg_39466814041_1645139609/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "BABY BABY BABY OOOH || !redes"
-fecha = "16-02-2022"
-streamer = "aldo_geo"
-url_vid = "https://d1m7jfoe9zdc1j.cloudfront.net/622632ff9752279e0d8b_aldo_geo_45541953709_1644975696/chunked/index-dvr.m3u8"
+nombre = "ESTAMOS DE VUELTA 🥳🥳🥳       | !objetivo | EL ÁRBOL NO SE VA A QUITAR NUNCA"
+fecha = "17-02-2022"
+streamer = "gemita"
+url_vid = "https://d1m7jfoe9zdc1j.cloudfront.net/86bedeefb7755d5a1688_gemita_45558425357_1645106405/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "Siempre activos nunca inactivos"
-fecha = "16-02-2022"
-streamer = "olliegamerz"
-url_vid = "https://d1m7jfoe9zdc1j.cloudfront.net/25eb47c14db9b7947a41_olliegamerz_45548744221_1645033429/chunked/index-dvr.m3u8"
-main(nombre, fecha, streamer, url_vid)
-
-nombre = "TypeScript: consiste en reescribir 200 llamadas a una función sin romper el código"
-fecha = "16-02-2022"
-streamer = "danirod_"
-url_vid = "https://d1m7jfoe9zdc1j.cloudfront.net/6264c4ad0ea21c48bcb5_danirod__45549371373_1645037661/chunked/index-dvr.m3u8"
-main(nombre, fecha, streamer, url_vid)
-
-nombre = "[2] Building a crypto based OnlyFans competitor! // !blip !youtube !nytro !tiktok"
-fecha = "16-02-2022"
-streamer = "mewtru"
-url_vid = "https://d2nvs31859zcd8.cloudfront.net/600ba3ed6583b0e5079d_mewtru_40543154667_1645034712/chunked/index-dvr.m3u8"
+nombre = "El modelo estándar y el CERN ⚛️ - Con @xuancern "
+fecha = "17-02-2022"
+streamer = "gisbanos"
+url_vid = "https://d1m7jfoe9zdc1j.cloudfront.net/bdad1de45be0fe66899a_gisbanos_45561688381_1645129588/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
