@@ -259,20 +259,26 @@ def main(nom_vid: str, fecha_vid: str, stream_vid: str, url_vid: str):
     os.rmdir("ts")
     crearTxtProp("./" + dir_vid + "/")
 
-nombre = "RIVERSUS ESCONDIDAS EN WARZONE CON STREAMERS"
-fecha = "17-02-2022"
-streamer = "rivers_gg"
-url_vid = "https://d1m7jfoe9zdc1j.cloudfront.net/d13d662b68f7c26ec9ac_rivers_gg_39466814041_1645139609/chunked/index-dvr.m3u8"
+nombre = "TORNEO DE CLASH ROYALE CON ESPECTADORES 🥵 || !contraseña !premio !pvp !torneo !tiktok !redes !memide"
+fecha = "18-02-2022"
+streamer = "juanbethencourt"
+url_vid = "https://dgeft87wbj63p.cloudfront.net/be848c6a0cd6d79c0740_juanbethencourt_44734724636_1645142864/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "ESTAMOS DE VUELTA 🥳🥳🥳       | !objetivo | EL ÁRBOL NO SE VA A QUITAR NUNCA"
-fecha = "17-02-2022"
-streamer = "gemita"
-url_vid = "https://d1m7jfoe9zdc1j.cloudfront.net/86bedeefb7755d5a1688_gemita_45558425357_1645106405/chunked/index-dvr.m3u8"
+nombre = "KNIGHTS vs SEN (0-0)| 🏆 WATCH PARTY 🏆"
+fecha = "18-02-2022"
+streamer = "mixwell"
+url_vid = "https://d1m7jfoe9zdc1j.cloudfront.net/3e2c20ad9efdbb2411f2_mixwell_45574469933_1645220366/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "El modelo estándar y el CERN ⚛️ - Con @xuancern "
-fecha = "17-02-2022"
-streamer = "gisbanos"
-url_vid = "https://d1m7jfoe9zdc1j.cloudfront.net/bdad1de45be0fe66899a_gisbanos_45561688381_1645129588/chunked/index-dvr.m3u8"
+nombre = "Rust | Neovim | Exploring TUI architecture design"
+fecha = "18-02-2022"
+streamer = "togglebit"
+url_vid = "https://dgeft87wbj63p.cloudfront.net/5a9bc52a46bf5a080909_togglebit_44737469036_1645178181/chunked/index-dvr.m3u8"
+main(nombre, fecha, streamer, url_vid)
+
+nombre = "POST BARÇA-NÁPOLES EN JIJANTES + PAPA BUYER + SIRO LÓPEZ + MOTOGP CON NICO ABAD + ENTREVISTA JORGE CREMADES"
+fecha = "18-02-2022"
+streamer = "valentisanjuan"
+url_vid = "https://d1m7jfoe9zdc1j.cloudfront.net/5b0b227247fb69f6b869_valentisanjuan_45569208573_1645184193/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
