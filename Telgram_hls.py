@@ -260,25 +260,37 @@ def main(nom_vid: str, fecha_vid: str, stream_vid: str, url_vid: str):
     crearTxtProp("./" + dir_vid + "/")
 
 nombre = "TORNEO DE CLASH ROYALE CON ESPECTADORES 🥵 || !contraseña !premio !pvp !torneo !tiktok !redes !memide"
-fecha = "18-02-2022"
+fecha = "19-02-2022"
 streamer = "juanbethencourt"
-url_vid = "https://dgeft87wbj63p.cloudfront.net/be848c6a0cd6d79c0740_juanbethencourt_44734724636_1645142864/chunked/index-dvr.m3u8"
+url_vid = "https://dgeft87wbj63p.cloudfront.net/b6bd1f96f5da49b9da88_juanbethencourt_44755041308_1645312148/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "KNIGHTS vs SEN (0-0)| 🏆 WATCH PARTY 🏆"
-fecha = "18-02-2022"
-streamer = "mixwell"
-url_vid = "https://d1m7jfoe9zdc1j.cloudfront.net/3e2c20ad9efdbb2411f2_mixwell_45574469933_1645220366/chunked/index-dvr.m3u8"
+nombre = "[1] RED BULL LEVELS - ELDEN RING desde Munich 😎 !relajao !redbull"
+fecha = "19-02-2022_1"
+streamer = "chusommontero"
+url_vid = "https://dgeft87wbj63p.cloudfront.net/f0bcd99888d9b3357699_chusommontero_44749609692_1645281445/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "Rust | Neovim | Exploring TUI architecture design"
-fecha = "18-02-2022"
-streamer = "togglebit"
-url_vid = "https://dgeft87wbj63p.cloudfront.net/5a9bc52a46bf5a080909_togglebit_44737469036_1645178181/chunked/index-dvr.m3u8"
+nombre = "[2] RED BULL LEVELS - ELDEN RING desde Munich 😎 !relajao !redbull"
+fecha = "19-02-2022_2"
+streamer = "chusommontero"
+url_vid = "https://dgeft87wbj63p.cloudfront.net/9bda9988841bb295fba8_chusommontero_44750249484_1645285770/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "POST BARÇA-NÁPOLES EN JIJANTES + PAPA BUYER + SIRO LÓPEZ + MOTOGP CON NICO ABAD + ENTREVISTA JORGE CREMADES"
-fecha = "18-02-2022"
-streamer = "valentisanjuan"
-url_vid = "https://d1m7jfoe9zdc1j.cloudfront.net/5b0b227247fb69f6b869_valentisanjuan_45569208573_1645184193/chunked/index-dvr.m3u8"
+nombre = "[3] RED BULL LEVELS - ELDEN RING desde Munich 😎 !relajao !redbull"
+fecha = "19-02-2022_3"
+streamer = "chusommontero"
+url_vid = "https://dgeft87wbj63p.cloudfront.net/f13eefe67a55a3b0195e_chusommontero_44752611116_1645298507/chunked/index-dvr.m3u8"
+main(nombre, fecha, streamer, url_vid)
+
+nombre = "[4] RED BULL LEVELS - ELDEN RING desde Munich 😎 !relajao !redbull"
+fecha = "19-02-2022_4"
+streamer = "chusommontero"
+url_vid = "https://d1m7jfoe9zdc1j.cloudfront.net/1895c4d4390ad9c8c674_chusommontero_45587520589_1645305957/chunked/index-dvr.m3u8"
+main(nombre, fecha, streamer, url_vid)
+
+nombre = "🔴GIANTS PRINCESITA INCA DEMUESTRA QUE COMER GRILLOS HACE QUE TE CREZCAN LAS MANOS🔴 !VIDEO !UGGAPP !SORTEO"
+fecha = "19-02-2022"
+streamer = "nissaxter"
+url_vid = "https://dgeft87wbj63p.cloudfront.net/5f52952554b7e8a4aea2_nissaxter_44754551004_1645308760/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
