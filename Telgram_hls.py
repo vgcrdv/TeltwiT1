@@ -259,20 +259,44 @@ def main(nom_vid: str, fecha_vid: str, stream_vid: str, url_vid: str):
     os.rmdir("ts")
     crearTxtProp("./" + dir_vid + "/")
 
-nombre = "(✿◠‿◠) Zeling I 🐷  II Nochecita con el chat, necesito xat I !tiktok"
-fecha = "20-02-2022"
-streamer = "zeling"
-url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/0befdde41364f93c0118_zeling_45594481181_1645353249/chunked/index-dvr.m3u8"
+nombre = "🔶 KOI Mayichi 🐱 Eres Bienvenid@ 💜#DonettesInterstellar"
+fecha = "21-02-2022_1"
+streamer = "mayichi"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/26e140ff2057e28b1a42_mayichi_44774440572_1645482147/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "Hacking y Ciberseguridad | CONSULTORIO Y CHARLANDO CON LA COMUNIDAD <3"
-fecha = "20-02-2022"
-streamer = "s4vitaar"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/1e71565632e1b2034fd7_s4vitaar_44763836556_1645387363/chunked/index-dvr.m3u8"
+nombre = "🔶 KOI Mayichi 🐱 Eres Bienvenid@ 💜#DonettesInterstellar #AD"
+fecha = "21-02-2022_2"
+streamer = "mayichi"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/82d2e432e4c6ff003116_mayichi_44774968172_1645486218/chunked/index-muted-6YFSZO8601.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "Directo calmado y a las 19:00 podcast Nos Gusta Linux"
-fecha = "20-02-2022"
-streamer = "danirod_"
-url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/96e72a30061c0e9fcc32_danirod__45596951197_1645373586/chunked/index-dvr.m3u8"
+nombre = "[1] Comentamos la velada y jugamos ||💎Happy Zorman💎"
+fecha = "21-02-2022_1"
+streamer = "zormanworld"
+url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/50eb37e832831c68a887_zormanworld_45610845197_1645475364/chunked/index-dvr.m3u8"
+main(nombre, fecha, streamer, url_vid)
+
+nombre = "[2] Comentamos la velada y jugamos ||💎Happy Zorman💎"
+fecha = "21-02-2022_2"
+streamer = "zormanworld"
+url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/34d6df2de0b47f30785f_zormanworld_45612172189_1645483113/chunked/index-dvr.m3u8"
+main(nombre, fecha, streamer, url_vid)
+
+nombre = "SORTEO MONOPOLIO LANDS !! "
+fecha = "21-02-2022_1"
+streamer = "raedtoken"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/9e35b56404edcf80e75c_raedtoken_44767285196_1645414290/chunked/index-dvr.m3u8"
+main(nombre, fecha, streamer, url_vid)
+
+nombre = "LIMPIO MI WALLET, REGALO TOKENS! QUE ESPERAS? SUBIRAN PRONTO! CHUDEMUN"
+fecha = "21-02-2022_2"
+streamer = "raedtoken"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/26e7f32cbc9b3b4a959f_raedtoken_44772084892_1645468614/chunked/index-dvr.m3u8"
+main(nombre, fecha, streamer, url_vid)
+
+nombre = "SORTEO LAND DE MONOPOLIO! ABEJITAS ACTIVAS Y CUENTO INTIMIDADES DE ABDUL EN VENGANZA POR VIOLAR MI PRIVACIDAD!"
+fecha = "21-02-2022_3"
+streamer = "raedtoken"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/1b7bbba9ea36d8923e6c_raedtoken_44775171596_1645487855/chunked/index-muted-JGQWMNAZ4K.m3u8"
 main(nombre, fecha, streamer, url_vid)
