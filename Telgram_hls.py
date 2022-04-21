@@ -259,38 +259,20 @@ def main(nom_vid: str, fecha_vid: str, stream_vid: str, url_vid: str):
     os.rmdir("ts")
     crearTxtProp("./" + dir_vid + "/")
 
-nombre = "TORNEO DE CLASH ROYALE CON ESPECTADORES 🥵 || !contraseña !premio !pvp !torneo !tiktok !redes !memide"
-fecha = "19-02-2022"
-streamer = "juanbethencourt"
-url_vid = "https://dgeft87wbj63p.cloudfront.net/b6bd1f96f5da49b9da88_juanbethencourt_44755041308_1645312148/chunked/index-dvr.m3u8"
+nombre = "(✿◠‿◠) Zeling I 🐷  II Nochecita con el chat, necesito xat I !tiktok"
+fecha = "20-02-2022"
+streamer = "zeling"
+url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/0befdde41364f93c0118_zeling_45594481181_1645353249/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "[1] RED BULL LEVELS - ELDEN RING desde Munich 😎 !relajao !redbull"
-fecha = "19-02-2022_1"
-streamer = "chusommontero"
-url_vid = "https://dgeft87wbj63p.cloudfront.net/f0bcd99888d9b3357699_chusommontero_44749609692_1645281445/chunked/index-dvr.m3u8"
+nombre = "Hacking y Ciberseguridad | CONSULTORIO Y CHARLANDO CON LA COMUNIDAD <3"
+fecha = "20-02-2022"
+streamer = "s4vitaar"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/1e71565632e1b2034fd7_s4vitaar_44763836556_1645387363/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "[2] RED BULL LEVELS - ELDEN RING desde Munich 😎 !relajao !redbull"
-fecha = "19-02-2022_2"
-streamer = "chusommontero"
-url_vid = "https://dgeft87wbj63p.cloudfront.net/9bda9988841bb295fba8_chusommontero_44750249484_1645285770/chunked/index-dvr.m3u8"
-main(nombre, fecha, streamer, url_vid)
-
-nombre = "[3] RED BULL LEVELS - ELDEN RING desde Munich 😎 !relajao !redbull"
-fecha = "19-02-2022_3"
-streamer = "chusommontero"
-url_vid = "https://dgeft87wbj63p.cloudfront.net/f13eefe67a55a3b0195e_chusommontero_44752611116_1645298507/chunked/index-dvr.m3u8"
-main(nombre, fecha, streamer, url_vid)
-
-nombre = "[4] RED BULL LEVELS - ELDEN RING desde Munich 😎 !relajao !redbull"
-fecha = "19-02-2022_4"
-streamer = "chusommontero"
-url_vid = "https://d1m7jfoe9zdc1j.cloudfront.net/1895c4d4390ad9c8c674_chusommontero_45587520589_1645305957/chunked/index-dvr.m3u8"
-main(nombre, fecha, streamer, url_vid)
-
-nombre = "🔴GIANTS PRINCESITA INCA DEMUESTRA QUE COMER GRILLOS HACE QUE TE CREZCAN LAS MANOS🔴 !VIDEO !UGGAPP !SORTEO"
-fecha = "19-02-2022"
-streamer = "nissaxter"
-url_vid = "https://dgeft87wbj63p.cloudfront.net/5f52952554b7e8a4aea2_nissaxter_44754551004_1645308760/chunked/index-dvr.m3u8"
+nombre = "Directo calmado y a las 19:00 podcast Nos Gusta Linux"
+fecha = "20-02-2022"
+streamer = "danirod_"
+url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/96e72a30061c0e9fcc32_danirod__45596951197_1645373586/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
