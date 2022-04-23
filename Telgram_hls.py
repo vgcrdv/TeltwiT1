@@ -259,20 +259,20 @@ def main(nom_vid: str, fecha_vid: str, stream_vid: str, url_vid: str):
     os.rmdir("ts")
     crearTxtProp("./" + dir_vid + "/")
 
-nombre = "Armando #1  | OrigenRP"
-fecha = "22-02-2022"
-streamer = "xxxthefocusxxx"
-url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/31d4c0e9663938ea87da_xxxthefocusxxx_45618918685_1645538323/chunked/index-dvr.m3u8"
+nombre = "REACCIONAMOS A LOS 3 COMBATES DE LA VELADA QUE NOS FALTAN 🥳 | !objetivo (si es cierto)"
+fecha = "23-02-2022"
+streamer = "gemita"
+url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/b24ca8604f93872043d7_gemita_45630279869_1645624471/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "(✿◠‿◠) Zeling I 🐷  II SOY ESCORPIO ASCENDENTE LIBRA"
-fecha = "22-02-2022"
-streamer = "zeling"
-url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/a193e3b0d1e1814897e9_zeling_45617710589_1645525825/chunked/index-dvr.m3u8"
+nombre = "⭐COSPLAY DE BULMA⭐ & 🔥 VIENDO CLIPS DE TWITCH 🔥 | No Zings"
+fecha = "23-02-2022"
+streamer = "staryuuki"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/7102c762d496ab7dc20c_staryuuki_44784910044_1645578368/chunked/index-muted-I6YBZB6XEL.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "RUBÉN MARTÍN Y JALEO EN EL VAR + PREVIA BARÇA-NAPOLI CON GERARD ROMERO + SIRO LÓPEZ Y EL MADRID + ENTREVISTA JUAN CARLOS UNZUÉ"
-fecha = "22-02-2022"
-streamer = "valentisanjuan"
-url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/98c44d2d8e84bc529b34_valentisanjuan_45618328813_1645532705/chunked/index-dvr.m3u8"
+nombre = "UN  CEMENTERIO DE JUEGOS! ANALIZAMOS EL PORQUE! QUE JUEGO PROMETE SER LA RESURRECCION DE LOS NFT GAMES?"
+fecha = "23-02-2022"
+streamer = "raedtoken"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/b0eb4fb6b308ca6ab45f_raedtoken_44784800492_1645577680/chunked/index-muted-WVGKLVBM0Z.m3u8"
 main(nombre, fecha, streamer, url_vid)
