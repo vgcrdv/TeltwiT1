@@ -259,26 +259,38 @@ def main(nom_vid: str, fecha_vid: str, stream_vid: str, url_vid: str):
     os.rmdir("ts")
     crearTxtProp("./" + dir_vid + "/")
 
-nombre = "Rusia invade a Ucrania ~ STREAM SORPRESA!"
-fecha = "24-02-2022"
-streamer = "thedrossrotzank"
-url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/3805b576a044d14f5939_thedrossrotzank_39492483929_1645700426/chunked/index-dvr.m3u8"
+nombre = "🔞Unos Pubg Con la leyenda del Gaming "
+fecha = "25-02-2022"
+streamer = "xxxthefocusxxx"
+url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/ee7c38ff7e8b985c903b_xxxthefocusxxx_45652942365_1645797277/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "Quizá no haya Elden Ring, pero sí ahbrá puro arte y puro cine "
-fecha = "24-02-2022"
-streamer = "jaggerprincesa"
-url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/3fe69a0ca9fd9d39a189_jaggerprincesa_45642288461_1645719176/chunked/index-dvr.m3u8"
+nombre = "Vengo de entrenar y ni me he duchado aun 👁️👅👁️ IG: @_paracetamor TW: @paracetamor "
+fecha = "25-02-2022"
+streamer = "paracetamor"
+url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/781f8c65315857cf6c8b_paracetamor_45653403885_1645801080/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "🔴UN POQUITO DE CHARLAS Y JUEGUESITO NUEVO?? !redes !libro"
-fecha = "24-02-2022"
-streamer = "violetag"
-url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/3e248d60a41c089e16d9_violetag_45641468477_1645711770/chunked/index-dvr.m3u8"
+nombre = "🔴GRILLAXTER CARRILEANDO LOS GAMES AL TEAM MANUTE CON UNA MANO ATADA A LA ESPALDA EZ WIN🔴 !VIDEO !SORTEO !UGGAPP "
+fecha = "25-02-2022"
+streamer = "nissaxter"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/1efb8cdf78ec8b2f7ace_nissaxter_44810147548_1645821506/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "HackTheBox | Intelligence"
-fecha = "24-02-2022"
-streamer = "s4vitaar"
-url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/33cc26d088f4fa9ef0de_s4vitaar_45644146445_1645732789/chunked/index-dvr.m3u8"
+nombre = "Connecting to Twitch chat with Rust"
+fecha = "25-02-2022_1"
+streamer = "brookzerker"
+url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/85f0c565aa11e3bb3363_brookzerker_45647952637_1645754461/chunked/index-dvr.m3u8"
+main(nombre, fecha, streamer, url_vid)
+
+nombre = "Building a todo app with Rust + Yew.rs"
+fecha = "25-02-2022_2"
+streamer = "brookzerker"
+url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/cc54df878e5efc3703ff_brookzerker_45652956285_1645797394/chunked/index-dvr.m3u8"
+main(nombre, fecha, streamer, url_vid)
+
+nombre = "Dome Romantik gamedev with Godot Engine"
+fecha = "25-02-2022"
+streamer = "jotson"
+url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/6efcf0790fe13ec1e734_jotson_45653203725_1645799414/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
