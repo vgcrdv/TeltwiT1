@@ -259,20 +259,26 @@ def main(nom_vid: str, fecha_vid: str, stream_vid: str, url_vid: str):
     os.rmdir("ts")
     crearTxtProp("./" + dir_vid + "/")
 
-nombre = "REACCIONAMOS A LOS 3 COMBATES DE LA VELADA QUE NOS FALTAN 🥳 | !objetivo (si es cierto)"
-fecha = "23-02-2022"
-streamer = "gemita"
-url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/b24ca8604f93872043d7_gemita_45630279869_1645624471/chunked/index-dvr.m3u8"
+nombre = "Rusia invade a Ucrania ~ STREAM SORPRESA!"
+fecha = "24-02-2022"
+streamer = "thedrossrotzank"
+url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/3805b576a044d14f5939_thedrossrotzank_39492483929_1645700426/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "⭐COSPLAY DE BULMA⭐ & 🔥 VIENDO CLIPS DE TWITCH 🔥 | No Zings"
-fecha = "23-02-2022"
-streamer = "staryuuki"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/7102c762d496ab7dc20c_staryuuki_44784910044_1645578368/chunked/index-muted-I6YBZB6XEL.m3u8"
+nombre = "Quizá no haya Elden Ring, pero sí ahbrá puro arte y puro cine "
+fecha = "24-02-2022"
+streamer = "jaggerprincesa"
+url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/3fe69a0ca9fd9d39a189_jaggerprincesa_45642288461_1645719176/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "UN  CEMENTERIO DE JUEGOS! ANALIZAMOS EL PORQUE! QUE JUEGO PROMETE SER LA RESURRECCION DE LOS NFT GAMES?"
-fecha = "23-02-2022"
-streamer = "raedtoken"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/b0eb4fb6b308ca6ab45f_raedtoken_44784800492_1645577680/chunked/index-muted-WVGKLVBM0Z.m3u8"
+nombre = "🔴UN POQUITO DE CHARLAS Y JUEGUESITO NUEVO?? !redes !libro"
+fecha = "24-02-2022"
+streamer = "violetag"
+url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/3e248d60a41c089e16d9_violetag_45641468477_1645711770/chunked/index-dvr.m3u8"
+main(nombre, fecha, streamer, url_vid)
+
+nombre = "HackTheBox | Intelligence"
+fecha = "24-02-2022"
+streamer = "s4vitaar"
+url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/33cc26d088f4fa9ef0de_s4vitaar_45644146445_1645732789/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
