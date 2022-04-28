@@ -259,20 +259,26 @@ def main(nom_vid: str, fecha_vid: str, stream_vid: str, url_vid: str):
     os.rmdir("ts")
     crearTxtProp("./" + dir_vid + "/")
 
-nombre = "[中文] Week 3 Day 2 | MFT vs. S9 | PCS 2022 春季聯賽 Spring Split"
-fecha = "26-02-2022"
-streamer = "lolpacifictw"
-url_vid = "https://dqrpb9wgowsf5.cloudfront.net/c79a75603c5424f6f554_lolpacifictw_40572833019_1645864208/chunked/index-dvr.m3u8"
+nombre = "🔞Armando #5 | OrigenRP"
+fecha = "27-02-2022"
+streamer = "xxxthefocusxxx"
+url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/46df03493eebfa838bf6_xxxthefocusxxx_45677796253_1645969556/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "HOY SE JUEGA EL MUNDIAL DE CREATVIO DE FORTNITE"
-fecha = "26-02-2022"
-streamer = "agustin51"
-url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/51f73fe803a8a380a5f0_agustin51_45665623693_1645885790/chunked/index-dvr.m3u8"
+nombre = "🍀KANE O'NEILL +18 ORIGEN RP  LA MAFIA IRLANDESA🍀 ❗retos ❗redes ❗pjredes❗retos"
+fecha = "27-02-2022"
+streamer = "elperitaafk"
+url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/7bbec078537c10869997_elperitaafk_45682944397_1646003100/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "Rust | Neovim | Rows and columns for a TUI layout lib"
-fecha = "26-02-2022"
-streamer = "togglebit"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/c88aee70c63a36c8a1aa_togglebit_44814883148_1645861185/chunked/index-dvr.m3u8"
+nombre = "SORTEO SOLO SUBS CABRONES PAGUENME "
+fecha = "27-02-2022_1"
+streamer = "raedtoken"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/dd1813656b9c9d38bcd5_raedtoken_44824235548_1645931716/chunked/index-dvr.m3u8"
+main(nombre, fecha, streamer, url_vid)
+
+nombre = "MONOPOLIO! LANZAMIENTO DEL TOKEN Y EL JUEGO! COMPRE UN PATO AMORFO EN SOLANA!"
+fecha = "27-02-2022_2"
+streamer = "raedtoken"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/68bfc8384b1eccd67428_raedtoken_44829508716_1645984899/chunked/index-muted-8S3D5PP1PI.m3u8"
 main(nombre, fecha, streamer, url_vid)
