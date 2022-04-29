@@ -259,26 +259,26 @@ def main(nom_vid: str, fecha_vid: str, stream_vid: str, url_vid: str):
     os.rmdir("ts")
     crearTxtProp("./" + dir_vid + "/")
 
-nombre = "🔞Armando #5 | OrigenRP"
-fecha = "27-02-2022"
-streamer = "xxxthefocusxxx"
-url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/46df03493eebfa838bf6_xxxthefocusxxx_45677796253_1645969556/chunked/index-dvr.m3u8"
+nombre = "buenísimas tardes 👁️👅👁️ IG: @_paracetamor TW: @paracetamor "
+fecha = "28-02-2022"
+streamer = "paracetamor"
+url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/87fe324dc5b1d016ec47_paracetamor_45689130909_1646057146/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "🍀KANE O'NEILL +18 ORIGEN RP  LA MAFIA IRLANDESA🍀 ❗retos ❗redes ❗pjredes❗retos"
-fecha = "27-02-2022"
-streamer = "elperitaafk"
-url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/7bbec078537c10869997_elperitaafk_45682944397_1646003100/chunked/index-dvr.m3u8"
+nombre = "Gerard Romero y Goleada Culé + Siro López y su accidente en Karts + Rubén Martín apuesta x el Barça + Entrevista Carlos Coloma"
+fecha = "28-02-2022"
+streamer = "valentisanjuan"
+url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/d2d9a6ac935e2a5ac4a0_valentisanjuan_45688553277_1646051673/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "SORTEO SOLO SUBS CABRONES PAGUENME "
-fecha = "27-02-2022_1"
-streamer = "raedtoken"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/dd1813656b9c9d38bcd5_raedtoken_44824235548_1645931716/chunked/index-dvr.m3u8"
+nombre = "FNATIC TQ VS BISONS - SUPERLIGA - PRIMAVERA 2022 - LEAGUE OF LEGENDS"
+fecha = "28-02-2022"
+streamer = "coolifegame"
+url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/5507611891509cdafaee_coolifegame_45691749965_1646078030/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "MONOPOLIO! LANZAMIENTO DEL TOKEN Y EL JUEGO! COMPRE UN PATO AMORFO EN SOLANA!"
-fecha = "27-02-2022_2"
-streamer = "raedtoken"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/68bfc8384b1eccd67428_raedtoken_44829508716_1645984899/chunked/index-muted-8S3D5PP1PI.m3u8"
+nombre = "he vuelto del gulag"
+fecha = "28-2022"
+streamer = "roier"
+url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/cd31a699ed30aee13dba_roier_39509895945_1646067691/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
