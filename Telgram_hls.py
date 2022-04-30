@@ -259,20 +259,32 @@ def main(nom_vid: str, fecha_vid: str, stream_vid: str, url_vid: str):
     os.rmdir("ts")
     crearTxtProp("./" + dir_vid + "/")
 
-nombre = "🔞terrible "
-fecha = "01-03-2022"
-streamer = "xxxthefocusxxx"
-url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/6b26ff3bdcd6891d1d01_xxxthefocusxxx_45699954365_1646143734/chunked/index-dvr.m3u8"
+nombre = "THE FOREST CAPITULO 5"
+fecha = "02-03-2022"
+streamer = "rivers_gg"
+url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/d91bab6b5e79bf243b08_rivers_gg_39515348841_1646179561/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "🔥 NUEVA ACTU, NUEVA SKIN AURA Y NUEVO PACK DEL CLUB VAMOOOOOOOS 🔥"
-fecha = "01-03-2022"
-streamer = "vicens"
-url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/272f6be82b356f1552e1_vicens_45699469885_1646139191/chunked/index-muted-R9491BZNTL.m3u8"
+nombre = "Demon's Souls, con Alva Majo"
+fecha = "02-03-2022"
+streamer = "5ro4"
+url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/e6a8adfde9d0e7751987_5ro4_45712429917_1646245047/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "Curso de Independencia financiera: capitulo 9 Análisis, Charlita, Musiquita.. buenas vibras 😄 !enoff !gorra !curso !entrenamiento 🙌🚀🎉"
-fecha = "01-03-2022"
-streamer = "valentisanjuan"
-url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/cd5d3573bf8086903c8e_valentisanjuan_45699217277_1646136501/chunked/index-dvr.m3u8"
+nombre = "BOLETÍN DIARIO GUERRA RUSO - UCRANIANA"
+fecha = "02-03-2022"
+streamer = "descifrandolaguerra"
+url_vid = "https://dqrpb9wgowsf5.cloudfront.net/eba1bb9b3cad880fb731_descifrandolaguerra_40586835163_1646255055/chunked/index-dvr.m3u8"
+main(nombre, fecha, streamer, url_vid)
+
+nombre = "Un poco de orden en Vim y luego nos metemos de lleno en TypeScript otra vez"
+fecha = "02-03-2022"
+streamer = "danirod_"
+url_vid = "https://dqrpb9wgowsf5.cloudfront.net/1a8298a99ea173811574_danirod__40586593899_1646247672/chunked/index-dvr.m3u8"
+main(nombre, fecha, streamer, url_vid)
+
+nombre = "HOY TENGO MUCHOS AMAS! YUPIIII! "
+fecha = "02-03-2022"
+streamer = "raedtoken"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/c295547d1327b0e5b407_raedtoken_44854869580_1646240490/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
