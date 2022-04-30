@@ -259,26 +259,20 @@ def main(nom_vid: str, fecha_vid: str, stream_vid: str, url_vid: str):
     os.rmdir("ts")
     crearTxtProp("./" + dir_vid + "/")
 
-nombre = "buenísimas tardes 👁️👅👁️ IG: @_paracetamor TW: @paracetamor "
-fecha = "28-02-2022"
-streamer = "paracetamor"
-url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/87fe324dc5b1d016ec47_paracetamor_45689130909_1646057146/chunked/index-dvr.m3u8"
+nombre = "🔞terrible "
+fecha = "01-03-2022"
+streamer = "xxxthefocusxxx"
+url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/6b26ff3bdcd6891d1d01_xxxthefocusxxx_45699954365_1646143734/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "Gerard Romero y Goleada Culé + Siro López y su accidente en Karts + Rubén Martín apuesta x el Barça + Entrevista Carlos Coloma"
-fecha = "28-02-2022"
+nombre = "🔥 NUEVA ACTU, NUEVA SKIN AURA Y NUEVO PACK DEL CLUB VAMOOOOOOOS 🔥"
+fecha = "01-03-2022"
+streamer = "vicens"
+url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/272f6be82b356f1552e1_vicens_45699469885_1646139191/chunked/index-muted-R9491BZNTL.m3u8"
+main(nombre, fecha, streamer, url_vid)
+
+nombre = "Curso de Independencia financiera: capitulo 9 Análisis, Charlita, Musiquita.. buenas vibras 😄 !enoff !gorra !curso !entrenamiento 🙌🚀🎉"
+fecha = "01-03-2022"
 streamer = "valentisanjuan"
-url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/d2d9a6ac935e2a5ac4a0_valentisanjuan_45688553277_1646051673/chunked/index-dvr.m3u8"
-main(nombre, fecha, streamer, url_vid)
-
-nombre = "FNATIC TQ VS BISONS - SUPERLIGA - PRIMAVERA 2022 - LEAGUE OF LEGENDS"
-fecha = "28-02-2022"
-streamer = "coolifegame"
-url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/5507611891509cdafaee_coolifegame_45691749965_1646078030/chunked/index-dvr.m3u8"
-main(nombre, fecha, streamer, url_vid)
-
-nombre = "he vuelto del gulag"
-fecha = "28-2022"
-streamer = "roier"
-url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/cd31a699ed30aee13dba_roier_39509895945_1646067691/chunked/index-dvr.m3u8"
+url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/cd5d3573bf8086903c8e_valentisanjuan_45699217277_1646136501/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
