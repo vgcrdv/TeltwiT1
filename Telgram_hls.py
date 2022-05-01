@@ -259,32 +259,20 @@ def main(nom_vid: str, fecha_vid: str, stream_vid: str, url_vid: str):
     os.rmdir("ts")
     crearTxtProp("./" + dir_vid + "/")
 
-nombre = "THE FOREST CAPITULO 5"
-fecha = "02-03-2022"
+nombre = "RIVERS LA TRAILERA LES CONTESTA LAS PREGUNTAS QUE NO LOS DEJAN DORMIR"
+fecha = "03-03-2022"
 streamer = "rivers_gg"
-url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/d91bab6b5e79bf243b08_rivers_gg_39515348841_1646179561/chunked/index-dvr.m3u8"
+url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/cf7b5cc374c7fdf90e4e_rivers_gg_39522407545_1646349364/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "Demon's Souls, con Alva Majo"
-fecha = "02-03-2022"
-streamer = "5ro4"
-url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/e6a8adfde9d0e7751987_5ro4_45712429917_1646245047/chunked/index-dvr.m3u8"
+nombre = "🔴 CHARLAS + REACCIONES + JUEGUESITO NUEVO!!!  !redes !libro"
+fecha = "03-03-2022"
+streamer = "violetag"
+url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/cbc77df3bad5e8cb8ea3_violetag_45721215293_1646316025/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "BOLETÍN DIARIO GUERRA RUSO - UCRANIANA"
-fecha = "02-03-2022"
-streamer = "descifrandolaguerra"
-url_vid = "https://dqrpb9wgowsf5.cloudfront.net/eba1bb9b3cad880fb731_descifrandolaguerra_40586835163_1646255055/chunked/index-dvr.m3u8"
-main(nombre, fecha, streamer, url_vid)
-
-nombre = "Un poco de orden en Vim y luego nos metemos de lleno en TypeScript otra vez"
-fecha = "02-03-2022"
-streamer = "danirod_"
-url_vid = "https://dqrpb9wgowsf5.cloudfront.net/1a8298a99ea173811574_danirod__40586593899_1646247672/chunked/index-dvr.m3u8"
-main(nombre, fecha, streamer, url_vid)
-
-nombre = "HOY TENGO MUCHOS AMAS! YUPIIII! "
-fecha = "02-03-2022"
-streamer = "raedtoken"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/c295547d1327b0e5b407_raedtoken_44854869580_1646240490/chunked/index-dvr.m3u8"
+nombre = "Rust | Neovim | Rewriting a bunch of tests"
+fecha = "03-03-2022"
+streamer = "togglebit"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/0a90d74580e250f075f8_togglebit_44861188556_1646301965/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
