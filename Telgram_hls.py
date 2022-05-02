@@ -259,20 +259,20 @@ def main(nom_vid: str, fecha_vid: str, stream_vid: str, url_vid: str):
     os.rmdir("ts")
     crearTxtProp("./" + dir_vid + "/")
 
-nombre = "RIVERS LA TRAILERA LES CONTESTA LAS PREGUNTAS QUE NO LOS DEJAN DORMIR"
-fecha = "03-03-2022"
-streamer = "rivers_gg"
-url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/cf7b5cc374c7fdf90e4e_rivers_gg_39522407545_1646349364/chunked/index-dvr.m3u8"
+nombre = "PVPS CON SUSCRIPTORES Y SEGUIDORES 🥵 || !discord !pvp !redes !tiktok"
+fecha = "04-03-2022"
+streamer = "juanbethencourt"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/1849b5a7b7ebc4ad13ea_juanbethencourt_44867166220_1646354068/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "🔴 CHARLAS + REACCIONES + JUEGUESITO NUEVO!!!  !redes !libro"
-fecha = "03-03-2022"
-streamer = "violetag"
-url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/cbc77df3bad5e8cb8ea3_violetag_45721215293_1646316025/chunked/index-dvr.m3u8"
+nombre = "MI OPINION SOBRE EL CONFLICTO RUSO-UCRANIANO."
+fecha = "04-03-2022"
+streamer = "gafe423_oficial"
+url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/b4eb6170f7e07c47525f_gafe423_oficial_45726982189_1646357319/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "Rust | Neovim | Rewriting a bunch of tests"
-fecha = "03-03-2022"
-streamer = "togglebit"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/0a90d74580e250f075f8_togglebit_44861188556_1646301965/chunked/index-dvr.m3u8"
+nombre = "HackTheBox | Chaos"
+fecha = "04-03-2022"
+streamer = "s4vitaar"
+url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/239077b478f58ac27ce0_s4vitaar_45734758813_1646423935/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
