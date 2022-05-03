@@ -259,20 +259,20 @@ def main(nom_vid: str, fecha_vid: str, stream_vid: str, url_vid: str):
     os.rmdir("ts")
     crearTxtProp("./" + dir_vid + "/")
 
-nombre = "PVPS CON SUSCRIPTORES Y SEGUIDORES 🥵 || !discord !pvp !redes !tiktok"
-fecha = "04-03-2022"
-streamer = "juanbethencourt"
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/1849b5a7b7ebc4ad13ea_juanbethencourt_44867166220_1646354068/chunked/index-dvr.m3u8"
+nombre = "Solicitudes de desbaneo e integrantes Juaniquilacopa Beer Pong 🍺"
+fecha = "05-03-2022"
+streamer = "juansguarnizo"
+url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/49cfd02e2329e3493d32_juansguarnizo_45747461021_1646510519/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "MI OPINION SOBRE EL CONFLICTO RUSO-UCRANIANO."
-fecha = "04-03-2022"
-streamer = "gafe423_oficial"
-url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/b4eb6170f7e07c47525f_gafe423_oficial_45726982189_1646357319/chunked/index-dvr.m3u8"
+nombre = "SABADO COMO LOS DE ANTES ⚡⚡⚡ HOY DIRECTO SIN HORA "
+fecha = "05-03-2022"
+streamer = "kikorivera"
+url_vid = "https://dqrpb9wgowsf5.cloudfront.net/a772219a0e978ba2b1f6_kikorivera_40594731643_1646474472/chunked/index-muted-71EAA6AEZ2.m3u8"
 main(nombre, fecha, streamer, url_vid)
 
-nombre = "HackTheBox | Chaos"
-fecha = "04-03-2022"
-streamer = "s4vitaar"
-url_vid = "https://d2vjef5jvl6bfs.cloudfront.net/239077b478f58ac27ce0_s4vitaar_45734758813_1646423935/chunked/index-dvr.m3u8"
+nombre = "Rust | Neovim | Poking at the widget tree hoping some widgets will fall out"
+fecha = "05-03-2022"
+streamer = "togglebit"
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/7d0a04aa950a57564937_togglebit_44878815676_1646474850/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
